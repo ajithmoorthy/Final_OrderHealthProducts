@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="40311" started-at="2019-09-16T14:24:49Z" finished-at="2019-09-16T14:25:30Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="40311" started-at="2019-09-16T14:24:49Z" finished-at="2019-09-16T14:25:30Z">
+      <class name="org.atmecs.practo.testscripts.PractoHomepage">
+        <test-method status="PASS" signature="startReport()[pri:0, instance:org.atmecs.practo.testscripts.PractoHomepage@737996a0]" name="startReport" is-config="true" duration-ms="280" started-at="2019-09-16T14:24:49Z" finished-at="2019-09-16T14:24:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startReport -->
+        <test-method status="PASS" signature="baseSetup()[pri:0, instance:org.atmecs.practo.testscripts.PractoHomepage@737996a0]" name="baseSetup" is-config="true" duration-ms="8253" started-at="2019-09-16T14:24:49Z" finished-at="2019-09-16T14:24:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- baseSetup -->
+        <test-method status="PASS" signature="practoHome(java.lang.String)[pri:0, instance:org.atmecs.practo.testscripts.PractoHomepage@737996a0]" name="practoHome" duration-ms="4043" started-at="2019-09-16T14:24:59Z" data-provider="pharmacy" finished-at="2019-09-16T14:25:03Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Practo | Book Doctor Appointments Online, Order Medicine, Diagnostic Tests, Consult]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- practoHome -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:org.atmecs.practo.testscripts.PractoHomepage@737996a0]" name="tearDown" is-config="true" duration-ms="570" started-at="2019-09-16T14:25:03Z" finished-at="2019-09-16T14:25:03Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=practoHome status=SUCCESS method=PractoHomepage.practoHome(java.lang.String)[pri:0, instance:org.atmecs.practo.testscripts.PractoHomepage@737996a0] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="practoPage(java.lang.String, java.lang.String)[pri:1, instance:org.atmecs.practo.testscripts.PractoHomepage@737996a0]" name="practoPage" duration-ms="8335" started-at="2019-09-16T14:25:03Z" data-provider="practoPage" finished-at="2019-09-16T14:25:12Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Buy Medicines,Health Products Online | India's Most Reliable Online Medical Store | Practo]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Pain relief Products: Buy Online at Best Prices in India | Practo]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- practoPage -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:org.atmecs.practo.testscripts.PractoHomepage@737996a0]" name="tearDown" is-config="true" duration-ms="700" started-at="2019-09-16T14:25:12Z" finished-at="2019-09-16T14:25:12Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=practoPage status=SUCCESS method=PractoHomepage.practoPage(java.lang.String, java.lang.String)[pri:1, instance:org.atmecs.practo.testscripts.PractoHomepage@737996a0] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="painRelief(java.lang.String, java.lang.String)[pri:2, instance:org.atmecs.practo.testscripts.PractoHomepage@737996a0]" name="painRelief" duration-ms="10085" started-at="2019-09-16T14:25:13Z" data-provider="painReliefPage" finished-at="2019-09-16T14:25:23Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://www.practo.com/health-products/pain-relief/l]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Fitness & Wellness Products: Buy Online at Best Prices in India | Practo]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- painRelief -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:org.atmecs.practo.testscripts.PractoHomepage@737996a0]" name="tearDown" is-config="true" duration-ms="432" started-at="2019-09-16T14:25:23Z" finished-at="2019-09-16T14:25:23Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=painRelief status=SUCCESS method=PractoHomepage.painRelief(java.lang.String, java.lang.String)[pri:2, instance:org.atmecs.practo.testscripts.PractoHomepage@737996a0] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="cartPage(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:3, instance:org.atmecs.practo.testscripts.PractoHomepage@737996a0]" name="cartPage" duration-ms="6185" started-at="2019-09-16T14:25:23Z" data-provider="cartPage" finished-at="2019-09-16T14:25:29Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[B-Protin Powder Chocolate 200 g]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[229]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Apollo Pharmacy Slim Choice Shake Strawberry 500g]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[495]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[724]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[495]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[Apollo Pharmacy Slimchoice Shake Strawberry Flavour Powder]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cartPage -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:org.atmecs.practo.testscripts.PractoHomepage@737996a0]" name="tearDown" is-config="true" duration-ms="404" started-at="2019-09-16T14:25:29Z" finished-at="2019-09-16T14:25:30Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=cartPage status=SUCCESS method=PractoHomepage.cartPage(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:3, instance:org.atmecs.practo.testscripts.PractoHomepage@737996a0] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="endReport()[pri:0, instance:org.atmecs.practo.testscripts.PractoHomepage@737996a0]" name="endReport" is-config="true" duration-ms="1916" started-at="2019-09-16T14:25:30Z" finished-at="2019-09-16T14:25:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+      </class> <!-- org.atmecs.practo.testscripts.PractoHomepage -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

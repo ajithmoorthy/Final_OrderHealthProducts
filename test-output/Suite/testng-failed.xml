@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <test thread-count="5" name="Test(failed)">
+    <classes>
+      <class name="org.atmecs.practo.testscripts.PractoHomepage">
+        <methods>
+          <include name="tearDown"/>
+          <include name="painRelief"/>
+          <include name="endReport"/>
+          <include name="baseSetup"/>
+          <include name="cartPage"/>
+          <include name="startReport"/>
+        </methods>
+      </class> <!-- org.atmecs.practo.testscripts.PractoHomepage -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
