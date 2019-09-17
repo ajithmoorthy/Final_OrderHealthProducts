@@ -1,5 +1,6 @@
 package org.atmecs.practo.testbase;
 
+import java.io.File;
 import java.io.IOException;
 import java.util.Properties;
 
@@ -8,7 +9,6 @@ import org.atmecs.practo.extentreports.Extent;
 import org.atmecs.practo.reports.LogReporter;
 import org.atmecs.practo.utils.ExcelReader;
 import org.atmecs.practo.utils.PropertiesReader;
-import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.edge.EdgeDriver;
@@ -32,17 +32,20 @@ public class TestBase extends Extent {
 		Properties prop = propread.property(FileConstants.config_file);
 		switch (prop.getProperty("webdrivername")) {
 		case "chrome":
+			System.setProperty("webdriver.chrome.driver", FileConstants.chromefile);
 			ChromeOptions chromeoptions = new ChromeOptions();
 			chromeoptions.addArguments("--disable-notifications");
-			System.setProperty("webdriver.chrome.driver", FileConstants.chromefile);
+			chromeoptions.addArguments("disable-geolocation");
 			driver = new ChromeDriver(chromeoptions);
 			log.logReport("Open chorme browser");
 			break;
 		case "firefox":
-			FirefoxOptions firefoxop = new FirefoxOptions();
-			firefoxop.addArguments("--disable-notifications");
 			System.setProperty("webdriver.gecko.driver", FileConstants.firefoxfile);
-			driver = new FirefoxDriver(firefoxop);
+			FirefoxOptions profile = new FirefoxOptions();
+			profile.addPreference("dom.webnotifications.enabled", false);
+			profile.addPreference("geo.enabled", false);
+	        profile.addPreference("geo.provider.use_corelocation", false);
+			driver = new FirefoxDriver(profile);
 			log.logReport("Open firefox browser");
 			break;
 		case "Ie":

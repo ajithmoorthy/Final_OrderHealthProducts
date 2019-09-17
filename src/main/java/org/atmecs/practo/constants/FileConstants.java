@@ -3,7 +3,7 @@ package org.atmecs.practo.constants;
  * and the file location is access is make easier using this class */
 public class FileConstants {
 	//creating file constants for the config properties file paths
-	public static final String config_file = "./src/test/resources/testdata/config.properties";
+	public static final String config_file = "./src/test/resources/testdata/config/config.properties";
 	
 
 	public static final String cartdata_file="./src/test/resources/testdata/carttestdata.xlsx";
@@ -25,7 +25,7 @@ public class FileConstants {
 	
 	//creating file constants for the extend report file paths
 	public static final String extentfile ="./src/test/resources/extent/extent.html";
-	public static final String pngfile="./src/test/resources/extent/"+System.currentTimeMillis()+".png";
+	public static final String pngfile=System.getProperty("user.dir")+"/src/test/resources/extent/screenshot/";
 	public static final String extentconfigfile ="./src/test/resources/extent/extent-config.xml";
 	
 	//creating the file path constants for the pages
@@ -33,4 +33,5 @@ public class FileConstants {
 	public static final String cartpage_file="./src/test/resources/locators/cartpage.properties";
 	public static final String painreliefpage_file="./src/test/resources/locators/painrelief.properties";
 	public static final String practopage_file="./src/test/resources/locators/practopage.properties";
+	
 	}

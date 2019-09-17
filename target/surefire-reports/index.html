@@ -24,7 +24,7 @@
     <div class="top-banner-root">
       <span class="top-banner-title-font">Test results</span>
       <br/>
-      <span class="top-banner-font-1">1 suite</span>
+      <span class="top-banner-font-1">1 suite, 1 failed test</span>
     </div> <!-- top-banner-root -->
     <div class="navigator-root">
       <div class="navigator-suite-header">
@@ -38,7 +38,7 @@
         <div class="rounded-window">
           <div class="suite-header light-rounded-window-top">
             <a href="#" class="navigator-link" panel-name="suite-Suite">
-              <span class="suite-name border-passed">Suite</span>
+              <span class="suite-name border-failed">Suite</span>
             </a> <!-- navigator-link -->
           </div> <!-- suite-header light-rounded-window-top -->
           <div class="navigator-suite-content">
@@ -91,7 +91,21 @@
               <div class="suite-section-content">
                 <ul>
                   <li>
-                    <span class="method-stats">4 methods,   4 passed</span>
+                    <span class="method-stats">4 methods, 1 failed,   3 passed</span>
+                  </li>
+                  <li>
+                    <span class="method-list-title failed">Failed methods</span>
+                    <span class="show-or-hide-methods failed">
+                      <a href="#" panel-name="suite-Suite" class="hide-methods failed suite-Suite"> (hide)</a> <!-- hide-methods failed suite-Suite -->
+                      <a href="#" panel-name="suite-Suite" class="show-methods failed suite-Suite"> (show)</a> <!-- show-methods failed suite-Suite -->
+                    </span>
+                    <div class="method-list-content failed suite-Suite">
+                      <span>
+                        <img width="3%" src="failed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Suite" title="org.atmecs.practo.testscripts.PractoHomepage" hash-for-method="cartPage(B-Protin Powder Chocolate 200 g, 229, 1, Apollo Pharmacy Slim Choice Shake Strawberry 500g, 495, 1, ...)">cartPage(B-Protin Powder Chocolate 200 g, 229, 1, Apollo Pharmacy Slim Choice Shake Strawberry 500g, 495, 1, ...)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                    </div> <!-- method-list-content failed suite-Suite -->
                   </li>
                   <li>
                     <span class="method-list-title passed">Passed methods</span>
@@ -100,11 +114,6 @@
                       <a href="#" panel-name="suite-Suite" class="show-methods passed suite-Suite"> (show)</a> <!-- show-methods passed suite-Suite -->
                     </span>
                     <div class="method-list-content passed suite-Suite">
-                      <span>
-                        <img width="3%" src="passed.png"/>
-                        <a href="#" class="method navigator-link" panel-name="suite-Suite" title="org.atmecs.practo.testscripts.PractoHomepage" hash-for-method="cartPage(B-Protin Powder Chocolate 200 g, 229, 1, Apollo Pharmacy Slim Choice Shake Strawberry 500g, 495, 1, ...)">cartPage(B-Protin Powder Chocolate 200 g, 229, 1, Apollo Pharmacy Slim Choice Shake Strawberry 500g, 495, 1, ...)</a> <!-- method navigator-link -->
-                      </span>
-                      <br/>
                       <span>
                         <img width="3%" src="passed.png"/>
                         <a href="#" class="method navigator-link" panel-name="suite-Suite" title="org.atmecs.practo.testscripts.PractoHomepage" hash-for-method="painRelief(https://www.practo.com/health-products/pain-relief/l, Fitness &amp; Wellness Products: Buy Online at Bes...)">painRelief(https://www.practo.com/health-products/pain-relief/l, Fitness & Wellness Products: Buy Online at Bes...)</a> <!-- method navigator-link -->
@@ -132,9 +141,9 @@
     <div class="wrapper">
       <div class="main-panel-root">
         <div panel-name="suite-Suite" class="panel Suite">
-          <div class="suite-Suite-class-passed">
+          <div class="suite-Suite-class-failed">
             <div class="main-panel-header rounded-window-top">
-              <img src="passed.png"/>
+              <img src="failed.png"/>
               <span class="class-name">org.atmecs.practo.testscripts.PractoHomepage</span>
             </div> <!-- main-panel-header rounded-window-top -->
             <div class="main-panel-content rounded-window-bottom">
@@ -143,15 +152,42 @@
                   <a name="cartPage(B-Protin Powder Chocolate 200 g, 229, 1, Apollo Pharmacy Slim Choice Shake Strawberry 500g, 495, 1, ...)">
                   </a> <!-- cartPage(B-Protin Powder Chocolate 200 g, 229, 1, Apollo Pharmacy Slim Choice Shake Strawberry 500g, 495, 1, ...) -->
                   <span class="method-name">cartPage</span>
-                  <span class="parameters">(B-Protin Powder Chocolate 200 g, 229, 1, Apollo Pharmacy Slim Choice Shake Strawberry 500g, 495, 1, 724, 495, Apollo Pharmacy Slimchoice Shake Strawberry Flavour Powder)</span>
+                  <span class="parameters">(B-Protin Powder Chocolate 200 g, 229, 1, Apollo Pharmacy Slim Choice Shake Strawberry 500g, 495, 1, 724, 495, Apollo Pharmacy Slimchoice Shake Strawberry Flavour Powder, Hyd)</span>
+                  <div class="stack-trace">org.openqa.selenium.ElementClickInterceptedException: Element &lt;div class=&quot;u-columns u-four u-text--center bg-white text-azure-two u-cursor--pointer heading-beta&quot;&gt; is not clickable at point (941,289) because another element &lt;div class=&quot;d-modal-w d-modal-w--no-animate d-modal-child--animate d-modal-child--animate-left d-modal-w--open&quot;&gt; obscures it
+Build info: version: &apos;4.0.0-alpha-2&apos;, revision: &apos;f148142cf8&apos;, time: &apos;2019-07-01T20:55:26&apos;
+System info: host: &apos;ATMECSINLT-085&apos;, ip: &apos;55.55.53.104&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_221&apos;
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 69.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20190827005903, moz:geckodriverVersion: 0.24.0, moz:headless: false, moz:processID: 18044, moz:profile: C:\Users\ajith.periyasamy\A..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 10082ebc-b89e-44a2-912e-cc63b370f678
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:191)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:125)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:52)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:161)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:576)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:308)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:83)
+	at org.atmecs.practo.helper.PractoHelper.clickElement(PractoHelper.java:30)
+	at org.atmecs.practo.pages.CartPage.cartPage(CartPage.java:41)
+	at org.atmecs.practo.testscripts.PractoHomepage.cartPage(PractoHomepage.java:133)
+... Removed 33 stack frames
+</div> <!-- stack-trace -->
                 </div> <!-- method-content -->
               </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-Suite-class-failed -->
+          <div class="suite-Suite-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
+              <span class="class-name">org.atmecs.practo.testscripts.PractoHomepage</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
               <div class="method">
                 <div class="method-content">
                   <a name="painRelief(https://www.practo.com/health-products/pain-relief/l, Fitness &amp; Wellness Products: Buy Online at Bes...)">
                   </a> <!-- painRelief(https://www.practo.com/health-products/pain-relief/l, Fitness & Wellness Products: Buy Online at Bes...) -->
                   <span class="method-name">painRelief</span>
-                  <span class="parameters">(https://www.practo.com/health-products/pain-relief/l, Fitness & Wellness Products: Buy Online at Best Prices in India | Practo)</span>
+                  <span class="parameters">(https://www.practo.com/health-products/pain-relief/l, Fitness & Wellness Products: Buy Online at Best Prices in India | Practo, "Order Medicines Online | India's most reliable medical store | Practo")</span>
                 </div> <!-- method-content -->
               </div> <!-- method -->
               <div class="method">
@@ -228,24 +264,24 @@ data.addRows(4);
 data.setCell(0, 0, 0)
 data.setCell(0, 1, 'painRelief')
 data.setCell(0, 2, 'org.atmecs.practo.testscripts.PractoHomepage')
-data.setCell(0, 3, 10085);
+data.setCell(0, 3, 6630);
 data.setCell(1, 0, 1)
-data.setCell(1, 1, 'practoPage')
+data.setCell(1, 1, 'cartPage')
 data.setCell(1, 2, 'org.atmecs.practo.testscripts.PractoHomepage')
-data.setCell(1, 3, 8335);
+data.setCell(1, 3, 6187);
 data.setCell(2, 0, 2)
-data.setCell(2, 1, 'cartPage')
+data.setCell(2, 1, 'practoPage')
 data.setCell(2, 2, 'org.atmecs.practo.testscripts.PractoHomepage')
-data.setCell(2, 3, 6185);
+data.setCell(2, 3, 5137);
 data.setCell(3, 0, 3)
 data.setCell(3, 1, 'practoHome')
 data.setCell(3, 2, 'org.atmecs.practo.testscripts.PractoHomepage')
-data.setCell(3, 3, 4043);
+data.setCell(3, 3, 5105);
 window.suiteTableData['Suite']= { tableData: data, tableDiv: 'times-div-Suite'}
 return data;
 }
               </script>
-              <span class="suite-total-time">Total running time: 28 seconds</span>
+              <span class="suite-total-time">Total running time: 23 seconds</span>
               <div id="times-div-Suite">
               </div> <!-- times-div-Suite -->
             </div> <!-- times-div -->
@@ -278,43 +314,45 @@ return data;
               </div> <!-- configuration-suite before -->
               <div class="configuration-test before">
                 <span class="method-name">baseSetup</span>
-                <span class="method-start">280 ms</span>
+                <span class="method-start">273 ms</span>
               </div> <!-- configuration-test before -->
               <div class="test-method">
                 <span class="method-name">practoHome(Practo | Book Doctor Appointments Online, Order Medicine, Diagnostic Tests, Consult)</span>
-                <span class="method-start">9633 ms</span>
+                <span class="method-start">11119 ms</span>
               </div> <!-- test-method -->
               <div class="configuration-method after">
                 <span class="method-name">tearDown([TestResult name=practoHome status=SUCCESS method=PractoHomepage.practoHome(java.lang.String)[pri:0,...)</span>
-                <span class="method-start">13676 ms</span>
+                <span class="method-start">16226 ms</span>
               </div> <!-- configuration-method after -->
               <div class="test-method">
                 <span class="method-name">practoPage(Buy Medicines,Health Products Online | India's Most Reliable Online Medical Store | Practo, Pain rel...)</span>
-                <span class="method-start">14298 ms</span>
+                <span class="method-start">16774 ms</span>
               </div> <!-- test-method -->
               <div class="configuration-method after">
                 <span class="method-name">tearDown([TestResult name=practoPage status=SUCCESS method=PractoHomepage.practoPage(java.lang.String, java.l...)</span>
-                <span class="method-start">22637 ms</span>
+                <span class="method-start">21911 ms</span>
               </div> <!-- configuration-method after -->
               <div class="test-method">
                 <span class="method-name">painRelief(https://www.practo.com/health-products/pain-relief/l, Fitness & Wellness Products: Buy Online at Bes...)</span>
-                <span class="method-start">23445 ms</span>
+                <span class="method-start">22288 ms</span>
               </div> <!-- test-method -->
               <div class="configuration-method after">
                 <span class="method-name">tearDown([TestResult name=painRelief status=SUCCESS method=PractoHomepage.painRelief(java.lang.String, java.l...)</span>
-                <span class="method-start">33530 ms</span>
+                <span class="method-start">28918 ms</span>
               </div> <!-- configuration-method after -->
               <div class="test-method">
+                <img src="failed.png">
+                </img>
                 <span class="method-name">cartPage(B-Protin Powder Chocolate 200 g, 229, 1, Apollo Pharmacy Slim Choice Shake Strawberry 500g, 495, 1, ...)</span>
-                <span class="method-start">34002 ms</span>
+                <span class="method-start">29169 ms</span>
               </div> <!-- test-method -->
               <div class="configuration-method after">
-                <span class="method-name">tearDown([TestResult name=cartPage status=SUCCESS method=PractoHomepage.cartPage(java.lang.String, java.lang....)</span>
-                <span class="method-start">40187 ms</span>
+                <span class="method-name">tearDown([TestResult name=cartPage status=FAILURE method=PractoHomepage.cartPage(java.lang.String, java.lang....)</span>
+                <span class="method-start">35379 ms</span>
               </div> <!-- configuration-method after -->
               <div class="configuration-suite after">
                 <span class="method-name">endReport</span>
-                <span class="method-start">40635 ms</span>
+                <span class="method-start">35518 ms</span>
               </div> <!-- configuration-suite after -->
           </div> <!-- main-panel-content rounded-window-bottom -->
         </div> <!-- panel -->

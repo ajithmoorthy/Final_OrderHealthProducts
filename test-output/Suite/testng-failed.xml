@@ -6,10 +6,9 @@
       <class name="org.atmecs.practo.testscripts.PractoHomepage">
         <methods>
           <include name="tearDown"/>
-          <include name="painRelief"/>
           <include name="endReport"/>
           <include name="baseSetup"/>
-          <include name="cartPage"/>
+          <include name="cartPage" invocation-numbers="0"/>
           <include name="startReport"/>
         </methods>
       </class> <!-- org.atmecs.practo.testscripts.PractoHomepage -->

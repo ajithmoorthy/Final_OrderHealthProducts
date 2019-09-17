@@ -1,4 +1,14 @@
 -------------------------------------------------------------------------------
 Test set: TestSuite
 -------------------------------------------------------------------------------
-Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 43.672 s - in TestSuite
+Tests run: 4, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 40.8 s <<< FAILURE! - in TestSuite
+cartPage(org.atmecs.practo.testscripts.PractoHomepage)  Time elapsed: 6.207 s  <<< FAILURE!
+org.openqa.selenium.ElementClickInterceptedException: 
+Element <div class="u-columns u-four u-text--center bg-white text-azure-two u-cursor--pointer heading-beta"> is not clickable at point (941,289) because another element <div class="d-modal-w d-modal-w--no-animate d-modal-child--animate d-modal-child--animate-left d-modal-w--open"> obscures it
+Build info: version: '4.0.0-alpha-2', revision: 'f148142cf8', time: '2019-07-01T20:55:26'
+System info: host: 'ATMECSINLT-085', ip: '55.55.53.104', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_221'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 69.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20190827005903, moz:geckodriverVersion: 0.24.0, moz:headless: false, moz:processID: 18044, moz:profile: C:\Users\ajith.periyasamy\A..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 10082ebc-b89e-44a2-912e-cc63b370f678
+	at org.atmecs.practo.testscripts.PractoHomepage.cartPage(PractoHomepage.java:133)
+

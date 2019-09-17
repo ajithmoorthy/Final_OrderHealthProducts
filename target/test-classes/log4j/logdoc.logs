@@ -1625,3 +1625,1720 @@
 2019-09-16 19:55:24 INFO  LogReporter:18 - Successfully verified the Product count :1
 2019-09-16 19:55:24 INFO  LogReporter:18 - Successfully verified the total payment :724
 2019-09-16 19:55:24 INFO  LogReporter:18 - Successfully validated the cart details
+2019-09-16 19:55:29 INFO  LogReporter:18 - Successfully verified the Product Name :Apollo Pharmacy Slim Choice Shake Strawberry 500g
+2019-09-16 19:55:29 INFO  LogReporter:18 - Successfully verified the Product Price :495
+2019-09-16 19:55:29 INFO  LogReporter:18 - Successfully verified the Product count :1
+2019-09-16 19:55:29 INFO  LogReporter:18 - Successfully the product is removed
+2019-09-16 19:55:29 INFO  LogReporter:18 - Successfully verified the total payment :495
+2019-09-16 19:55:29 INFO  LogReporter:18 - Successfully validated the cart details after remove the product
+2019-09-16 19:55:29 INFO  LogReporter:18 - Navigated to Cart page and Successfully validated items after add and remove the product
+2019-09-16 19:55:29 INFO  LogReporter:18 - Driver is closed Successfully
+2019-09-16 19:55:31 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-16 19:55:31 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-16 19:55:31 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-16 19:55:31 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-16 19:55:31 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-16 19:55:31 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-16 19:55:31 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-16 19:55:31 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-16 19:55:31 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-16 19:55:31 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-17 10:19:28 INFO  LogReporter:18 - Open chorme browser
+2019-09-17 10:19:41 INFO  LogReporter:18 - Document title is validated Buy Medicines,Health Products Online | India's Most Reliable Online Medical Store | Practo
+2019-09-17 10:19:41 INFO  LogReporter:18 - Successfully Navigated to the Pharmacy webpage
+2019-09-17 10:19:42 INFO  LogReporter:18 - Click the to painrelief image link
+2019-09-17 10:19:42 INFO  LogReporter:18 - Close the previous window
+2019-09-17 10:19:42 INFO  LogReporter:18 - Successfully navigated to pain relief Page
+2019-09-17 10:19:43 INFO  LogReporter:18 - Successfully Navigated to the painrelief webpage
+2019-09-17 10:19:47 INFO  LogReporter:18 - Successfully Validated the correct Url is :https://www.practo.com/health-products/pain-relief/l
+2019-09-17 10:19:49 INFO  LogReporter:18 - Navigate to the webpage fitness & wellness through left panel
+2019-09-17 10:19:49 INFO  LogReporter:18 - Document title is validated :Fitness & Wellness Products: Buy Online at Best Prices in India | Practo
+2019-09-17 10:19:50 INFO  LogReporter:18 - Successfully products added to the cart
+2019-09-17 10:19:51 INFO  LogReporter:18 - Click the View cart link button
+2019-09-17 10:19:51 INFO  LogReporter:18 - navigated to firness and wellness page and Successfully add to items in protein suppliments
+2019-09-17 10:19:52 INFO  LogReporter:18 - Successfully navigated to the cart
+2019-09-17 10:19:52 INFO  LogReporter:18 - Successfully verified the Product Name :B-Protin Powder Chocolate 200 g
+2019-09-17 10:19:52 INFO  LogReporter:18 - Successfully verified the Product Name :Apollo Pharmacy Slimchoice Shake Strawberry Flavour Powder
+2019-09-17 10:19:52 INFO  LogReporter:18 - Successfully verified the Product Price :495
+2019-09-17 10:19:53 INFO  LogReporter:18 - Successfully verified the Product count :1
+2019-09-17 10:19:53 INFO  LogReporter:18 - Successfully verified the total payment :724
+2019-09-17 10:19:53 INFO  LogReporter:18 - Successfully validated the cart details
+2019-09-17 10:19:57 INFO  LogReporter:18 - Successfully verified the Product Name :Apollo Pharmacy Slim Choice Shake Strawberry 500g
+2019-09-17 10:19:57 INFO  LogReporter:18 - Successfully verified the Product Price :495
+2019-09-17 10:19:57 INFO  LogReporter:18 - Successfully verified the Product count :1
+2019-09-17 10:19:57 INFO  LogReporter:18 - Successfully the product is removed
+2019-09-17 10:19:57 INFO  LogReporter:18 - Successfully verified the total payment :495
+2019-09-17 10:19:57 INFO  LogReporter:18 - Successfully validated the cart details after remove the product
+2019-09-17 10:19:58 INFO  LogReporter:18 - Navigated to Cart page and Successfully validated items after add and remove the product
+2019-09-17 10:19:58 INFO  LogReporter:18 - Driver is closed Successfully
+2019-09-17 10:19:59 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-17 10:19:59 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-17 10:19:59 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-17 10:19:59 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-17 10:19:59 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-17 10:20:00 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-17 10:20:00 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-17 10:20:00 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-17 10:20:00 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-17 10:20:00 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-17 10:31:01 INFO  LogReporter:18 - Open chorme browser
+2019-09-17 10:31:14 INFO  LogReporter:18 - Document title is validated Buy Medicines,Health Products Online | India's Most Reliable Online Medical Store | Practo
+2019-09-17 10:31:14 INFO  LogReporter:18 - Successfully Navigated to the Pharmacy webpage
+2019-09-17 10:31:14 INFO  LogReporter:18 - Click the to painrelief image link
+2019-09-17 10:31:14 INFO  LogReporter:18 - Close the previous window
+2019-09-17 10:31:14 INFO  LogReporter:18 - Successfully navigated to pain relief Page
+2019-09-17 10:31:15 INFO  LogReporter:18 - Successfully Navigated to the painrelief webpage
+2019-09-17 10:31:19 INFO  LogReporter:18 - Successfully Validated the correct Url is :https://www.practo.com/health-products/pain-relief/l
+2019-09-17 10:31:21 INFO  LogReporter:18 - Navigate to the webpage fitness & wellness through left panel
+2019-09-17 10:31:21 INFO  LogReporter:18 - Document title is validated :Fitness & Wellness Products: Buy Online at Best Prices in India | Practo
+2019-09-17 10:31:22 INFO  LogReporter:18 - Successfully products added to the cart
+2019-09-17 10:31:24 INFO  LogReporter:18 - Click the View cart link button
+2019-09-17 10:31:24 INFO  LogReporter:18 - navigated to firness and wellness page and Successfully add to items in protein suppliments
+2019-09-17 10:31:24 INFO  LogReporter:18 - Successfully navigated to the cart
+2019-09-17 10:31:24 INFO  LogReporter:18 - Successfully verified the Product Name :B-Protin Powder Chocolate 200 g
+2019-09-17 10:31:25 INFO  LogReporter:18 - Successfully verified the Product Name :Apollo Pharmacy Slimchoice Shake Strawberry Flavour Powder
+2019-09-17 10:31:25 INFO  LogReporter:18 - Successfully verified the Product Price :495
+2019-09-17 10:31:25 INFO  LogReporter:18 - Successfully verified the Product count :1
+2019-09-17 10:31:25 INFO  LogReporter:18 - Successfully verified the total payment :724
+2019-09-17 10:31:25 INFO  LogReporter:18 - Successfully validated the cart details
+2019-09-17 10:31:30 INFO  LogReporter:18 - Successfully verified the Product Name :Apollo Pharmacy Slim Choice Shake Strawberry 500g
+2019-09-17 10:31:30 INFO  LogReporter:18 - Successfully verified the Product Price :495
+2019-09-17 10:31:30 INFO  LogReporter:18 - Successfully verified the Product count :1
+2019-09-17 10:31:30 INFO  LogReporter:18 - Successfully the product is removed
+2019-09-17 10:31:30 INFO  LogReporter:18 - Successfully verified the total payment :495
+2019-09-17 10:31:30 INFO  LogReporter:18 - Successfully validated the cart details after remove the product
+2019-09-17 10:31:30 INFO  LogReporter:18 - Navigated to Cart page and Successfully validated items after add and remove the product
+2019-09-17 10:31:30 INFO  LogReporter:18 - Driver is closed Successfully
+2019-09-17 10:31:32 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-17 10:31:32 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-17 10:31:32 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-17 10:31:32 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-17 10:31:32 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-17 10:31:32 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-17 10:31:32 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-17 10:31:32 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-17 10:31:32 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-17 10:31:32 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-17 10:41:19 INFO  LogReporter:18 - Open chorme browser
+2019-09-17 10:41:31 INFO  LogReporter:18 - Document title is validated Buy Medicines,Health Products Online | India's Most Reliable Online Medical Store | Practo
+2019-09-17 10:41:31 INFO  LogReporter:18 - Successfully Navigated to the Pharmacy webpage
+2019-09-17 10:41:31 INFO  LogReporter:18 - Click the to painrelief image link
+2019-09-17 10:41:31 INFO  LogReporter:18 - Close the previous window
+2019-09-17 10:41:31 INFO  LogReporter:18 - Successfully navigated to pain relief Page
+2019-09-17 10:41:32 INFO  LogReporter:18 - Successfully Navigated to the painrelief webpage
+2019-09-17 10:41:36 INFO  LogReporter:18 - Successfully Validated the correct Url is :https://www.practo.com/health-products/pain-relief/l
+2019-09-17 10:41:38 INFO  LogReporter:18 - Navigate to the webpage fitness & wellness through left panel
+2019-09-17 10:41:38 INFO  LogReporter:18 - Document title is validated :Fitness & Wellness Products: Buy Online at Best Prices in India | Practo
+2019-09-17 10:41:39 INFO  LogReporter:18 - Successfully products added to the cart
+2019-09-17 10:41:40 INFO  LogReporter:18 - Click the View cart link button
+2019-09-17 10:41:40 INFO  LogReporter:18 - navigated to firness and wellness page and Successfully add to items in protein suppliments
+2019-09-17 10:41:41 INFO  LogReporter:18 - Successfully navigated to the cart
+2019-09-17 10:41:41 INFO  LogReporter:18 - Successfully verified the Product Name :B-Protin Powder Chocolate 200 g
+2019-09-17 10:41:41 INFO  LogReporter:18 - Successfully verified the Product Name :Apollo Pharmacy Slimchoice Shake Strawberry Flavour Powder
+2019-09-17 10:41:41 INFO  LogReporter:18 - Successfully verified the Product Price :495
+2019-09-17 10:41:42 INFO  LogReporter:18 - Successfully verified the Product count :1
+2019-09-17 10:41:42 INFO  LogReporter:18 - Successfully verified the total payment :724
+2019-09-17 10:41:42 INFO  LogReporter:18 - Successfully validated the cart details
+2019-09-17 10:41:46 INFO  LogReporter:18 - Successfully verified the Product Name :Apollo Pharmacy Slim Choice Shake Strawberry 500g
+2019-09-17 10:41:46 INFO  LogReporter:18 - Successfully verified the Product Price :495
+2019-09-17 10:41:46 INFO  LogReporter:18 - Successfully verified the Product count :1
+2019-09-17 10:41:46 INFO  LogReporter:18 - Successfully the product is removed
+2019-09-17 10:41:47 INFO  LogReporter:18 - Successfully verified the total payment :495
+2019-09-17 10:41:47 INFO  LogReporter:18 - Successfully validated the cart details after remove the product
+2019-09-17 10:41:47 INFO  LogReporter:18 - Navigated to Cart page and Successfully validated items after add and remove the product
+2019-09-17 10:41:47 INFO  LogReporter:18 - Driver is closed Successfully
+2019-09-17 10:41:48 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-17 10:41:48 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-17 10:41:48 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-17 10:41:48 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-17 10:41:48 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-17 10:41:49 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-17 10:41:49 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-17 10:41:49 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-17 10:41:49 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-17 10:41:49 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-17 10:47:52 INFO  LogReporter:18 - Open chorme browser
+2019-09-17 10:48:06 INFO  LogReporter:18 - Document title is validated Buy Medicines,Health Products Online | India's Most Reliable Online Medical Store | Practo
+2019-09-17 10:48:06 INFO  LogReporter:18 - Successfully Navigated to the Pharmacy webpage
+2019-09-17 10:48:12 INFO  LogReporter:18 - Click the to painrelief image link
+2019-09-17 10:48:12 INFO  LogReporter:18 - Close the previous window
+2019-09-17 10:48:12 INFO  LogReporter:18 - Successfully navigated to pain relief Page
+2019-09-17 10:48:13 INFO  LogReporter:18 - Successfully Navigated to the painrelief webpage
+2019-09-17 10:48:17 INFO  LogReporter:18 - Successfully Validated the correct Url is :https://www.practo.com/health-products/pain-relief/l
+2019-09-17 10:48:18 INFO  LogReporter:18 - Navigate to the webpage fitness & wellness through left panel
+2019-09-17 10:48:19 INFO  LogReporter:18 - Document title is validated :Fitness & Wellness Products: Buy Online at Best Prices in India | Practo
+2019-09-17 10:48:19 INFO  LogReporter:18 - Successfully products added to the cart
+2019-09-17 10:48:21 INFO  LogReporter:18 - Click the View cart link button
+2019-09-17 10:48:21 INFO  LogReporter:18 - navigated to firness and wellness page and Successfully add to items in protein suppliments
+2019-09-17 10:48:21 INFO  LogReporter:18 - Successfully navigated to the cart
+2019-09-17 10:48:21 INFO  LogReporter:18 - Successfully verified the Product Name :B-Protin Powder Chocolate 200 g
+2019-09-17 10:48:22 INFO  LogReporter:18 - Successfully verified the Product Name :Apollo Pharmacy Slimchoice Shake Strawberry Flavour Powder
+2019-09-17 10:48:22 INFO  LogReporter:18 - Successfully verified the Product Price :495
+2019-09-17 10:48:22 INFO  LogReporter:18 - Successfully verified the Product count :1
+2019-09-17 10:48:22 INFO  LogReporter:18 - Successfully verified the total payment :724
+2019-09-17 10:48:22 INFO  LogReporter:18 - Successfully validated the cart details
+2019-09-17 10:48:27 INFO  LogReporter:18 - Successfully verified the Product Name :Apollo Pharmacy Slim Choice Shake Strawberry 500g
+2019-09-17 10:48:27 INFO  LogReporter:18 - Successfully verified the Product Price :495
+2019-09-17 10:48:27 INFO  LogReporter:18 - Successfully verified the Product count :1
+2019-09-17 10:48:27 INFO  LogReporter:18 - Successfully the product is removed
+2019-09-17 10:48:27 INFO  LogReporter:18 - Successfully verified the total payment :495
+2019-09-17 10:48:27 INFO  LogReporter:18 - Successfully validated the cart details after remove the product
+2019-09-17 10:48:27 INFO  LogReporter:18 - Navigated to Cart page and Successfully validated items after add and remove the product
+2019-09-17 10:48:27 INFO  LogReporter:18 - Driver is closed Successfully
+2019-09-17 10:48:28 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-17 10:48:28 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-17 10:48:28 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-17 10:48:28 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-17 10:48:28 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-17 10:48:29 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-17 10:48:29 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-17 10:48:29 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-17 10:48:29 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-17 10:48:29 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-17 10:50:18 INFO  LogReporter:18 - Open chorme browser
+2019-09-17 10:50:30 INFO  LogReporter:18 - Document title is validated Buy Medicines,Health Products Online | India's Most Reliable Online Medical Store | Practo
+2019-09-17 10:50:30 INFO  LogReporter:18 - Successfully Navigated to the Pharmacy webpage
+2019-09-17 10:50:30 INFO  LogReporter:18 - Click the to painrelief image link
+2019-09-17 10:50:30 INFO  LogReporter:18 - Close the previous window
+2019-09-17 10:50:30 INFO  LogReporter:18 - Successfully navigated to pain relief Page
+2019-09-17 10:50:31 INFO  LogReporter:18 - Successfully Navigated to the painrelief webpage
+2019-09-17 10:50:35 INFO  LogReporter:18 - Successfully Validated the correct Url is :https://www.practo.com/health-products/pain-relief/l
+2019-09-17 10:50:37 INFO  LogReporter:18 - Navigate to the webpage fitness & wellness through left panel
+2019-09-17 10:50:37 INFO  LogReporter:18 - Document title is validated :Fitness & Wellness Products: Buy Online at Best Prices in India | Practo
+2019-09-17 10:50:38 INFO  LogReporter:18 - Successfully products added to the cart
+2019-09-17 10:50:39 INFO  LogReporter:18 - Click the View cart link button
+2019-09-17 10:50:39 INFO  LogReporter:18 - navigated to firness and wellness page and Successfully add to items in protein suppliments
+2019-09-17 10:50:40 INFO  LogReporter:18 - Successfully navigated to the cart
+2019-09-17 10:50:40 INFO  LogReporter:18 - Successfully verified the Product Name :B-Protin Powder Chocolate 200 g
+2019-09-17 10:50:40 INFO  LogReporter:18 - Successfully verified the Product Name :Apollo Pharmacy Slimchoice Shake Strawberry Flavour Powder
+2019-09-17 10:50:40 INFO  LogReporter:18 - Successfully verified the Product Price :495
+2019-09-17 10:50:40 INFO  LogReporter:18 - Successfully verified the Product count :1
+2019-09-17 10:50:40 INFO  LogReporter:18 - Successfully verified the total payment :724
+2019-09-17 10:50:40 INFO  LogReporter:18 - Successfully validated the cart details
+2019-09-17 10:50:45 INFO  LogReporter:18 - Successfully verified the Product Name :Apollo Pharmacy Slim Choice Shake Strawberry 500g
+2019-09-17 10:50:45 INFO  LogReporter:18 - Successfully verified the Product Price :495
+2019-09-17 10:50:45 INFO  LogReporter:18 - Successfully verified the Product count :1
+2019-09-17 10:50:45 INFO  LogReporter:18 - Successfully the product is removed
+2019-09-17 10:50:45 INFO  LogReporter:18 - Successfully verified the total payment :495
+2019-09-17 10:50:45 INFO  LogReporter:18 - Successfully validated the cart details after remove the product
+2019-09-17 10:50:45 INFO  LogReporter:18 - Navigated to Cart page and Successfully validated items after add and remove the product
+2019-09-17 10:50:45 INFO  LogReporter:18 - Driver is closed Successfully
+2019-09-17 10:50:47 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-17 10:50:47 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-17 10:50:47 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-17 10:50:47 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-17 10:50:47 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-17 10:50:47 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-17 10:50:47 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-17 10:50:47 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-17 10:50:47 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-17 10:50:47 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-17 10:56:47 INFO  LogReporter:18 - Open chorme browser
+2019-09-17 10:56:59 INFO  LogReporter:18 - Document title is validated Buy Medicines,Health Products Online | India's Most Reliable Online Medical Store | Practo
+2019-09-17 10:56:59 INFO  LogReporter:18 - Successfully Navigated to the Pharmacy webpage
+2019-09-17 10:56:59 INFO  LogReporter:18 - Click the to painrelief image link
+2019-09-17 10:56:59 INFO  LogReporter:18 - Close the previous window
+2019-09-17 10:56:59 INFO  LogReporter:18 - Successfully navigated to pain relief Page
+2019-09-17 10:57:01 INFO  LogReporter:18 - Successfully Navigated to the painrelief webpage
+2019-09-17 10:57:05 INFO  LogReporter:18 - Successfully Validated the correct Url is :https://www.practo.com/health-products/pain-relief/l
+2019-09-17 10:57:07 INFO  LogReporter:18 - Navigate to the webpage fitness & wellness through left panel
+2019-09-17 10:57:07 INFO  LogReporter:18 - Document title is validated :Fitness & Wellness Products: Buy Online at Best Prices in India | Practo
+2019-09-17 10:57:08 INFO  LogReporter:18 - Successfully products added to the cart
+2019-09-17 10:57:09 INFO  LogReporter:18 - Click the View cart link button
+2019-09-17 10:57:09 INFO  LogReporter:18 - navigated to firness and wellness page and Successfully add to items in protein suppliments
+2019-09-17 10:57:09 INFO  LogReporter:18 - Successfully navigated to the cart
+2019-09-17 10:57:10 INFO  LogReporter:18 - Successfully verified the Product Name :B-Protin Powder Chocolate 200 g
+2019-09-17 10:57:10 INFO  LogReporter:18 - Successfully verified the Product Name :Apollo Pharmacy Slimchoice Shake Strawberry Flavour Powder
+2019-09-17 10:57:10 INFO  LogReporter:18 - Successfully verified the Product Price :495
+2019-09-17 10:57:10 INFO  LogReporter:18 - Successfully verified the Product count :1
+2019-09-17 10:57:10 INFO  LogReporter:18 - Successfully verified the total payment :724
+2019-09-17 10:57:10 INFO  LogReporter:18 - Successfully validated the cart details
+2019-09-17 10:57:15 INFO  LogReporter:18 - Successfully verified the Product Name :Apollo Pharmacy Slim Choice Shake Strawberry 500g
+2019-09-17 10:57:15 INFO  LogReporter:18 - Successfully verified the Product Price :495
+2019-09-17 10:57:15 INFO  LogReporter:18 - Successfully verified the Product count :1
+2019-09-17 10:57:15 INFO  LogReporter:18 - Successfully the product is removed
+2019-09-17 10:57:15 INFO  LogReporter:18 - Successfully verified the total payment :495
+2019-09-17 10:57:15 INFO  LogReporter:18 - Successfully validated the cart details after remove the product
+2019-09-17 10:57:15 INFO  LogReporter:18 - Navigated to Cart page and Successfully validated items after add and remove the product
+2019-09-17 10:57:15 INFO  LogReporter:18 - Driver is closed Successfully
+2019-09-17 10:57:17 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-17 10:57:17 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-17 10:57:17 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-17 10:57:17 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-17 10:57:17 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-17 10:57:17 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-17 10:57:17 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-17 10:57:17 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-17 10:57:17 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-17 10:57:17 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-17 11:50:44 INFO  LogReporter:18 - Open chorme browser
+2019-09-17 11:50:48 INFO  LogReporter:18 - User landed the practo home page Successfully
+2019-09-17 11:50:56 INFO  LogReporter:18 - Document title is validated Buy Medicines,Health Products Online | India's Most Reliable Online Medical Store | Practo
+2019-09-17 11:50:56 INFO  LogReporter:18 - Successfully Navigated to the Pharmacy webpage
+2019-09-17 11:50:56 INFO  LogReporter:18 - Click the to painrelief image link
+2019-09-17 11:50:56 INFO  LogReporter:18 - Close the previous window
+2019-09-17 11:50:56 INFO  LogReporter:18 - Successfully navigated to pain relief Page
+2019-09-17 11:50:57 INFO  LogReporter:18 - Successfully Navigated to the painrelief webpage
+2019-09-17 11:51:01 INFO  LogReporter:18 - Successfully Validated the correct Url is :https://www.practo.com/health-products/pain-relief/l
+2019-09-17 11:51:03 INFO  LogReporter:18 - Navigate to the webpage fitness & wellness through left panel
+2019-09-17 11:51:03 INFO  LogReporter:18 - Document title is validated :Fitness & Wellness Products: Buy Online at Best Prices in India | Practo
+2019-09-17 11:51:04 INFO  LogReporter:18 - Successfully products added to the cart
+2019-09-17 11:51:06 INFO  LogReporter:18 - Click the View cart link button
+2019-09-17 11:51:06 INFO  LogReporter:18 - navigated to firness and wellness page and Successfully add to items in protein suppliments
+2019-09-17 11:51:06 INFO  LogReporter:18 - Successfully navigated to the cart
+2019-09-17 11:51:06 INFO  LogReporter:18 - Successfully verified the Product Name :B-Protin Powder Chocolate 200 g
+2019-09-17 11:51:07 INFO  LogReporter:18 - Successfully verified the Product Name :Apollo Pharmacy Slimchoice Shake Strawberry Flavour Powder
+2019-09-17 11:51:07 INFO  LogReporter:18 - Successfully verified the Product Price :495
+2019-09-17 11:51:07 INFO  LogReporter:18 - Successfully verified the Product count :1
+2019-09-17 11:51:07 INFO  LogReporter:18 - Successfully verified the total payment :724
+2019-09-17 11:51:07 INFO  LogReporter:18 - Successfully validated the cart details
+2019-09-17 11:51:12 INFO  LogReporter:18 - Successfully verified the Product Name :Apollo Pharmacy Slim Choice Shake Strawberry 500g
+2019-09-17 11:51:12 INFO  LogReporter:18 - Successfully verified the Product Price :495
+2019-09-17 11:51:12 INFO  LogReporter:18 - Successfully verified the Product count :1
+2019-09-17 11:51:12 INFO  LogReporter:18 - Successfully the product is removed
+2019-09-17 11:51:12 INFO  LogReporter:18 - Successfully verified the total payment :495
+2019-09-17 11:51:12 INFO  LogReporter:18 - Successfully validated the cart details after remove the product
+2019-09-17 11:51:12 INFO  LogReporter:18 - Navigated to Cart page and Successfully validated items after add and remove the product
+2019-09-17 11:51:12 INFO  LogReporter:18 - Driver is closed Successfully
+2019-09-17 11:51:13 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-17 11:51:13 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-17 11:51:13 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-17 11:51:13 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-17 11:51:13 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-17 11:51:14 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-17 11:51:14 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-17 11:51:14 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-17 11:51:14 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-17 11:51:14 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-17 12:07:40 INFO  LogReporter:18 - Open chorme browser
+2019-09-17 12:07:44 INFO  LogReporter:18 - User landed the practo home page Successfully
+2019-09-17 12:07:54 INFO  LogReporter:18 - Document title is validated Buy Medicines,Health Products Online | India's Most Reliable Online Medical Store | Practo
+2019-09-17 12:07:54 INFO  LogReporter:18 - Successfully Navigated to the Pharmacy webpage
+2019-09-17 12:07:55 INFO  LogReporter:18 - Click the to painrelief image link
+2019-09-17 12:07:55 INFO  LogReporter:18 - Close the previous window
+2019-09-17 12:07:55 INFO  LogReporter:18 - Successfully navigated to pain relief Page
+2019-09-17 12:07:56 INFO  LogReporter:18 - Successfully Navigated to the painrelief webpage
+2019-09-17 12:08:00 INFO  LogReporter:18 - Successfully Validated the correct Url is :https://www.practo.com/health-products/pain-relief/l
+2019-09-17 12:08:02 INFO  LogReporter:18 - Navigate to the webpage fitness & wellness through left panel
+2019-09-17 12:08:02 INFO  LogReporter:18 - Document title is validated :Fitness & Wellness Products: Buy Online at Best Prices in India | Practo
+2019-09-17 12:08:03 INFO  LogReporter:18 - Successfully products added to the cart
+2019-09-17 12:08:05 INFO  LogReporter:18 - Click the View cart link button
+2019-09-17 12:08:05 INFO  LogReporter:18 - navigated to firness and wellness page and Successfully add to items in protein suppliments
+2019-09-17 12:08:06 INFO  LogReporter:18 - Successfully navigated to the cart
+2019-09-17 12:08:06 INFO  LogReporter:18 - Successfully verified the Product Name :B-Protin Powder Chocolate 200 g
+2019-09-17 12:08:06 INFO  LogReporter:18 - Successfully verified the Product Name :Apollo Pharmacy Slimchoice Shake Strawberry Flavour Powder
+2019-09-17 12:08:06 INFO  LogReporter:18 - Successfully verified the Product Price :495
+2019-09-17 12:08:07 INFO  LogReporter:18 - Successfully verified the Product count :1
+2019-09-17 12:08:07 INFO  LogReporter:18 - Successfully verified the total payment :724
+2019-09-17 12:08:07 INFO  LogReporter:18 - Successfully validated the cart details
+2019-09-17 12:08:11 INFO  LogReporter:18 - Successfully verified the Product Name :Apollo Pharmacy Slim Choice Shake Strawberry 500g
+2019-09-17 12:08:12 INFO  LogReporter:18 - Successfully verified the Product Price :495
+2019-09-17 12:08:12 INFO  LogReporter:18 - Successfully verified the Product count :1
+2019-09-17 12:08:12 INFO  LogReporter:18 - Successfully the product is removed
+2019-09-17 12:08:12 INFO  LogReporter:18 - Successfully verified the total payment :495
+2019-09-17 12:08:12 INFO  LogReporter:18 - Successfully validated the cart details after remove the product
+2019-09-17 12:08:12 INFO  LogReporter:18 - Navigated to Cart page and Successfully validated items after add and remove the product
+2019-09-17 12:08:12 INFO  LogReporter:18 - Driver is closed Successfully
+2019-09-17 12:08:14 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-17 12:08:14 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-17 12:08:14 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-17 12:08:14 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-17 12:08:14 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-17 12:08:14 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-17 12:08:14 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-17 12:08:14 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-17 12:08:14 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-17 12:08:14 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-17 12:58:32 INFO  LogReporter:18 - Open firefox browser
+2019-09-17 12:58:38 INFO  LogReporter:18 - User landed the practo home page Successfully
+2019-09-17 12:58:43 INFO  LogReporter:18 - Document title is validated Buy Medicines,Health Products Online | India's Most Reliable Online Medical Store | Practo
+2019-09-17 12:58:43 INFO  LogReporter:18 - Successfully Navigated to the Pharmacy webpage
+2019-09-17 12:58:44 INFO  LogReporter:18 - Click the to painrelief image link
+2019-09-17 12:58:44 INFO  LogReporter:18 - Close the previous window
+2019-09-17 12:58:44 INFO  LogReporter:18 - Successfully navigated to pain relief Page
+2019-09-17 12:58:45 INFO  LogReporter:18 - Successfully Navigated to the painrelief webpage
+2019-09-17 12:58:48 INFO  LogReporter:18 - Navigate to the webpage fitness & wellness through left panel
+2019-09-17 12:58:48 INFO  LogReporter:18 - Document title is validated :Fitness & Wellness Products: Buy Online at Best Prices in India | Practo
+2019-09-17 12:58:49 INFO  LogReporter:18 - Successfully products added to the cart
+2019-09-17 12:58:51 INFO  LogReporter:18 - Click the View cart link button
+2019-09-17 12:58:51 INFO  LogReporter:18 - navigated to firness and wellness page and Successfully add to items in protein suppliments
+2019-09-17 12:58:51 INFO  LogReporter:18 - Successfully navigated to the cart
+2019-09-17 12:58:52 INFO  LogReporter:18 - Successfully verified the Product Name :B-Protin Powder Chocolate 200 g
+2019-09-17 12:58:52 INFO  LogReporter:18 - Successfully verified the Product Name :Apollo Pharmacy Slimchoice Shake Strawberry Flavour Powder
+2019-09-17 12:58:52 INFO  LogReporter:18 - Successfully verified the Product Price :495
+2019-09-17 12:58:52 INFO  LogReporter:18 - Successfully verified the Product count :1
+2019-09-17 12:58:52 INFO  LogReporter:18 - Successfully verified the total payment :724
+2019-09-17 12:58:52 INFO  LogReporter:18 - Successfully validated the cart details
+2019-09-17 12:59:02 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-17 12:59:02 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-17 12:59:02 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-17 12:59:02 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-17 12:59:02 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-17 12:59:02 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-17 12:59:02 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-17 12:59:02 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-17 12:59:02 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-17 12:59:02 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-17 13:46:29 INFO  LogReporter:18 - Open firefox browser
+2019-09-17 13:46:35 INFO  LogReporter:18 - User landed the practo home page Successfully
+2019-09-17 13:46:41 INFO  LogReporter:18 - Document title is validated Buy Medicines,Health Products Online | India's Most Reliable Online Medical Store | Practo
+2019-09-17 13:46:41 INFO  LogReporter:18 - Successfully Navigated to the Pharmacy webpage
+2019-09-17 13:46:41 INFO  LogReporter:18 - Click the to painrelief image link
+2019-09-17 13:46:41 INFO  LogReporter:18 - Close the previous window
+2019-09-17 13:46:41 INFO  LogReporter:18 - Successfully navigated to pain relief Page
+2019-09-17 13:46:42 INFO  LogReporter:18 - Successfully Navigated to the painrelief webpage
+2019-09-17 13:46:42 INFO  LogReporter:18 - Successfully Validated the correct Url is :https://www.practo.com/health-products/pain-relief/l
+2019-09-17 13:46:45 INFO  LogReporter:18 - Navigate to the webpage fitness & wellness through left panel
+2019-09-17 13:46:45 INFO  LogReporter:18 - Document title is validated :Fitness & Wellness Products: Buy Online at Best Prices in India | Practo
+2019-09-17 13:46:46 INFO  LogReporter:18 - Successfully products added to the cart
+2019-09-17 13:46:48 INFO  LogReporter:18 - Click the View cart link button
+2019-09-17 13:46:48 INFO  LogReporter:18 - navigated to firness and wellness page and Successfully add to items in protein suppliments
+2019-09-17 13:46:48 INFO  LogReporter:18 - Successfully navigated to the cart
+2019-09-17 13:46:49 INFO  LogReporter:18 - Successfully verified the Product Name :B-Protin Powder Chocolate 200 g
+2019-09-17 13:46:49 INFO  LogReporter:18 - Successfully verified the Product Name :Apollo Pharmacy Slimchoice Shake Strawberry Flavour Powder
+2019-09-17 13:46:49 INFO  LogReporter:18 - Successfully verified the Product Price :495
+2019-09-17 13:46:49 INFO  LogReporter:18 - Successfully verified the Product count :1
+2019-09-17 13:46:49 INFO  LogReporter:18 - Successfully verified the total payment :724
+2019-09-17 13:46:49 INFO  LogReporter:18 - Successfully validated the cart details
+2019-09-17 13:46:58 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-17 13:46:58 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-17 13:46:58 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-17 13:46:58 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-17 13:46:58 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-17 13:46:59 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-17 13:46:59 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-17 13:46:59 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-17 13:46:59 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-17 13:46:59 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-17 13:55:28 INFO  LogReporter:18 - Open firefox browser
+2019-09-17 13:55:33 INFO  LogReporter:18 - User landed the practo home page Successfully
+2019-09-17 13:55:38 INFO  LogReporter:18 - Document title is validated Buy Medicines,Health Products Online | India's Most Reliable Online Medical Store | Practo
+2019-09-17 13:55:38 INFO  LogReporter:18 - Successfully Navigated to the Pharmacy webpage
+2019-09-17 13:55:38 INFO  LogReporter:18 - Click the to painrelief image link
+2019-09-17 13:55:38 INFO  LogReporter:18 - Close the previous window
+2019-09-17 13:55:38 INFO  LogReporter:18 - Successfully navigated to pain relief Page
+2019-09-17 13:55:39 INFO  LogReporter:18 - Successfully Navigated to the painrelief webpage
+2019-09-17 13:55:42 INFO  LogReporter:18 - Navigate to the webpage fitness & wellness through left panel
+2019-09-17 13:55:42 INFO  LogReporter:18 - Document title is validated :Fitness & Wellness Products: Buy Online at Best Prices in India | Practo
+2019-09-17 13:55:43 INFO  LogReporter:18 - Successfully products added to the cart
+2019-09-17 13:55:45 INFO  LogReporter:18 - Click the View cart link button
+2019-09-17 13:55:45 INFO  LogReporter:18 - navigated to firness and wellness page and Successfully add to items in protein suppliments
+2019-09-17 13:55:45 INFO  LogReporter:18 - Successfully navigated to the cart
+2019-09-17 13:55:45 INFO  LogReporter:18 - Successfully verified the Product Name :B-Protin Powder Chocolate 200 g
+2019-09-17 13:55:46 INFO  LogReporter:18 - Successfully verified the Product Name :Apollo Pharmacy Slimchoice Shake Strawberry Flavour Powder
+2019-09-17 13:55:46 INFO  LogReporter:18 - Successfully verified the Product Price :495
+2019-09-17 13:55:46 INFO  LogReporter:18 - Successfully verified the Product count :1
+2019-09-17 13:55:46 INFO  LogReporter:18 - Successfully verified the total payment :724
+2019-09-17 13:55:46 INFO  LogReporter:18 - Successfully validated the cart details
+2019-09-17 13:56:13 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-17 13:56:13 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-17 13:56:13 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-17 13:56:13 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-17 13:56:13 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-17 13:56:14 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-17 13:56:14 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-17 13:56:14 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-17 13:56:14 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-17 13:56:14 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-17 13:57:34 INFO  LogReporter:18 - Open firefox browser
+2019-09-17 13:57:39 INFO  LogReporter:18 - User landed the practo home page Successfully
+2019-09-17 13:57:44 INFO  LogReporter:18 - Document title is validated Buy Medicines,Health Products Online | India's Most Reliable Online Medical Store | Practo
+2019-09-17 13:57:44 INFO  LogReporter:18 - Successfully Navigated to the Pharmacy webpage
+2019-09-17 13:57:44 INFO  LogReporter:18 - Click the to painrelief image link
+2019-09-17 13:57:44 INFO  LogReporter:18 - Close the previous window
+2019-09-17 13:57:44 INFO  LogReporter:18 - Successfully navigated to pain relief Page
+2019-09-17 13:57:45 INFO  LogReporter:18 - Successfully Navigated to the painrelief webpage
+2019-09-17 13:57:45 INFO  LogReporter:18 - Successfully Validated the correct Url is :https://www.practo.com/health-products/pain-relief/l
+2019-09-17 13:57:48 INFO  LogReporter:18 - Navigate to the webpage fitness & wellness through left panel
+2019-09-17 13:57:48 INFO  LogReporter:18 - Document title is validated :Fitness & Wellness Products: Buy Online at Best Prices in India | Practo
+2019-09-17 13:57:49 INFO  LogReporter:18 - Successfully products added to the cart
+2019-09-17 13:57:51 INFO  LogReporter:18 - Click the View cart link button
+2019-09-17 13:57:51 INFO  LogReporter:18 - navigated to firness and wellness page and Successfully add to items in protein suppliments
+2019-09-17 13:57:51 INFO  LogReporter:18 - Successfully navigated to the cart
+2019-09-17 13:57:51 INFO  LogReporter:18 - Successfully verified the Product Name :B-Protin Powder Chocolate 200 g
+2019-09-17 13:57:52 INFO  LogReporter:18 - Successfully verified the Product Name :Apollo Pharmacy Slimchoice Shake Strawberry Flavour Powder
+2019-09-17 13:57:52 INFO  LogReporter:18 - Successfully verified the Product Price :495
+2019-09-17 13:57:52 INFO  LogReporter:18 - Successfully verified the Product count :1
+2019-09-17 13:57:52 INFO  LogReporter:18 - Successfully verified the total payment :724
+2019-09-17 13:57:52 INFO  LogReporter:18 - Successfully validated the cart details
+2019-09-17 13:58:21 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-17 13:58:21 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-17 13:58:21 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-17 13:58:21 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-17 13:58:21 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-17 13:58:22 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-17 13:58:22 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-17 13:58:22 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-17 13:58:22 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-17 13:58:22 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-17 14:02:39 INFO  LogReporter:18 - Open firefox browser
+2019-09-17 14:02:45 INFO  LogReporter:18 - User landed the practo home page Successfully
+2019-09-17 14:02:49 INFO  LogReporter:18 - Document title is validated Buy Medicines,Health Products Online | India's Most Reliable Online Medical Store | Practo
+2019-09-17 14:02:49 INFO  LogReporter:18 - Successfully Navigated to the Pharmacy webpage
+2019-09-17 14:02:50 INFO  LogReporter:18 - Click the to painrelief image link
+2019-09-17 14:02:50 INFO  LogReporter:18 - Close the previous window
+2019-09-17 14:02:50 INFO  LogReporter:18 - Successfully navigated to pain relief Page
+2019-09-17 14:02:50 INFO  LogReporter:18 - Successfully Navigated to the painrelief webpage
+2019-09-17 14:02:50 INFO  LogReporter:18 - Successfully Validated the correct Url is :https://www.practo.com/health-products/pain-relief/l
+2019-09-17 14:02:54 INFO  LogReporter:18 - Navigate to the webpage fitness & wellness through left panel
+2019-09-17 14:02:54 INFO  LogReporter:18 - Document title is validated :Fitness & Wellness Products: Buy Online at Best Prices in India | Practo
+2019-09-17 14:02:55 INFO  LogReporter:18 - Successfully products added to the cart
+2019-09-17 14:02:57 INFO  LogReporter:18 - Click the View cart link button
+2019-09-17 14:02:57 INFO  LogReporter:18 - navigated to firness and wellness page and Successfully add to items in protein suppliments
+2019-09-17 14:02:57 INFO  LogReporter:18 - Successfully navigated to the cart
+2019-09-17 14:02:58 INFO  LogReporter:18 - Successfully verified the Product Name :B-Protin Powder Chocolate 200 g
+2019-09-17 14:02:58 INFO  LogReporter:18 - Successfully verified the Product Name :Apollo Pharmacy Slimchoice Shake Strawberry Flavour Powder
+2019-09-17 14:02:58 INFO  LogReporter:18 - Successfully verified the Product Price :495
+2019-09-17 14:02:59 INFO  LogReporter:18 - Successfully verified the Product count :1
+2019-09-17 14:02:59 INFO  LogReporter:18 - Successfully verified the total payment :724
+2019-09-17 14:02:59 INFO  LogReporter:18 - Successfully validated the cart details
+2019-09-17 14:03:28 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-17 14:03:28 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-17 14:03:28 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-17 14:03:28 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-17 14:03:28 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-17 14:03:28 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-17 14:03:28 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-17 14:03:28 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-17 14:03:28 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-17 14:03:28 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-17 14:18:30 INFO  LogReporter:18 - Open firefox browser
+2019-09-17 14:18:36 INFO  LogReporter:18 - User landed the practo home page Successfully
+2019-09-17 14:18:41 INFO  LogReporter:18 - Document title is validated Buy Medicines,Health Products Online | India's Most Reliable Online Medical Store | Practo
+2019-09-17 14:18:41 INFO  LogReporter:18 - Successfully Navigated to the Pharmacy webpage
+2019-09-17 14:18:42 INFO  LogReporter:18 - Click the to painrelief image link
+2019-09-17 14:18:42 INFO  LogReporter:18 - Close the previous window
+2019-09-17 14:18:42 INFO  LogReporter:18 - Successfully navigated to pain relief Page
+2019-09-17 14:18:43 INFO  LogReporter:18 - Successfully Navigated to the painrelief webpage
+2019-09-17 14:18:43 INFO  LogReporter:18 - Successfully Validated the correct Url is :https://www.practo.com/health-products/pain-relief/l
+2019-09-17 14:18:45 INFO  LogReporter:18 - Navigate to the webpage fitness & wellness through left panel
+2019-09-17 14:18:45 INFO  LogReporter:18 - Document title is validated :Fitness & Wellness Products: Buy Online at Best Prices in India | Practo
+2019-09-17 14:18:46 INFO  LogReporter:18 - Successfully products added to the cart
+2019-09-17 14:18:48 INFO  LogReporter:18 - Click the View cart link button
+2019-09-17 14:18:48 INFO  LogReporter:18 - navigated to firness and wellness page and Successfully add to items in protein suppliments
+2019-09-17 14:18:48 INFO  LogReporter:18 - Successfully navigated to the cart
+2019-09-17 14:18:49 INFO  LogReporter:18 - Successfully verified the Product Name :B-Protin Powder Chocolate 200 g
+2019-09-17 14:18:49 INFO  LogReporter:18 - Successfully verified the Product Name :Apollo Pharmacy Slimchoice Shake Strawberry Flavour Powder
+2019-09-17 14:18:49 INFO  LogReporter:18 - Successfully verified the Product Price :495
+2019-09-17 14:18:49 INFO  LogReporter:18 - Successfully verified the Product count :1
+2019-09-17 14:18:49 INFO  LogReporter:18 - Successfully verified the total payment :724
+2019-09-17 14:18:49 INFO  LogReporter:18 - Successfully validated the cart details
+2019-09-17 14:18:54 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-17 14:18:54 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-17 14:18:54 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-17 14:18:54 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-17 14:18:54 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-17 14:18:55 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-17 14:18:55 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-17 14:18:55 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-17 14:18:55 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-17 14:18:55 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-17 14:20:11 INFO  LogReporter:18 - Open firefox browser
+2019-09-17 14:20:17 INFO  LogReporter:18 - User landed the practo home page Successfully
+2019-09-17 14:20:22 INFO  LogReporter:18 - Document title is validated Buy Medicines,Health Products Online | India's Most Reliable Online Medical Store | Practo
+2019-09-17 14:20:22 INFO  LogReporter:18 - Successfully Navigated to the Pharmacy webpage
+2019-09-17 14:20:23 INFO  LogReporter:18 - Click the to painrelief image link
+2019-09-17 14:20:23 INFO  LogReporter:18 - Close the previous window
+2019-09-17 14:20:23 INFO  LogReporter:18 - Successfully navigated to pain relief Page
+2019-09-17 14:20:23 INFO  LogReporter:18 - Successfully Navigated to the painrelief webpage
+2019-09-17 14:20:27 INFO  LogReporter:18 - Navigate to the webpage fitness & wellness through left panel
+2019-09-17 14:20:27 INFO  LogReporter:18 - Document title is validated :Fitness & Wellness Products: Buy Online at Best Prices in India | Practo
+2019-09-17 14:20:28 INFO  LogReporter:18 - Successfully products added to the cart
+2019-09-17 14:20:29 INFO  LogReporter:18 - Click the View cart link button
+2019-09-17 14:20:29 INFO  LogReporter:18 - navigated to firness and wellness page and Successfully add to items in protein suppliments
+2019-09-17 14:20:30 INFO  LogReporter:18 - Successfully navigated to the cart
+2019-09-17 14:20:30 INFO  LogReporter:18 - Successfully verified the Product Name :B-Protin Powder Chocolate 200 g
+2019-09-17 14:20:30 INFO  LogReporter:18 - Successfully verified the Product Name :Apollo Pharmacy Slimchoice Shake Strawberry Flavour Powder
+2019-09-17 14:20:30 INFO  LogReporter:18 - Successfully verified the Product Price :495
+2019-09-17 14:20:31 INFO  LogReporter:18 - Successfully verified the Product count :1
+2019-09-17 14:20:31 INFO  LogReporter:18 - Successfully verified the total payment :724
+2019-09-17 14:20:31 INFO  LogReporter:18 - Successfully validated the cart details
+2019-09-17 14:20:42 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-17 14:20:42 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-17 14:20:42 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-17 14:20:42 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-17 14:20:42 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-17 14:20:42 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-17 14:20:42 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-17 14:20:42 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-17 14:20:42 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-17 14:20:42 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-17 14:36:05 INFO  LogReporter:18 - Open firefox browser
+2019-09-17 14:36:12 INFO  LogReporter:18 - User landed the practo home page Successfully
+2019-09-17 14:36:17 INFO  LogReporter:18 - Document title is validated Buy Medicines,Health Products Online | India's Most Reliable Online Medical Store | Practo
+2019-09-17 14:36:17 INFO  LogReporter:18 - Successfully Navigated to the Pharmacy webpage
+2019-09-17 14:36:17 INFO  LogReporter:18 - Click the to painrelief image link
+2019-09-17 14:36:17 INFO  LogReporter:18 - Close the previous window
+2019-09-17 14:36:17 INFO  LogReporter:18 - Successfully navigated to pain relief Page
+2019-09-17 14:36:18 INFO  LogReporter:18 - Successfully Navigated to the painrelief webpage
+2019-09-17 14:36:21 INFO  LogReporter:18 - Navigate to the webpage fitness & wellness through left panel
+2019-09-17 14:36:21 INFO  LogReporter:18 - Document title is validated :Fitness & Wellness Products: Buy Online at Best Prices in India | Practo
+2019-09-17 14:36:22 INFO  LogReporter:18 - Successfully products added to the cart
+2019-09-17 14:36:24 INFO  LogReporter:18 - Click the View cart link button
+2019-09-17 14:36:24 INFO  LogReporter:18 - navigated to firness and wellness page and Successfully add to items in protein suppliments
+2019-09-17 14:36:25 INFO  LogReporter:18 - Successfully navigated to the cart
+2019-09-17 14:36:25 INFO  LogReporter:18 - Successfully verified the Product Name :B-Protin Powder Chocolate 200 g
+2019-09-17 14:36:25 INFO  LogReporter:18 - Successfully verified the Product Name :Apollo Pharmacy Slimchoice Shake Strawberry Flavour Powder
+2019-09-17 14:36:26 INFO  LogReporter:18 - Successfully verified the Product Price :495
+2019-09-17 14:36:26 INFO  LogReporter:18 - Successfully verified the Product count :1
+2019-09-17 14:36:26 INFO  LogReporter:18 - Successfully verified the total payment :724
+2019-09-17 14:36:26 INFO  LogReporter:18 - Successfully validated the cart details
+2019-09-17 14:36:56 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-17 14:36:56 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-17 14:36:56 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-17 14:36:56 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-17 14:36:56 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-17 14:36:56 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-17 14:36:56 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-17 14:36:56 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-17 14:36:56 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-17 14:36:56 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-17 14:37:39 INFO  LogReporter:18 - Open firefox browser
+2019-09-17 14:37:45 INFO  LogReporter:18 - User landed the practo home page Successfully
+2019-09-17 14:37:50 INFO  LogReporter:18 - Document title is validated Buy Medicines,Health Products Online | India's Most Reliable Online Medical Store | Practo
+2019-09-17 14:37:50 INFO  LogReporter:18 - Successfully Navigated to the Pharmacy webpage
+2019-09-17 14:37:50 INFO  LogReporter:18 - Click the to painrelief image link
+2019-09-17 14:37:50 INFO  LogReporter:18 - Close the previous window
+2019-09-17 14:37:50 INFO  LogReporter:18 - Successfully navigated to pain relief Page
+2019-09-17 14:37:51 INFO  LogReporter:18 - Successfully Navigated to the painrelief webpage
+2019-09-17 14:37:54 INFO  LogReporter:18 - Navigate to the webpage fitness & wellness through left panel
+2019-09-17 14:37:54 INFO  LogReporter:18 - Document title is validated :Fitness & Wellness Products: Buy Online at Best Prices in India | Practo
+2019-09-17 14:37:55 INFO  LogReporter:18 - Successfully products added to the cart
+2019-09-17 14:37:57 INFO  LogReporter:18 - Click the View cart link button
+2019-09-17 14:37:57 INFO  LogReporter:18 - navigated to firness and wellness page and Successfully add to items in protein suppliments
+2019-09-17 14:37:57 INFO  LogReporter:18 - Successfully navigated to the cart
+2019-09-17 14:37:58 INFO  LogReporter:18 - Successfully verified the Product Name :B-Protin Powder Chocolate 200 g
+2019-09-17 14:37:58 INFO  LogReporter:18 - Successfully verified the Product Name :Apollo Pharmacy Slimchoice Shake Strawberry Flavour Powder
+2019-09-17 14:37:59 INFO  LogReporter:18 - Successfully verified the Product Price :495
+2019-09-17 14:37:59 INFO  LogReporter:18 - Successfully verified the Product count :1
+2019-09-17 14:37:59 INFO  LogReporter:18 - Successfully verified the total payment :724
+2019-09-17 14:37:59 INFO  LogReporter:18 - Successfully validated the cart details
+2019-09-17 14:38:29 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-17 14:38:29 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-17 14:38:29 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-17 14:38:29 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-17 14:38:29 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-17 14:38:30 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-17 14:38:30 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-17 14:38:30 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-17 14:38:30 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-17 14:38:30 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-17 14:45:16 INFO  LogReporter:18 - Open firefox browser
+2019-09-17 14:45:23 INFO  LogReporter:18 - User landed the practo home page Successfully
+2019-09-17 14:45:27 INFO  LogReporter:18 - Document title is validated Buy Medicines,Health Products Online | India's Most Reliable Online Medical Store | Practo
+2019-09-17 14:45:27 INFO  LogReporter:18 - Successfully Navigated to the Pharmacy webpage
+2019-09-17 14:45:28 INFO  LogReporter:18 - Click the to painrelief image link
+2019-09-17 14:45:28 INFO  LogReporter:18 - Close the previous window
+2019-09-17 14:45:28 INFO  LogReporter:18 - Successfully navigated to pain relief Page
+2019-09-17 14:45:28 INFO  LogReporter:18 - Successfully Navigated to the painrelief webpage
+2019-09-17 14:45:28 INFO  LogReporter:18 - Successfully Validated the correct Url is :https://www.practo.com/health-products/pain-relief/l
+2019-09-17 14:45:32 INFO  LogReporter:18 - Navigate to the webpage fitness & wellness through left panel
+2019-09-17 14:45:32 INFO  LogReporter:18 - Document title is validated :Fitness & Wellness Products: Buy Online at Best Prices in India | Practo
+2019-09-17 14:45:33 INFO  LogReporter:18 - Successfully products added to the cart
+2019-09-17 14:45:35 INFO  LogReporter:18 - Click the View cart link button
+2019-09-17 14:45:35 INFO  LogReporter:18 - navigated to firness and wellness page and Successfully add to items in protein suppliments
+2019-09-17 14:45:35 INFO  LogReporter:18 - Successfully navigated to the cart
+2019-09-17 14:45:36 INFO  LogReporter:18 - Successfully verified the Product Name :B-Protin Powder Chocolate 200 g
+2019-09-17 14:45:36 INFO  LogReporter:18 - Successfully verified the Product Name :Apollo Pharmacy Slimchoice Shake Strawberry Flavour Powder
+2019-09-17 14:45:37 INFO  LogReporter:18 - Successfully verified the Product Price :495
+2019-09-17 14:45:37 INFO  LogReporter:18 - Successfully verified the Product count :1
+2019-09-17 14:45:37 INFO  LogReporter:18 - Successfully verified the total payment :724
+2019-09-17 14:45:37 INFO  LogReporter:18 - Successfully validated the cart details
+2019-09-17 14:46:06 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-17 14:46:06 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-17 14:46:06 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-17 14:46:06 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-17 14:46:06 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-17 14:46:07 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-17 14:46:07 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-17 14:46:07 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-17 14:46:07 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-17 14:46:07 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-17 14:48:59 INFO  LogReporter:18 - Open firefox browser
+2019-09-17 14:49:05 INFO  LogReporter:18 - User landed the practo home page Successfully
+2019-09-17 14:49:10 INFO  LogReporter:18 - Document title is validated Buy Medicines,Health Products Online | India's Most Reliable Online Medical Store | Practo
+2019-09-17 14:49:10 INFO  LogReporter:18 - Successfully Navigated to the Pharmacy webpage
+2019-09-17 14:49:11 INFO  LogReporter:18 - Click the to painrelief image link
+2019-09-17 14:49:11 INFO  LogReporter:18 - Close the previous window
+2019-09-17 14:49:11 INFO  LogReporter:18 - Successfully navigated to pain relief Page
+2019-09-17 14:49:11 INFO  LogReporter:18 - Successfully Navigated to the painrelief webpage
+2019-09-17 14:49:14 INFO  LogReporter:18 - Navigate to the webpage fitness & wellness through left panel
+2019-09-17 14:49:14 INFO  LogReporter:18 - Document title is validated :Fitness & Wellness Products: Buy Online at Best Prices in India | Practo
+2019-09-17 14:49:16 INFO  LogReporter:18 - Successfully products added to the cart
+2019-09-17 14:49:17 INFO  LogReporter:18 - Click the View cart link button
+2019-09-17 14:49:18 INFO  LogReporter:18 - navigated to firness and wellness page and Successfully add to items in protein suppliments
+2019-09-17 14:49:18 INFO  LogReporter:18 - Successfully navigated to the cart
+2019-09-17 14:49:18 INFO  LogReporter:18 - Successfully verified the Product Name :B-Protin Powder Chocolate 200 g
+2019-09-17 14:49:19 INFO  LogReporter:18 - Successfully verified the Product Name :Apollo Pharmacy Slimchoice Shake Strawberry Flavour Powder
+2019-09-17 14:49:19 INFO  LogReporter:18 - Successfully verified the Product Price :495
+2019-09-17 14:49:19 INFO  LogReporter:18 - Successfully verified the Product count :1
+2019-09-17 14:49:19 INFO  LogReporter:18 - Successfully verified the total payment :724
+2019-09-17 14:49:19 INFO  LogReporter:18 - Successfully validated the cart details
+2019-09-17 14:49:49 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-17 14:49:49 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-17 14:49:49 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-17 14:49:49 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-17 14:49:49 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-17 14:49:50 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-17 14:49:50 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-17 14:49:50 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-17 14:49:50 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-17 14:49:50 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-17 14:56:27 INFO  LogReporter:18 - Open firefox browser
+2019-09-17 14:56:33 INFO  LogReporter:18 - User landed the practo home page Successfully
+2019-09-17 14:56:38 INFO  LogReporter:18 - Document title is validated Buy Medicines,Health Products Online | India's Most Reliable Online Medical Store | Practo
+2019-09-17 14:56:38 INFO  LogReporter:18 - Successfully Navigated to the Pharmacy webpage
+2019-09-17 14:56:39 INFO  LogReporter:18 - Click the to painrelief image link
+2019-09-17 14:56:39 INFO  LogReporter:18 - Close the previous window
+2019-09-17 14:56:39 INFO  LogReporter:18 - Successfully navigated to pain relief Page
+2019-09-17 14:56:39 INFO  LogReporter:18 - Successfully Navigated to the painrelief webpage
+2019-09-17 14:56:43 INFO  LogReporter:18 - Navigate to the webpage fitness & wellness through left panel
+2019-09-17 14:56:44 INFO  LogReporter:18 - Document title is validated :Fitness & Wellness Products: Buy Online at Best Prices in India | Practo
+2019-09-17 14:56:45 INFO  LogReporter:18 - Successfully products added to the cart
+2019-09-17 14:56:47 INFO  LogReporter:18 - Click the View cart link button
+2019-09-17 14:56:47 INFO  LogReporter:18 - navigated to firness and wellness page and Successfully add to items in protein suppliments
+2019-09-17 14:56:47 INFO  LogReporter:18 - Successfully navigated to the cart
+2019-09-17 14:56:47 INFO  LogReporter:18 - Successfully verified the Product Name :B-Protin Powder Chocolate 200 g
+2019-09-17 14:56:48 INFO  LogReporter:18 - Successfully verified the Product Name :Apollo Pharmacy Slimchoice Shake Strawberry Flavour Powder
+2019-09-17 14:56:48 INFO  LogReporter:18 - Successfully verified the Product Price :495
+2019-09-17 14:56:48 INFO  LogReporter:18 - Successfully verified the Product count :1
+2019-09-17 14:56:48 INFO  LogReporter:18 - Successfully verified the total payment :724
+2019-09-17 14:56:48 INFO  LogReporter:18 - Successfully validated the cart details
+2019-09-17 14:56:59 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-17 14:56:59 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-17 14:56:59 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-17 14:56:59 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-17 14:56:59 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-17 14:57:00 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-17 14:57:00 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-17 14:57:00 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-17 14:57:00 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-17 14:57:00 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-17 14:59:52 INFO  LogReporter:18 - Open chorme browser
+2019-09-17 14:59:57 INFO  LogReporter:18 - User landed the practo home page Successfully
+2019-09-17 15:00:05 INFO  LogReporter:18 - Document title is validated Buy Medicines,Health Products Online | India's Most Reliable Online Medical Store | Practo
+2019-09-17 15:00:05 INFO  LogReporter:18 - Successfully Navigated to the Pharmacy webpage
+2019-09-17 15:00:05 INFO  LogReporter:18 - Click the to painrelief image link
+2019-09-17 15:00:05 INFO  LogReporter:18 - Close the previous window
+2019-09-17 15:00:05 INFO  LogReporter:18 - Successfully navigated to pain relief Page
+2019-09-17 15:00:06 INFO  LogReporter:18 - Successfully Navigated to the painrelief webpage
+2019-09-17 15:00:10 INFO  LogReporter:18 - Successfully Validated the correct Url is :https://www.practo.com/health-products/pain-relief/l
+2019-09-17 15:00:12 INFO  LogReporter:18 - Navigate to the webpage fitness & wellness through left panel
+2019-09-17 15:00:12 INFO  LogReporter:18 - Document title is validated :Fitness & Wellness Products: Buy Online at Best Prices in India | Practo
+2019-09-17 15:00:13 INFO  LogReporter:18 - Successfully products added to the cart
+2019-09-17 15:00:14 INFO  LogReporter:18 - Click the View cart link button
+2019-09-17 15:00:14 INFO  LogReporter:18 - navigated to firness and wellness page and Successfully add to items in protein suppliments
+2019-09-17 15:00:15 INFO  LogReporter:18 - Successfully navigated to the cart
+2019-09-17 15:00:15 INFO  LogReporter:18 - Successfully verified the Product Name :B-Protin Powder Chocolate 200 g
+2019-09-17 15:00:15 INFO  LogReporter:18 - Successfully verified the Product Name :Apollo Pharmacy Slimchoice Shake Strawberry Flavour Powder
+2019-09-17 15:00:15 INFO  LogReporter:18 - Successfully verified the Product Price :495
+2019-09-17 15:00:15 INFO  LogReporter:18 - Successfully verified the Product count :1
+2019-09-17 15:00:15 INFO  LogReporter:18 - Successfully verified the total payment :724
+2019-09-17 15:00:15 INFO  LogReporter:18 - Successfully validated the cart details
+2019-09-17 15:00:22 INFO  LogReporter:18 - Successfully verified the Product Name :Apollo Pharmacy Slim Choice Shake Strawberry 500g
+2019-09-17 15:00:22 INFO  LogReporter:18 - Successfully verified the Product Price :495
+2019-09-17 15:00:22 INFO  LogReporter:18 - Successfully verified the Product count :1
+2019-09-17 15:00:22 INFO  LogReporter:18 - Successfully the product is removed
+2019-09-17 15:00:22 INFO  LogReporter:18 - Successfully verified the total payment :495
+2019-09-17 15:00:22 INFO  LogReporter:18 - Successfully validated the cart details after remove the product
+2019-09-17 15:00:22 INFO  LogReporter:18 - Navigated to Cart page and Successfully validated items after add and remove the product
+2019-09-17 15:00:22 INFO  LogReporter:18 - Driver is closed Successfully
+2019-09-17 15:00:24 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-17 15:00:24 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-17 15:00:24 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-17 15:00:24 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-17 15:00:24 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-17 15:00:24 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-17 15:00:24 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-17 15:00:24 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-17 15:00:24 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-17 15:00:24 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-17 15:30:22 INFO  LogReporter:18 - Open chorme browser
+2019-09-17 15:30:29 INFO  LogReporter:18 - User landed the practo home page Successfully
+2019-09-17 15:30:51 INFO  LogReporter:18 - Document title is validated Buy Medicines,Health Products Online | India's Most Reliable Online Medical Store | Practo
+2019-09-17 15:30:51 INFO  LogReporter:18 - Successfully Navigated to the Pharmacy webpage
+2019-09-17 15:30:51 INFO  LogReporter:18 - Click the to painrelief image link
+2019-09-17 15:30:51 INFO  LogReporter:18 - Close the previous window
+2019-09-17 15:30:51 INFO  LogReporter:18 - Successfully navigated to pain relief Page
+2019-09-17 15:30:52 INFO  LogReporter:18 - Successfully Navigated to the painrelief webpage
+2019-09-17 15:30:56 INFO  LogReporter:18 - Successfully Validated the correct Url is :https://www.practo.com/health-products/pain-relief/l
+2019-09-17 15:30:59 INFO  LogReporter:18 - Navigate to the webpage fitness & wellness through left panel
+2019-09-17 15:30:59 INFO  LogReporter:18 - Document title is validated :Fitness & Wellness Products: Buy Online at Best Prices in India | Practo
+2019-09-17 15:30:59 INFO  LogReporter:18 - Successfully products added to the cart
+2019-09-17 15:31:01 INFO  LogReporter:18 - Click the View cart link button
+2019-09-17 15:31:01 INFO  LogReporter:18 - navigated to firness and wellness page and Successfully add to items in protein suppliments
+2019-09-17 15:31:01 INFO  LogReporter:18 - Successfully navigated to the cart
+2019-09-17 15:31:01 INFO  LogReporter:18 - Successfully verified the Product Name :B-Protin Powder Chocolate 200 g
+2019-09-17 15:31:01 INFO  LogReporter:18 - Successfully verified the Product Name :Apollo Pharmacy Slimchoice Shake Strawberry Flavour Powder
+2019-09-17 15:31:01 INFO  LogReporter:18 - Successfully verified the Product Price :495
+2019-09-17 15:31:01 INFO  LogReporter:18 - Successfully verified the Product count :1
+2019-09-17 15:31:02 INFO  LogReporter:18 - Successfully verified the total payment :724
+2019-09-17 15:31:02 INFO  LogReporter:18 - Successfully validated the cart details
+2019-09-17 15:31:09 INFO  LogReporter:18 - Successfully verified the Product Name :Apollo Pharmacy Slim Choice Shake Strawberry 500g
+2019-09-17 15:31:09 INFO  LogReporter:18 - Successfully verified the Product Price :495
+2019-09-17 15:31:09 INFO  LogReporter:18 - Successfully verified the Product count :1
+2019-09-17 15:31:09 INFO  LogReporter:18 - Successfully the product is removed
+2019-09-17 15:31:09 INFO  LogReporter:18 - Successfully verified the total payment :495
+2019-09-17 15:31:09 INFO  LogReporter:18 - Successfully validated the cart details after remove the product
+2019-09-17 15:31:09 INFO  LogReporter:18 - Navigated to Cart page and Successfully validated items after add and remove the product
+2019-09-17 15:31:09 INFO  LogReporter:18 - Driver is closed Successfully
+2019-09-17 15:31:11 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-17 15:31:11 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-17 15:31:11 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-17 15:31:11 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-17 15:31:11 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-17 15:31:11 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-17 15:31:11 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-17 15:31:11 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-17 15:31:11 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-17 15:31:11 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-17 15:31:35 INFO  LogReporter:18 - Open firefox browser
+2019-09-17 15:31:40 INFO  LogReporter:18 - User landed the practo home page Successfully
+2019-09-17 15:31:45 INFO  LogReporter:18 - Document title is validated Buy Medicines,Health Products Online | India's Most Reliable Online Medical Store | Practo
+2019-09-17 15:31:45 INFO  LogReporter:18 - Successfully Navigated to the Pharmacy webpage
+2019-09-17 15:31:46 INFO  LogReporter:18 - Click the to painrelief image link
+2019-09-17 15:31:46 INFO  LogReporter:18 - Close the previous window
+2019-09-17 15:31:46 INFO  LogReporter:18 - Successfully navigated to pain relief Page
+2019-09-17 15:31:46 INFO  LogReporter:18 - Successfully Navigated to the painrelief webpage
+2019-09-17 15:31:49 INFO  LogReporter:18 - Navigate to the webpage fitness & wellness through left panel
+2019-09-17 15:31:49 INFO  LogReporter:18 - Document title is validated :Fitness & Wellness Products: Buy Online at Best Prices in India | Practo
+2019-09-17 15:31:51 INFO  LogReporter:18 - Successfully products added to the cart
+2019-09-17 15:31:52 INFO  LogReporter:18 - Click the View cart link button
+2019-09-17 15:31:52 INFO  LogReporter:18 - navigated to firness and wellness page and Successfully add to items in protein suppliments
+2019-09-17 15:31:53 INFO  LogReporter:18 - Successfully navigated to the cart
+2019-09-17 15:31:53 INFO  LogReporter:18 - Successfully verified the Product Name :B-Protin Powder Chocolate 200 g
+2019-09-17 15:31:53 INFO  LogReporter:18 - Successfully verified the Product Name :Apollo Pharmacy Slimchoice Shake Strawberry Flavour Powder
+2019-09-17 15:31:53 INFO  LogReporter:18 - Successfully verified the Product Price :495
+2019-09-17 15:31:54 INFO  LogReporter:18 - Successfully verified the Product count :1
+2019-09-17 15:31:54 INFO  LogReporter:18 - Successfully verified the total payment :724
+2019-09-17 15:31:54 INFO  LogReporter:18 - Successfully validated the cart details
+2019-09-17 15:32:05 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-17 15:32:05 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-17 15:32:05 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-17 15:32:05 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-17 15:32:05 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-17 15:32:06 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-17 15:32:06 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-17 15:32:06 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-17 15:32:06 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-17 15:32:06 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-17 15:33:14 INFO  LogReporter:18 - Open firefox browser
+2019-09-17 15:33:19 INFO  LogReporter:18 - User landed the practo home page Successfully
+2019-09-17 15:33:24 INFO  LogReporter:18 - Document title is validated Buy Medicines,Health Products Online | India's Most Reliable Online Medical Store | Practo
+2019-09-17 15:33:24 INFO  LogReporter:18 - Successfully Navigated to the Pharmacy webpage
+2019-09-17 15:33:24 INFO  LogReporter:18 - Click the to painrelief image link
+2019-09-17 15:33:24 INFO  LogReporter:18 - Close the previous window
+2019-09-17 15:33:24 INFO  LogReporter:18 - Successfully navigated to pain relief Page
+2019-09-17 15:33:25 INFO  LogReporter:18 - Successfully Navigated to the painrelief webpage
+2019-09-17 15:33:28 INFO  LogReporter:18 - Navigate to the webpage fitness & wellness through left panel
+2019-09-17 15:33:28 INFO  LogReporter:18 - Document title is validated :Fitness & Wellness Products: Buy Online at Best Prices in India | Practo
+2019-09-17 15:33:29 INFO  LogReporter:18 - Successfully products added to the cart
+2019-09-17 15:33:31 INFO  LogReporter:18 - Click the View cart link button
+2019-09-17 15:33:31 INFO  LogReporter:18 - navigated to firness and wellness page and Successfully add to items in protein suppliments
+2019-09-17 15:33:31 INFO  LogReporter:18 - Successfully navigated to the cart
+2019-09-17 15:33:31 INFO  LogReporter:18 - Successfully verified the Product Name :B-Protin Powder Chocolate 200 g
+2019-09-17 15:33:32 INFO  LogReporter:18 - Successfully verified the Product Name :Apollo Pharmacy Slimchoice Shake Strawberry Flavour Powder
+2019-09-17 15:33:32 INFO  LogReporter:18 - Successfully verified the Product Price :495
+2019-09-17 15:33:32 INFO  LogReporter:18 - Successfully verified the Product count :1
+2019-09-17 15:33:32 INFO  LogReporter:18 - Successfully verified the total payment :724
+2019-09-17 15:33:32 INFO  LogReporter:18 - Successfully validated the cart details
+2019-09-17 15:33:43 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-17 15:33:43 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-17 15:33:43 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-17 15:33:43 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-17 15:33:43 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-17 15:33:44 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-17 15:33:44 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-17 15:33:44 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-17 15:33:44 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-17 15:33:44 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-17 15:36:55 INFO  LogReporter:18 - Open firefox browser
+2019-09-17 15:37:01 INFO  LogReporter:18 - User landed the practo home page Successfully
+2019-09-17 15:37:05 INFO  LogReporter:18 - Document title is validated Buy Medicines,Health Products Online | India's Most Reliable Online Medical Store | Practo
+2019-09-17 15:37:05 INFO  LogReporter:18 - Successfully Navigated to the Pharmacy webpage
+2019-09-17 15:37:06 INFO  LogReporter:18 - Click the to painrelief image link
+2019-09-17 15:37:06 INFO  LogReporter:18 - Close the previous window
+2019-09-17 15:37:06 INFO  LogReporter:18 - Successfully navigated to pain relief Page
+2019-09-17 15:37:06 INFO  LogReporter:18 - Successfully Navigated to the painrelief webpage
+2019-09-17 15:37:06 INFO  LogReporter:18 - Successfully Validated the correct Url is :https://www.practo.com/health-products/pain-relief/l
+2019-09-17 15:37:09 INFO  LogReporter:18 - Navigate to the webpage fitness & wellness through left panel
+2019-09-17 15:37:09 INFO  LogReporter:18 - Document title is validated :Fitness & Wellness Products: Buy Online at Best Prices in India | Practo
+2019-09-17 15:37:10 INFO  LogReporter:18 - Successfully products added to the cart
+2019-09-17 15:37:12 INFO  LogReporter:18 - Click the View cart link button
+2019-09-17 15:37:12 INFO  LogReporter:18 - navigated to firness and wellness page and Successfully add to items in protein suppliments
+2019-09-17 15:37:12 INFO  LogReporter:18 - Successfully navigated to the cart
+2019-09-17 15:37:13 INFO  LogReporter:18 - Successfully verified the Product Name :B-Protin Powder Chocolate 200 g
+2019-09-17 15:37:13 INFO  LogReporter:18 - Successfully verified the Product Name :Apollo Pharmacy Slimchoice Shake Strawberry Flavour Powder
+2019-09-17 15:37:13 INFO  LogReporter:18 - Successfully verified the Product Price :495
+2019-09-17 15:37:13 INFO  LogReporter:18 - Successfully verified the Product count :1
+2019-09-17 15:37:13 INFO  LogReporter:18 - Successfully verified the total payment :724
+2019-09-17 15:37:13 INFO  LogReporter:18 - Successfully validated the cart details
+2019-09-17 15:37:24 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-17 15:37:24 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-17 15:37:24 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-17 15:37:24 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-17 15:37:24 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-17 15:37:25 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-17 15:37:25 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-17 15:37:25 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-17 15:37:25 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-17 15:37:25 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-17 15:56:01 INFO  LogReporter:18 - Open firefox browser
+2019-09-17 15:56:06 INFO  LogReporter:18 - User landed the practo home page Successfully
+2019-09-17 15:56:10 INFO  LogReporter:18 - Document title is validated Buy Medicines,Health Products Online | India's Most Reliable Online Medical Store | Practo
+2019-09-17 15:56:10 INFO  LogReporter:18 - Successfully Navigated to the Pharmacy webpage
+2019-09-17 15:56:11 INFO  LogReporter:18 - Click the to painrelief image link
+2019-09-17 15:56:11 INFO  LogReporter:18 - Close the previous window
+2019-09-17 15:56:11 INFO  LogReporter:18 - Successfully navigated to pain relief Page
+2019-09-17 15:56:11 INFO  LogReporter:18 - Successfully Navigated to the painrelief webpage
+2019-09-17 15:56:15 INFO  LogReporter:18 - Navigate to the webpage fitness & wellness through left panel
+2019-09-17 15:56:15 INFO  LogReporter:18 - Document title is validated :Fitness & Wellness Products: Buy Online at Best Prices in India | Practo
+2019-09-17 15:56:16 INFO  LogReporter:18 - Successfully products added to the cart
+2019-09-17 15:56:18 INFO  LogReporter:18 - Click the View cart link button
+2019-09-17 15:56:18 INFO  LogReporter:18 - navigated to firness and wellness page and Successfully add to items in protein suppliments
+2019-09-17 15:56:18 INFO  LogReporter:18 - Successfully navigated to the cart
+2019-09-17 15:56:18 INFO  LogReporter:18 - Successfully verified the Product Name :B-Protin Powder Chocolate 200 g
+2019-09-17 15:56:19 INFO  LogReporter:18 - Successfully verified the Product Name :Apollo Pharmacy Slimchoice Shake Strawberry Flavour Powder
+2019-09-17 15:56:19 INFO  LogReporter:18 - Successfully verified the Product Price :495
+2019-09-17 15:56:19 INFO  LogReporter:18 - Successfully verified the Product count :1
+2019-09-17 15:56:19 INFO  LogReporter:18 - Successfully verified the total payment :724
+2019-09-17 15:56:19 INFO  LogReporter:18 - Successfully validated the cart details
+2019-09-17 15:56:41 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-17 15:56:41 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-17 15:56:41 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-17 15:56:41 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-17 15:56:41 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-17 15:56:41 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-17 15:56:41 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-17 15:56:41 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-17 15:56:41 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-17 15:56:41 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-17 15:57:48 INFO  LogReporter:18 - Open firefox browser
+2019-09-17 15:57:54 INFO  LogReporter:18 - User landed the practo home page Successfully
+2019-09-17 15:57:58 INFO  LogReporter:18 - Document title is validated Buy Medicines,Health Products Online | India's Most Reliable Online Medical Store | Practo
+2019-09-17 15:57:58 INFO  LogReporter:18 - Successfully Navigated to the Pharmacy webpage
+2019-09-17 15:57:59 INFO  LogReporter:18 - Click the to painrelief image link
+2019-09-17 15:57:59 INFO  LogReporter:18 - Close the previous window
+2019-09-17 15:57:59 INFO  LogReporter:18 - Successfully navigated to pain relief Page
+2019-09-17 15:57:59 INFO  LogReporter:18 - Successfully Navigated to the painrelief webpage
+2019-09-17 15:57:59 INFO  LogReporter:18 - Successfully Validated the correct Url is :https://www.practo.com/health-products/pain-relief/l
+2019-09-17 15:58:02 INFO  LogReporter:18 - Navigate to the webpage fitness & wellness through left panel
+2019-09-17 15:58:02 INFO  LogReporter:18 - Document title is validated :Fitness & Wellness Products: Buy Online at Best Prices in India | Practo
+2019-09-17 15:58:03 INFO  LogReporter:18 - Successfully products added to the cart
+2019-09-17 15:58:05 INFO  LogReporter:18 - Click the View cart link button
+2019-09-17 15:58:05 INFO  LogReporter:18 - navigated to firness and wellness page and Successfully add to items in protein suppliments
+2019-09-17 15:58:05 INFO  LogReporter:18 - Successfully navigated to the cart
+2019-09-17 15:58:05 INFO  LogReporter:18 - Successfully verified the Product Name :B-Protin Powder Chocolate 200 g
+2019-09-17 15:58:06 INFO  LogReporter:18 - Successfully verified the Product Name :Apollo Pharmacy Slimchoice Shake Strawberry Flavour Powder
+2019-09-17 15:58:06 INFO  LogReporter:18 - Successfully verified the Product Price :495
+2019-09-17 15:58:06 INFO  LogReporter:18 - Successfully verified the Product count :1
+2019-09-17 15:58:06 INFO  LogReporter:18 - Successfully verified the total payment :724
+2019-09-17 15:58:06 INFO  LogReporter:18 - Successfully validated the cart details
+2019-09-17 15:58:33 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-17 15:58:33 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-17 15:58:33 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-17 15:58:33 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-17 15:58:33 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-17 15:58:33 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-17 15:58:33 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-17 15:58:33 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-17 15:58:33 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-17 15:58:33 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-17 16:00:37 INFO  LogReporter:18 - Open firefox browser
+2019-09-17 16:00:43 INFO  LogReporter:18 - User landed the practo home page Successfully
+2019-09-17 16:00:48 INFO  LogReporter:18 - Document title is validated Buy Medicines,Health Products Online | India's Most Reliable Online Medical Store | Practo
+2019-09-17 16:00:48 INFO  LogReporter:18 - Successfully Navigated to the Pharmacy webpage
+2019-09-17 16:00:48 INFO  LogReporter:18 - Click the to painrelief image link
+2019-09-17 16:00:48 INFO  LogReporter:18 - Close the previous window
+2019-09-17 16:00:48 INFO  LogReporter:18 - Successfully navigated to pain relief Page
+2019-09-17 16:00:49 INFO  LogReporter:18 - Successfully Navigated to the painrelief webpage
+2019-09-17 16:00:54 INFO  LogReporter:18 - Navigate to the webpage fitness & wellness through left panel
+2019-09-17 16:00:54 INFO  LogReporter:18 - Document title is validated :Fitness & Wellness Products: Buy Online at Best Prices in India | Practo
+2019-09-17 16:00:55 INFO  LogReporter:18 - Successfully products added to the cart
+2019-09-17 16:00:57 INFO  LogReporter:18 - Click the View cart link button
+2019-09-17 16:00:57 INFO  LogReporter:18 - navigated to firness and wellness page and Successfully add to items in protein suppliments
+2019-09-17 16:00:57 INFO  LogReporter:18 - Successfully navigated to the cart
+2019-09-17 16:00:58 INFO  LogReporter:18 - Successfully verified the Product Name :B-Protin Powder Chocolate 200 g
+2019-09-17 16:00:58 INFO  LogReporter:18 - Successfully verified the Product Name :Apollo Pharmacy Slimchoice Shake Strawberry Flavour Powder
+2019-09-17 16:00:59 INFO  LogReporter:18 - Successfully verified the Product Price :495
+2019-09-17 16:00:59 INFO  LogReporter:18 - Successfully verified the Product count :1
+2019-09-17 16:00:59 INFO  LogReporter:18 - Successfully verified the total payment :724
+2019-09-17 16:00:59 INFO  LogReporter:18 - Successfully validated the cart details
+2019-09-17 16:01:10 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-17 16:01:10 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-17 16:01:10 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-17 16:01:10 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-17 16:01:10 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-17 16:01:10 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-17 16:01:10 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-17 16:01:11 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-17 16:01:11 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-17 16:01:11 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-17 16:01:45 INFO  LogReporter:18 - Open firefox browser
+2019-09-17 16:01:51 INFO  LogReporter:18 - User landed the practo home page Successfully
+2019-09-17 16:01:55 INFO  LogReporter:18 - Document title is validated Buy Medicines,Health Products Online | India's Most Reliable Online Medical Store | Practo
+2019-09-17 16:01:55 INFO  LogReporter:18 - Successfully Navigated to the Pharmacy webpage
+2019-09-17 16:01:56 INFO  LogReporter:18 - Click the to painrelief image link
+2019-09-17 16:01:56 INFO  LogReporter:18 - Close the previous window
+2019-09-17 16:01:56 INFO  LogReporter:18 - Successfully navigated to pain relief Page
+2019-09-17 16:01:57 INFO  LogReporter:18 - Successfully Navigated to the painrelief webpage
+2019-09-17 16:02:00 INFO  LogReporter:18 - Navigate to the webpage fitness & wellness through left panel
+2019-09-17 16:02:00 INFO  LogReporter:18 - Document title is validated :Fitness & Wellness Products: Buy Online at Best Prices in India | Practo
+2019-09-17 16:02:01 INFO  LogReporter:18 - Successfully products added to the cart
+2019-09-17 16:02:03 INFO  LogReporter:18 - Click the View cart link button
+2019-09-17 16:02:03 INFO  LogReporter:18 - navigated to firness and wellness page and Successfully add to items in protein suppliments
+2019-09-17 16:02:03 INFO  LogReporter:18 - Successfully navigated to the cart
+2019-09-17 16:02:03 INFO  LogReporter:18 - Successfully verified the Product Name :B-Protin Powder Chocolate 200 g
+2019-09-17 16:02:04 INFO  LogReporter:18 - Successfully verified the Product Name :Apollo Pharmacy Slimchoice Shake Strawberry Flavour Powder
+2019-09-17 16:02:04 INFO  LogReporter:18 - Successfully verified the Product Price :495
+2019-09-17 16:02:04 INFO  LogReporter:18 - Successfully verified the Product count :1
+2019-09-17 16:02:04 INFO  LogReporter:18 - Successfully verified the total payment :724
+2019-09-17 16:02:04 INFO  LogReporter:18 - Successfully validated the cart details
+2019-09-17 16:02:16 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-17 16:02:16 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-17 16:02:16 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-17 16:02:16 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-17 16:02:16 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-17 16:02:16 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-17 16:02:16 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-17 16:02:16 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-17 16:02:16 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-17 16:02:16 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-17 16:02:56 INFO  LogReporter:18 - Open firefox browser
+2019-09-17 16:03:02 INFO  LogReporter:18 - User landed the practo home page Successfully
+2019-09-17 16:03:07 INFO  LogReporter:18 - Document title is validated Buy Medicines,Health Products Online | India's Most Reliable Online Medical Store | Practo
+2019-09-17 16:03:07 INFO  LogReporter:18 - Successfully Navigated to the Pharmacy webpage
+2019-09-17 16:03:08 INFO  LogReporter:18 - Click the to painrelief image link
+2019-09-17 16:03:08 INFO  LogReporter:18 - Close the previous window
+2019-09-17 16:03:08 INFO  LogReporter:18 - Successfully navigated to pain relief Page
+2019-09-17 16:03:08 INFO  LogReporter:18 - Successfully Navigated to the painrelief webpage
+2019-09-17 16:03:08 INFO  LogReporter:18 - Successfully Validated the correct Url is :https://www.practo.com/health-products/pain-relief/l
+2019-09-17 16:03:11 INFO  LogReporter:18 - Navigate to the webpage fitness & wellness through left panel
+2019-09-17 16:03:11 INFO  LogReporter:18 - Document title is validated :Fitness & Wellness Products: Buy Online at Best Prices in India | Practo
+2019-09-17 16:03:12 INFO  LogReporter:18 - Successfully products added to the cart
+2019-09-17 16:03:14 INFO  LogReporter:18 - Click the View cart link button
+2019-09-17 16:03:14 INFO  LogReporter:18 - navigated to firness and wellness page and Successfully add to items in protein suppliments
+2019-09-17 16:03:14 INFO  LogReporter:18 - Successfully navigated to the cart
+2019-09-17 16:03:15 INFO  LogReporter:18 - Successfully verified the Product Name :B-Protin Powder Chocolate 200 g
+2019-09-17 16:03:15 INFO  LogReporter:18 - Successfully verified the Product Name :Apollo Pharmacy Slimchoice Shake Strawberry Flavour Powder
+2019-09-17 16:03:15 INFO  LogReporter:18 - Successfully verified the Product Price :495
+2019-09-17 16:03:15 INFO  LogReporter:18 - Successfully verified the Product count :1
+2019-09-17 16:03:15 INFO  LogReporter:18 - Successfully verified the total payment :724
+2019-09-17 16:03:15 INFO  LogReporter:18 - Successfully validated the cart details
+2019-09-17 16:03:27 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-17 16:03:27 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-17 16:03:27 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-17 16:03:27 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-17 16:03:27 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-17 16:03:28 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-17 16:03:28 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-17 16:03:28 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-17 16:03:28 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-17 16:03:28 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-17 16:04:07 INFO  LogReporter:18 - Open firefox browser
+2019-09-17 16:04:13 INFO  LogReporter:18 - User landed the practo home page Successfully
+2019-09-17 16:04:18 INFO  LogReporter:18 - Document title is validated Buy Medicines,Health Products Online | India's Most Reliable Online Medical Store | Practo
+2019-09-17 16:04:18 INFO  LogReporter:18 - Successfully Navigated to the Pharmacy webpage
+2019-09-17 16:04:18 INFO  LogReporter:18 - Click the to painrelief image link
+2019-09-17 16:04:18 INFO  LogReporter:18 - Close the previous window
+2019-09-17 16:04:18 INFO  LogReporter:18 - Successfully navigated to pain relief Page
+2019-09-17 16:04:19 INFO  LogReporter:18 - Successfully Navigated to the painrelief webpage
+2019-09-17 16:04:22 INFO  LogReporter:18 - Navigate to the webpage fitness & wellness through left panel
+2019-09-17 16:04:22 INFO  LogReporter:18 - Document title is validated :Fitness & Wellness Products: Buy Online at Best Prices in India | Practo
+2019-09-17 16:04:23 INFO  LogReporter:18 - Successfully products added to the cart
+2019-09-17 16:04:25 INFO  LogReporter:18 - Click the View cart link button
+2019-09-17 16:04:25 INFO  LogReporter:18 - navigated to firness and wellness page and Successfully add to items in protein suppliments
+2019-09-17 16:04:25 INFO  LogReporter:18 - Successfully navigated to the cart
+2019-09-17 16:04:26 INFO  LogReporter:18 - Successfully verified the Product Name :B-Protin Powder Chocolate 200 g
+2019-09-17 16:04:26 INFO  LogReporter:18 - Successfully verified the Product Name :Apollo Pharmacy Slimchoice Shake Strawberry Flavour Powder
+2019-09-17 16:04:26 INFO  LogReporter:18 - Successfully verified the Product Price :495
+2019-09-17 16:04:26 INFO  LogReporter:18 - Successfully verified the Product count :1
+2019-09-17 16:04:26 INFO  LogReporter:18 - Successfully verified the total payment :724
+2019-09-17 16:04:26 INFO  LogReporter:18 - Successfully validated the cart details
+2019-09-17 16:04:39 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-17 16:04:39 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-17 16:04:39 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-17 16:04:39 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-17 16:04:39 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-17 16:04:39 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-17 16:04:39 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-17 16:04:39 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-17 16:04:39 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-17 16:04:39 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-17 16:05:26 INFO  LogReporter:18 - Open firefox browser
+2019-09-17 16:05:31 INFO  LogReporter:18 - User landed the practo home page Successfully
+2019-09-17 16:05:36 INFO  LogReporter:18 - Document title is validated Buy Medicines,Health Products Online | India's Most Reliable Online Medical Store | Practo
+2019-09-17 16:05:36 INFO  LogReporter:18 - Successfully Navigated to the Pharmacy webpage
+2019-09-17 16:05:36 INFO  LogReporter:18 - Click the to painrelief image link
+2019-09-17 16:05:36 INFO  LogReporter:18 - Close the previous window
+2019-09-17 16:05:36 INFO  LogReporter:18 - Successfully navigated to pain relief Page
+2019-09-17 16:05:37 INFO  LogReporter:18 - Successfully Navigated to the painrelief webpage
+2019-09-17 16:05:40 INFO  LogReporter:18 - Navigate to the webpage fitness & wellness through left panel
+2019-09-17 16:05:40 INFO  LogReporter:18 - Document title is validated :Fitness & Wellness Products: Buy Online at Best Prices in India | Practo
+2019-09-17 16:05:41 INFO  LogReporter:18 - Successfully products added to the cart
+2019-09-17 16:05:43 INFO  LogReporter:18 - Click the View cart link button
+2019-09-17 16:05:43 INFO  LogReporter:18 - navigated to firness and wellness page and Successfully add to items in protein suppliments
+2019-09-17 16:05:43 INFO  LogReporter:18 - Successfully navigated to the cart
+2019-09-17 16:05:44 INFO  LogReporter:18 - Successfully verified the Product Name :B-Protin Powder Chocolate 200 g
+2019-09-17 16:05:44 INFO  LogReporter:18 - Successfully verified the Product Name :Apollo Pharmacy Slimchoice Shake Strawberry Flavour Powder
+2019-09-17 16:05:44 INFO  LogReporter:18 - Successfully verified the Product Price :495
+2019-09-17 16:05:45 INFO  LogReporter:18 - Successfully verified the Product count :1
+2019-09-17 16:05:45 INFO  LogReporter:18 - Successfully verified the total payment :724
+2019-09-17 16:05:45 INFO  LogReporter:18 - Successfully validated the cart details
+2019-09-17 16:05:57 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-17 16:05:57 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-17 16:05:57 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-17 16:05:57 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-17 16:05:57 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-17 16:05:57 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-17 16:05:57 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-17 16:05:57 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-17 16:05:57 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-17 16:05:57 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-17 16:06:18 INFO  LogReporter:18 - Open firefox browser
+2019-09-17 16:06:23 INFO  LogReporter:18 - User landed the practo home page Successfully
+2019-09-17 16:06:28 INFO  LogReporter:18 - Document title is validated Buy Medicines,Health Products Online | India's Most Reliable Online Medical Store | Practo
+2019-09-17 16:06:28 INFO  LogReporter:18 - Successfully Navigated to the Pharmacy webpage
+2019-09-17 16:06:28 INFO  LogReporter:18 - Click the to painrelief image link
+2019-09-17 16:06:28 INFO  LogReporter:18 - Close the previous window
+2019-09-17 16:06:28 INFO  LogReporter:18 - Successfully navigated to pain relief Page
+2019-09-17 16:06:29 INFO  LogReporter:18 - Successfully Navigated to the painrelief webpage
+2019-09-17 16:06:29 INFO  LogReporter:18 - Successfully Validated the correct Url is :https://www.practo.com/health-products/pain-relief/l
+2019-09-17 16:06:32 INFO  LogReporter:18 - Navigate to the webpage fitness & wellness through left panel
+2019-09-17 16:06:32 INFO  LogReporter:18 - Document title is validated :Fitness & Wellness Products: Buy Online at Best Prices in India | Practo
+2019-09-17 16:06:33 INFO  LogReporter:18 - Successfully products added to the cart
+2019-09-17 16:06:35 INFO  LogReporter:18 - Click the View cart link button
+2019-09-17 16:06:35 INFO  LogReporter:18 - navigated to firness and wellness page and Successfully add to items in protein suppliments
+2019-09-17 16:06:35 INFO  LogReporter:18 - Successfully navigated to the cart
+2019-09-17 16:06:36 INFO  LogReporter:18 - Successfully verified the Product Name :B-Protin Powder Chocolate 200 g
+2019-09-17 16:06:36 INFO  LogReporter:18 - Successfully verified the Product Name :Apollo Pharmacy Slimchoice Shake Strawberry Flavour Powder
+2019-09-17 16:06:36 INFO  LogReporter:18 - Successfully verified the Product Price :495
+2019-09-17 16:06:36 INFO  LogReporter:18 - Successfully verified the Product count :1
+2019-09-17 16:06:36 INFO  LogReporter:18 - Successfully verified the total payment :724
+2019-09-17 16:06:36 INFO  LogReporter:18 - Successfully validated the cart details
+2019-09-17 16:06:48 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-17 16:06:48 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-17 16:06:48 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-17 16:06:48 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-17 16:06:48 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-17 16:06:49 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-17 16:06:49 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-17 16:06:49 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-17 16:06:49 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-17 16:06:49 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-17 16:10:01 INFO  LogReporter:18 - Open firefox browser
+2019-09-17 16:10:07 INFO  LogReporter:18 - User landed the practo home page Successfully
+2019-09-17 16:10:11 INFO  LogReporter:18 - Document title is validated Buy Medicines,Health Products Online | India's Most Reliable Online Medical Store | Practo
+2019-09-17 16:10:11 INFO  LogReporter:18 - Successfully Navigated to the Pharmacy webpage
+2019-09-17 16:10:12 INFO  LogReporter:18 - Click the to painrelief image link
+2019-09-17 16:10:12 INFO  LogReporter:18 - Close the previous window
+2019-09-17 16:10:12 INFO  LogReporter:18 - Successfully navigated to pain relief Page
+2019-09-17 16:10:12 INFO  LogReporter:18 - Successfully Navigated to the painrelief webpage
+2019-09-17 16:10:12 INFO  LogReporter:18 - Successfully Validated the correct Url is :https://www.practo.com/health-products/pain-relief/l
+2019-09-17 16:10:16 INFO  LogReporter:18 - Navigate to the webpage fitness & wellness through left panel
+2019-09-17 16:10:16 INFO  LogReporter:18 - Document title is validated :Fitness & Wellness Products: Buy Online at Best Prices in India | Practo
+2019-09-17 16:10:17 INFO  LogReporter:18 - Successfully products added to the cart
+2019-09-17 16:10:19 INFO  LogReporter:18 - Click the View cart link button
+2019-09-17 16:10:19 INFO  LogReporter:18 - navigated to firness and wellness page and Successfully add to items in protein suppliments
+2019-09-17 16:10:19 INFO  LogReporter:18 - Successfully navigated to the cart
+2019-09-17 16:10:19 INFO  LogReporter:18 - Successfully verified the Product Name :B-Protin Powder Chocolate 200 g
+2019-09-17 16:10:20 INFO  LogReporter:18 - Successfully verified the Product Name :Apollo Pharmacy Slimchoice Shake Strawberry Flavour Powder
+2019-09-17 16:10:20 INFO  LogReporter:18 - Successfully verified the Product Price :495
+2019-09-17 16:10:20 INFO  LogReporter:18 - Successfully verified the Product count :1
+2019-09-17 16:10:20 INFO  LogReporter:18 - Successfully verified the total payment :724
+2019-09-17 16:10:20 INFO  LogReporter:18 - Successfully validated the cart details
+2019-09-17 16:10:32 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-17 16:10:32 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-17 16:10:32 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-17 16:10:32 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-17 16:10:32 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-17 16:10:33 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-17 16:10:33 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-17 16:10:33 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-17 16:10:33 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-17 16:10:33 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-17 16:11:42 INFO  LogReporter:18 - Open firefox browser
+2019-09-17 16:11:47 INFO  LogReporter:18 - User landed the practo home page Successfully
+2019-09-17 16:11:52 INFO  LogReporter:18 - Document title is validated Buy Medicines,Health Products Online | India's Most Reliable Online Medical Store | Practo
+2019-09-17 16:11:52 INFO  LogReporter:18 - Successfully Navigated to the Pharmacy webpage
+2019-09-17 16:11:52 INFO  LogReporter:18 - Click the to painrelief image link
+2019-09-17 16:11:52 INFO  LogReporter:18 - Close the previous window
+2019-09-17 16:11:52 INFO  LogReporter:18 - Successfully navigated to pain relief Page
+2019-09-17 16:11:53 INFO  LogReporter:18 - Successfully Navigated to the painrelief webpage
+2019-09-17 16:11:56 INFO  LogReporter:18 - Navigate to the webpage fitness & wellness through left panel
+2019-09-17 16:11:56 INFO  LogReporter:18 - Document title is validated :Fitness & Wellness Products: Buy Online at Best Prices in India | Practo
+2019-09-17 16:11:57 INFO  LogReporter:18 - Successfully products added to the cart
+2019-09-17 16:11:59 INFO  LogReporter:18 - Click the View cart link button
+2019-09-17 16:11:59 INFO  LogReporter:18 - navigated to firness and wellness page and Successfully add to items in protein suppliments
+2019-09-17 16:11:59 INFO  LogReporter:18 - Successfully navigated to the cart
+2019-09-17 16:11:59 INFO  LogReporter:18 - Successfully verified the Product Name :B-Protin Powder Chocolate 200 g
+2019-09-17 16:12:00 INFO  LogReporter:18 - Successfully verified the Product Name :Apollo Pharmacy Slimchoice Shake Strawberry Flavour Powder
+2019-09-17 16:12:00 INFO  LogReporter:18 - Successfully verified the Product Price :495
+2019-09-17 16:12:00 INFO  LogReporter:18 - Successfully verified the Product count :1
+2019-09-17 16:12:00 INFO  LogReporter:18 - Successfully verified the total payment :724
+2019-09-17 16:12:00 INFO  LogReporter:18 - Successfully validated the cart details
+2019-09-17 16:12:12 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-17 16:12:12 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-17 16:12:12 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-17 16:12:12 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-17 16:12:12 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-17 16:12:13 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-17 16:12:13 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-17 16:12:13 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-17 16:12:13 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-17 16:12:13 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-17 16:15:20 INFO  LogReporter:18 - Open chorme browser
+2019-09-17 16:15:24 INFO  LogReporter:18 - User landed the practo home page Successfully
+2019-09-17 16:15:32 INFO  LogReporter:18 - Document title is validated Buy Medicines,Health Products Online | India's Most Reliable Online Medical Store | Practo
+2019-09-17 16:15:32 INFO  LogReporter:18 - Successfully Navigated to the Pharmacy webpage
+2019-09-17 16:15:32 INFO  LogReporter:18 - Click the to painrelief image link
+2019-09-17 16:15:32 INFO  LogReporter:18 - Close the previous window
+2019-09-17 16:15:32 INFO  LogReporter:18 - Successfully navigated to pain relief Page
+2019-09-17 16:15:33 INFO  LogReporter:18 - Successfully Navigated to the painrelief webpage
+2019-09-17 16:15:37 INFO  LogReporter:18 - Successfully Validated the correct Url is :https://www.practo.com/health-products/pain-relief/l
+2019-09-17 16:15:39 INFO  LogReporter:18 - Navigate to the webpage fitness & wellness through left panel
+2019-09-17 16:15:39 INFO  LogReporter:18 - Document title is validated :Fitness & Wellness Products: Buy Online at Best Prices in India | Practo
+2019-09-17 16:15:40 INFO  LogReporter:18 - Successfully products added to the cart
+2019-09-17 16:15:41 INFO  LogReporter:18 - Click the View cart link button
+2019-09-17 16:15:41 INFO  LogReporter:18 - navigated to firness and wellness page and Successfully add to items in protein suppliments
+2019-09-17 16:15:42 INFO  LogReporter:18 - Successfully navigated to the cart
+2019-09-17 16:15:42 INFO  LogReporter:18 - Successfully verified the Product Name :B-Protin Powder Chocolate 200 g
+2019-09-17 16:15:42 INFO  LogReporter:18 - Successfully verified the Product Name :Apollo Pharmacy Slimchoice Shake Strawberry Flavour Powder
+2019-09-17 16:15:42 INFO  LogReporter:18 - Successfully verified the Product Price :495
+2019-09-17 16:15:42 INFO  LogReporter:18 - Successfully verified the Product count :1
+2019-09-17 16:15:42 INFO  LogReporter:18 - Successfully verified the total payment :724
+2019-09-17 16:15:42 INFO  LogReporter:18 - Successfully validated the cart details
+2019-09-17 16:15:51 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-17 16:15:51 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-17 16:15:51 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-17 16:15:51 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-17 16:15:51 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-17 16:15:51 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-17 16:15:51 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-17 16:15:51 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-17 16:15:51 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-17 16:15:51 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-17 16:16:55 INFO  LogReporter:18 - Open firefox browser
+2019-09-17 16:17:00 INFO  LogReporter:18 - User landed the practo home page Successfully
+2019-09-17 16:17:04 INFO  LogReporter:18 - Document title is validated Buy Medicines,Health Products Online | India's Most Reliable Online Medical Store | Practo
+2019-09-17 16:17:05 INFO  LogReporter:18 - Successfully Navigated to the Pharmacy webpage
+2019-09-17 16:17:05 INFO  LogReporter:18 - Click the to painrelief image link
+2019-09-17 16:17:05 INFO  LogReporter:18 - Close the previous window
+2019-09-17 16:17:05 INFO  LogReporter:18 - Successfully navigated to pain relief Page
+2019-09-17 16:17:06 INFO  LogReporter:18 - Successfully Navigated to the painrelief webpage
+2019-09-17 16:17:08 INFO  LogReporter:18 - Navigate to the webpage fitness & wellness through left panel
+2019-09-17 16:17:09 INFO  LogReporter:18 - Document title is validated :Fitness & Wellness Products: Buy Online at Best Prices in India | Practo
+2019-09-17 16:17:10 INFO  LogReporter:18 - Successfully products added to the cart
+2019-09-17 16:17:12 INFO  LogReporter:18 - Click the View cart link button
+2019-09-17 16:17:12 INFO  LogReporter:18 - navigated to firness and wellness page and Successfully add to items in protein suppliments
+2019-09-17 16:17:12 INFO  LogReporter:18 - Successfully navigated to the cart
+2019-09-17 16:17:12 INFO  LogReporter:18 - Successfully verified the Product Name :B-Protin Powder Chocolate 200 g
+2019-09-17 16:17:13 INFO  LogReporter:18 - Successfully verified the Product Name :Apollo Pharmacy Slimchoice Shake Strawberry Flavour Powder
+2019-09-17 16:17:13 INFO  LogReporter:18 - Successfully verified the Product Price :495
+2019-09-17 16:17:13 INFO  LogReporter:18 - Successfully verified the Product count :1
+2019-09-17 16:17:13 INFO  LogReporter:18 - Successfully verified the total payment :724
+2019-09-17 16:17:13 INFO  LogReporter:18 - Successfully validated the cart details
+2019-09-17 16:17:24 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-17 16:17:24 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-17 16:17:24 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-17 16:17:24 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-17 16:17:24 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-17 16:17:25 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-17 16:17:25 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-17 16:17:25 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-17 16:17:25 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-17 16:17:25 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-17 16:19:08 INFO  LogReporter:18 - Open firefox browser
+2019-09-17 16:19:19 INFO  LogReporter:18 - User landed the practo home page Successfully
+2019-09-17 16:19:24 INFO  LogReporter:18 - Document title is validated Buy Medicines,Health Products Online | India's Most Reliable Online Medical Store | Practo
+2019-09-17 16:19:24 INFO  LogReporter:18 - Successfully Navigated to the Pharmacy webpage
+2019-09-17 16:19:25 INFO  LogReporter:18 - Click the to painrelief image link
+2019-09-17 16:19:25 INFO  LogReporter:18 - Close the previous window
+2019-09-17 16:19:25 INFO  LogReporter:18 - Successfully navigated to pain relief Page
+2019-09-17 16:19:25 INFO  LogReporter:18 - Successfully Navigated to the painrelief webpage
+2019-09-17 16:19:28 INFO  LogReporter:18 - Navigate to the webpage fitness & wellness through left panel
+2019-09-17 16:19:28 INFO  LogReporter:18 - Document title is validated :Fitness & Wellness Products: Buy Online at Best Prices in India | Practo
+2019-09-17 16:19:30 INFO  LogReporter:18 - Successfully products added to the cart
+2019-09-17 16:19:31 INFO  LogReporter:18 - Click the View cart link button
+2019-09-17 16:19:31 INFO  LogReporter:18 - navigated to firness and wellness page and Successfully add to items in protein suppliments
+2019-09-17 16:19:32 INFO  LogReporter:18 - Successfully navigated to the cart
+2019-09-17 16:19:32 INFO  LogReporter:18 - Successfully verified the Product Name :B-Protin Powder Chocolate 200 g
+2019-09-17 16:19:32 INFO  LogReporter:18 - Successfully verified the Product Name :Apollo Pharmacy Slimchoice Shake Strawberry Flavour Powder
+2019-09-17 16:19:33 INFO  LogReporter:18 - Successfully verified the Product Price :495
+2019-09-17 16:19:33 INFO  LogReporter:18 - Successfully verified the Product count :1
+2019-09-17 16:19:33 INFO  LogReporter:18 - Successfully verified the total payment :724
+2019-09-17 16:19:33 INFO  LogReporter:18 - Successfully validated the cart details
+2019-09-17 16:19:45 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-17 16:19:45 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-17 16:19:45 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-17 16:19:45 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-17 16:19:45 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-17 16:19:46 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-17 16:19:46 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-17 16:19:46 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-17 16:19:46 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-17 16:19:46 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-17 16:21:34 INFO  LogReporter:18 - Open chorme browser
+2019-09-17 16:21:38 INFO  LogReporter:18 - User landed the practo home page Successfully
+2019-09-17 16:21:45 INFO  LogReporter:18 - Document title is validated Buy Medicines,Health Products Online | India's Most Reliable Online Medical Store | Practo
+2019-09-17 16:21:45 INFO  LogReporter:18 - Successfully Navigated to the Pharmacy webpage
+2019-09-17 16:21:46 INFO  LogReporter:18 - Click the to painrelief image link
+2019-09-17 16:21:46 INFO  LogReporter:18 - Close the previous window
+2019-09-17 16:21:46 INFO  LogReporter:18 - Successfully navigated to pain relief Page
+2019-09-17 16:21:47 INFO  LogReporter:18 - Successfully Navigated to the painrelief webpage
+2019-09-17 16:21:51 INFO  LogReporter:18 - Successfully Validated the correct Url is :https://www.practo.com/health-products/pain-relief/l
+2019-09-17 16:21:52 INFO  LogReporter:18 - Navigate to the webpage fitness & wellness through left panel
+2019-09-17 16:21:52 INFO  LogReporter:18 - Document title is validated :Fitness & Wellness Products: Buy Online at Best Prices in India | Practo
+2019-09-17 16:21:53 INFO  LogReporter:18 - Successfully products added to the cart
+2019-09-17 16:21:55 INFO  LogReporter:18 - Click the View cart link button
+2019-09-17 16:21:55 INFO  LogReporter:18 - navigated to firness and wellness page and Successfully add to items in protein suppliments
+2019-09-17 16:21:55 INFO  LogReporter:18 - Successfully navigated to the cart
+2019-09-17 16:21:55 INFO  LogReporter:18 - Successfully verified the Product Name :B-Protin Powder Chocolate 200 g
+2019-09-17 16:21:56 INFO  LogReporter:18 - Successfully verified the Product Name :Apollo Pharmacy Slimchoice Shake Strawberry Flavour Powder
+2019-09-17 16:21:56 INFO  LogReporter:18 - Successfully verified the Product Price :495
+2019-09-17 16:21:56 INFO  LogReporter:18 - Successfully verified the Product count :1
+2019-09-17 16:21:56 INFO  LogReporter:18 - Successfully verified the total payment :724
+2019-09-17 16:21:56 INFO  LogReporter:18 - Successfully validated the cart details
+2019-09-17 16:22:05 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-17 16:22:05 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-17 16:22:05 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-17 16:22:05 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-17 16:22:05 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-17 16:22:05 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-17 16:22:05 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-17 16:22:05 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-17 16:22:05 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-17 16:22:05 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-17 16:32:36 INFO  LogReporter:18 - Open chorme browser
+2019-09-17 16:32:41 INFO  LogReporter:18 - User landed the practo home page Successfully
+2019-09-17 16:32:48 INFO  LogReporter:18 - Document title is validated Buy Medicines,Health Products Online | India's Most Reliable Online Medical Store | Practo
+2019-09-17 16:32:48 INFO  LogReporter:18 - Successfully Navigated to the Pharmacy webpage
+2019-09-17 16:32:49 INFO  LogReporter:18 - Click the to painrelief image link
+2019-09-17 16:32:49 INFO  LogReporter:18 - Close the previous window
+2019-09-17 16:32:49 INFO  LogReporter:18 - Successfully navigated to pain relief Page
+2019-09-17 16:32:50 INFO  LogReporter:18 - Successfully Navigated to the painrelief webpage
+2019-09-17 16:32:54 INFO  LogReporter:18 - Successfully Validated the correct Url is :https://www.practo.com/health-products/pain-relief/l
+2019-09-17 16:32:56 INFO  LogReporter:18 - Navigate to the webpage fitness & wellness through left panel
+2019-09-17 16:32:56 INFO  LogReporter:18 - Document title is validated :Fitness & Wellness Products: Buy Online at Best Prices in India | Practo
+2019-09-17 16:32:57 INFO  LogReporter:18 - Successfully products added to the cart
+2019-09-17 16:32:58 INFO  LogReporter:18 - Click the View cart link button
+2019-09-17 16:32:58 INFO  LogReporter:18 - navigated to firness and wellness page and Successfully add to items in protein suppliments
+2019-09-17 16:32:58 INFO  LogReporter:18 - Successfully navigated to the cart
+2019-09-17 16:32:59 INFO  LogReporter:18 - Successfully verified the Product Name :B-Protin Powder Chocolate 200 g
+2019-09-17 16:32:59 INFO  LogReporter:18 - Successfully verified the Product Name :Apollo Pharmacy Slimchoice Shake Strawberry Flavour Powder
+2019-09-17 16:32:59 INFO  LogReporter:18 - Successfully verified the Product Price :495
+2019-09-17 16:32:59 INFO  LogReporter:18 - Successfully verified the Product count :1
+2019-09-17 16:32:59 INFO  LogReporter:18 - Successfully verified the total payment :724
+2019-09-17 16:32:59 INFO  LogReporter:18 - Successfully validated the cart details
+2019-09-17 16:33:02 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-17 16:33:02 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-17 16:33:02 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-17 16:33:02 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-17 16:33:02 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-17 16:33:02 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-17 16:33:02 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-17 16:33:02 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-17 16:33:02 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-17 16:33:02 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-17 16:35:43 INFO  LogReporter:18 - Open chorme browser
+2019-09-17 16:35:47 INFO  LogReporter:18 - User landed the practo home page Successfully
+2019-09-17 16:35:55 INFO  LogReporter:18 - Document title is validated Buy Medicines,Health Products Online | India's Most Reliable Online Medical Store | Practo
+2019-09-17 16:35:55 INFO  LogReporter:18 - Successfully Navigated to the Pharmacy webpage
+2019-09-17 16:35:56 INFO  LogReporter:18 - Click the to painrelief image link
+2019-09-17 16:35:56 INFO  LogReporter:18 - Close the previous window
+2019-09-17 16:35:56 INFO  LogReporter:18 - Successfully navigated to pain relief Page
+2019-09-17 16:35:56 INFO  LogReporter:18 - Successfully Navigated to the painrelief webpage
+2019-09-17 16:36:01 INFO  LogReporter:18 - Successfully Validated the correct Url is :https://www.practo.com/health-products/pain-relief/l
+2019-09-17 16:36:03 INFO  LogReporter:18 - Navigate to the webpage fitness & wellness through left panel
+2019-09-17 16:36:03 INFO  LogReporter:18 - Document title is validated :Fitness & Wellness Products: Buy Online at Best Prices in India | Practo
+2019-09-17 16:36:03 INFO  LogReporter:18 - Successfully products added to the cart
+2019-09-17 16:36:05 INFO  LogReporter:18 - Click the View cart link button
+2019-09-17 16:36:05 INFO  LogReporter:18 - navigated to firness and wellness page and Successfully add to items in protein suppliments
+2019-09-17 16:36:05 INFO  LogReporter:18 - Successfully navigated to the cart
+2019-09-17 16:36:05 INFO  LogReporter:18 - Successfully verified the Product Name :B-Protin Powder Chocolate 200 g
+2019-09-17 16:36:06 INFO  LogReporter:18 - Successfully verified the Product Name :Apollo Pharmacy Slimchoice Shake Strawberry Flavour Powder
+2019-09-17 16:36:06 INFO  LogReporter:18 - Successfully verified the Product Price :495
+2019-09-17 16:36:06 INFO  LogReporter:18 - Successfully verified the Product count :1
+2019-09-17 16:36:06 INFO  LogReporter:18 - Successfully verified the total payment :724
+2019-09-17 16:36:06 INFO  LogReporter:18 - Successfully validated the cart details
+2019-09-17 16:36:08 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-17 16:36:08 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-17 16:36:08 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-17 16:36:08 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-17 16:36:08 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-17 16:36:09 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-17 16:36:09 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-17 16:36:09 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-17 16:36:09 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-17 16:36:09 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-17 16:36:44 INFO  LogReporter:18 - Open chorme browser
+2019-09-17 16:36:48 INFO  LogReporter:18 - User landed the practo home page Successfully
+2019-09-17 16:36:56 INFO  LogReporter:18 - Document title is validated Buy Medicines,Health Products Online | India's Most Reliable Online Medical Store | Practo
+2019-09-17 16:36:56 INFO  LogReporter:18 - Successfully Navigated to the Pharmacy webpage
+2019-09-17 16:36:56 INFO  LogReporter:18 - Click the to painrelief image link
+2019-09-17 16:36:56 INFO  LogReporter:18 - Close the previous window
+2019-09-17 16:36:56 INFO  LogReporter:18 - Successfully navigated to pain relief Page
+2019-09-17 16:36:57 INFO  LogReporter:18 - Successfully Navigated to the painrelief webpage
+2019-09-17 16:37:01 INFO  LogReporter:18 - Successfully Validated the correct Url is :https://www.practo.com/health-products/pain-relief/l
+2019-09-17 16:37:03 INFO  LogReporter:18 - Navigate to the webpage fitness & wellness through left panel
+2019-09-17 16:37:03 INFO  LogReporter:18 - Document title is validated :Fitness & Wellness Products: Buy Online at Best Prices in India | Practo
+2019-09-17 16:37:04 INFO  LogReporter:18 - Successfully products added to the cart
+2019-09-17 16:37:05 INFO  LogReporter:18 - Click the View cart link button
+2019-09-17 16:37:05 INFO  LogReporter:18 - navigated to firness and wellness page and Successfully add to items in protein suppliments
+2019-09-17 16:37:06 INFO  LogReporter:18 - Successfully navigated to the cart
+2019-09-17 16:37:06 INFO  LogReporter:18 - Successfully verified the Product Name :B-Protin Powder Chocolate 200 g
+2019-09-17 16:37:06 INFO  LogReporter:18 - Successfully verified the Product Name :Apollo Pharmacy Slimchoice Shake Strawberry Flavour Powder
+2019-09-17 16:37:06 INFO  LogReporter:18 - Successfully verified the Product Price :495
+2019-09-17 16:37:06 INFO  LogReporter:18 - Successfully verified the Product count :1
+2019-09-17 16:37:06 INFO  LogReporter:18 - Successfully verified the total payment :724
+2019-09-17 16:37:06 INFO  LogReporter:18 - Successfully validated the cart details
+2019-09-17 16:37:09 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-17 16:37:09 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-17 16:37:09 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-17 16:37:09 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-17 16:37:09 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-17 16:37:09 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-17 16:37:09 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-17 16:37:09 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-17 16:37:09 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-17 16:37:09 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-17 16:40:39 INFO  LogReporter:18 - Open chorme browser
+2019-09-17 16:40:43 INFO  LogReporter:18 - User landed the practo home page Successfully
+2019-09-17 16:40:51 INFO  LogReporter:18 - Document title is validated Buy Medicines,Health Products Online | India's Most Reliable Online Medical Store | Practo
+2019-09-17 16:40:51 INFO  LogReporter:18 - Successfully Navigated to the Pharmacy webpage
+2019-09-17 16:40:52 INFO  LogReporter:18 - Click the to painrelief image link
+2019-09-17 16:40:52 INFO  LogReporter:18 - Close the previous window
+2019-09-17 16:40:52 INFO  LogReporter:18 - Successfully navigated to pain relief Page
+2019-09-17 16:40:53 INFO  LogReporter:18 - Successfully Navigated to the painrelief webpage
+2019-09-17 16:40:57 INFO  LogReporter:18 - Successfully Validated the correct Url is :https://www.practo.com/health-products/pain-relief/l
+2019-09-17 16:40:58 INFO  LogReporter:18 - Navigate to the webpage fitness & wellness through left panel
+2019-09-17 16:40:58 INFO  LogReporter:18 - Document title is validated :Fitness & Wellness Products: Buy Online at Best Prices in India | Practo
+2019-09-17 16:40:59 INFO  LogReporter:18 - Successfully products added to the cart
+2019-09-17 16:41:00 INFO  LogReporter:18 - Click the View cart link button
+2019-09-17 16:41:00 INFO  LogReporter:18 - navigated to firness and wellness page and Successfully add to items in protein suppliments
+2019-09-17 16:41:01 INFO  LogReporter:18 - Successfully navigated to the cart
+2019-09-17 16:41:01 INFO  LogReporter:18 - Successfully verified the Product Name :B-Protin Powder Chocolate 200 g
+2019-09-17 16:41:01 INFO  LogReporter:18 - Successfully verified the Product Name :Apollo Pharmacy Slimchoice Shake Strawberry Flavour Powder
+2019-09-17 16:41:02 INFO  LogReporter:18 - Successfully verified the Product Price :495
+2019-09-17 16:41:02 INFO  LogReporter:18 - Successfully verified the Product count :1
+2019-09-17 16:41:02 INFO  LogReporter:18 - Successfully verified the total payment :724
+2019-09-17 16:41:02 INFO  LogReporter:18 - Successfully validated the cart details
+2019-09-17 16:41:08 INFO  LogReporter:18 - Successfully verified the Product Name :Apollo Pharmacy Slim Choice Shake Strawberry 500g
+2019-09-17 16:41:08 INFO  LogReporter:18 - Successfully verified the Product Price :495
+2019-09-17 16:41:09 INFO  LogReporter:18 - Successfully verified the Product count :1
+2019-09-17 16:41:09 INFO  LogReporter:18 - Successfully the product is removed
+2019-09-17 16:41:09 INFO  LogReporter:18 - Successfully verified the total payment :495
+2019-09-17 16:41:09 INFO  LogReporter:18 - Successfully validated the cart details after remove the product
+2019-09-17 16:41:09 INFO  LogReporter:18 - Navigated to Cart page and Successfully validated items after add and remove the product
+2019-09-17 16:41:09 INFO  LogReporter:18 - Driver is closed Successfully
+2019-09-17 16:41:10 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-17 16:41:10 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-17 16:41:10 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-17 16:41:10 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-17 16:41:10 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-17 16:41:11 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-17 16:41:11 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-17 16:41:11 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-17 16:41:11 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-17 16:41:11 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-17 16:48:07 INFO  LogReporter:18 - Open firefox browser
+2019-09-17 16:48:13 INFO  LogReporter:18 - User landed the practo home page Successfully
+2019-09-17 16:48:18 INFO  LogReporter:18 - Document title is validated Buy Medicines,Health Products Online | India's Most Reliable Online Medical Store | Practo
+2019-09-17 16:48:18 INFO  LogReporter:18 - Successfully Navigated to the Pharmacy webpage
+2019-09-17 16:48:18 INFO  LogReporter:18 - Click the to painrelief image link
+2019-09-17 16:48:18 INFO  LogReporter:18 - Close the previous window
+2019-09-17 16:48:18 INFO  LogReporter:18 - Successfully navigated to pain relief Page
+2019-09-17 16:48:19 INFO  LogReporter:18 - Successfully Navigated to the painrelief webpage
+2019-09-17 16:48:19 INFO  LogReporter:18 - Successfully Validated the correct Url is :https://www.practo.com/health-products/pain-relief/l
+2019-09-17 16:48:22 INFO  LogReporter:18 - Navigate to the webpage fitness & wellness through left panel
+2019-09-17 16:48:22 INFO  LogReporter:18 - Document title is validated :Fitness & Wellness Products: Buy Online at Best Prices in India | Practo
+2019-09-17 16:48:23 INFO  LogReporter:18 - Successfully products added to the cart
+2019-09-17 16:48:25 INFO  LogReporter:18 - Click the View cart link button
+2019-09-17 16:48:25 INFO  LogReporter:18 - navigated to firness and wellness page and Successfully add to items in protein suppliments
+2019-09-17 16:48:25 INFO  LogReporter:18 - Successfully navigated to the cart
+2019-09-17 16:48:26 INFO  LogReporter:18 - Successfully verified the Product Name :B-Protin Powder Chocolate 200 g
+2019-09-17 16:48:26 INFO  LogReporter:18 - Successfully verified the Product Name :Apollo Pharmacy Slimchoice Shake Strawberry Flavour Powder
+2019-09-17 16:48:26 INFO  LogReporter:18 - Successfully verified the Product Price :495
+2019-09-17 16:48:26 INFO  LogReporter:18 - Successfully verified the Product count :1
+2019-09-17 16:48:26 INFO  LogReporter:18 - Successfully verified the total payment :724
+2019-09-17 16:48:26 INFO  LogReporter:18 - Successfully validated the cart details
+2019-09-17 16:48:35 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-17 16:48:35 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-17 16:48:35 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-17 16:48:35 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-17 16:48:35 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-17 16:48:35 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-17 16:48:35 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-17 16:48:35 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-17 16:48:35 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-17 16:48:35 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-17 16:49:32 INFO  LogReporter:18 - Open firefox browser
+2019-09-17 16:49:38 INFO  LogReporter:18 - User landed the practo home page Successfully
+2019-09-17 16:49:44 INFO  LogReporter:18 - Document title is validated Buy Medicines,Health Products Online | India's Most Reliable Online Medical Store | Practo
+2019-09-17 16:49:44 INFO  LogReporter:18 - Successfully Navigated to the Pharmacy webpage
+2019-09-17 16:49:44 INFO  LogReporter:18 - Click the to painrelief image link
+2019-09-17 16:49:44 INFO  LogReporter:18 - Close the previous window
+2019-09-17 16:49:44 INFO  LogReporter:18 - Successfully navigated to pain relief Page
+2019-09-17 16:49:45 INFO  LogReporter:18 - Successfully Navigated to the painrelief webpage
+2019-09-17 16:49:45 INFO  LogReporter:18 - Successfully Validated the correct Url is :https://www.practo.com/health-products/pain-relief/l
+2019-09-17 16:49:48 INFO  LogReporter:18 - Navigate to the webpage fitness & wellness through left panel
+2019-09-17 16:49:48 INFO  LogReporter:18 - Document title is validated :Fitness & Wellness Products: Buy Online at Best Prices in India | Practo
+2019-09-17 16:49:49 INFO  LogReporter:18 - Successfully products added to the cart
+2019-09-17 16:49:51 INFO  LogReporter:18 - Click the View cart link button
+2019-09-17 16:49:51 INFO  LogReporter:18 - navigated to firness and wellness page and Successfully add to items in protein suppliments
+2019-09-17 16:49:51 INFO  LogReporter:18 - Successfully navigated to the cart
+2019-09-17 16:49:51 INFO  LogReporter:18 - Successfully verified the Product Name :B-Protin Powder Chocolate 200 g
+2019-09-17 16:49:52 INFO  LogReporter:18 - Successfully verified the Product Name :Apollo Pharmacy Slimchoice Shake Strawberry Flavour Powder
+2019-09-17 16:49:52 INFO  LogReporter:18 - Successfully verified the Product Price :495
+2019-09-17 16:49:52 INFO  LogReporter:18 - Successfully verified the Product count :1
+2019-09-17 16:49:52 INFO  LogReporter:18 - Successfully verified the total payment :724
+2019-09-17 16:49:52 INFO  LogReporter:18 - Successfully validated the cart details
+2019-09-17 16:50:01 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-17 16:50:01 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-17 16:50:01 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-17 16:50:01 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-17 16:50:01 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-17 16:50:02 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-17 16:50:02 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-17 16:50:02 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-17 16:50:02 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-17 16:50:02 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-17 16:56:12 INFO  LogReporter:18 - Open chorme browser
+2019-09-17 16:56:16 INFO  LogReporter:18 - User landed the practo home page Successfully
+2019-09-17 16:56:23 INFO  LogReporter:18 - Document title is validated Buy Medicines,Health Products Online | India's Most Reliable Online Medical Store | Practo
+2019-09-17 16:56:23 INFO  LogReporter:18 - Successfully Navigated to the Pharmacy webpage
+2019-09-17 16:56:24 INFO  LogReporter:18 - Click the to painrelief image link
+2019-09-17 16:56:24 INFO  LogReporter:18 - Close the previous window
+2019-09-17 16:56:24 INFO  LogReporter:18 - Successfully navigated to pain relief Page
+2019-09-17 16:56:25 INFO  LogReporter:18 - Successfully Navigated to the painrelief webpage
+2019-09-17 16:56:29 INFO  LogReporter:18 - Successfully Validated the correct Url is :https://www.practo.com/health-products/pain-relief/l
+2019-09-17 16:56:31 INFO  LogReporter:18 - Navigate to the webpage fitness & wellness through left panel
+2019-09-17 16:56:31 INFO  LogReporter:18 - Document title is validated :Fitness & Wellness Products: Buy Online at Best Prices in India | Practo
+2019-09-17 16:56:31 INFO  LogReporter:18 - Successfully products added to the cart
+2019-09-17 16:56:33 INFO  LogReporter:18 - Click the View cart link button
+2019-09-17 16:56:33 INFO  LogReporter:18 - navigated to firness and wellness page and Successfully add to items in protein suppliments
+2019-09-17 16:56:33 INFO  LogReporter:18 - Successfully navigated to the cart
+2019-09-17 16:56:33 INFO  LogReporter:18 - Successfully verified the Product Name :B-Protin Powder Chocolate 200 g
+2019-09-17 16:56:34 INFO  LogReporter:18 - Successfully verified the Product Name :Apollo Pharmacy Slimchoice Shake Strawberry Flavour Powder
+2019-09-17 16:56:34 INFO  LogReporter:18 - Successfully verified the Product Price :495
+2019-09-17 16:56:34 INFO  LogReporter:18 - Successfully verified the Product count :1
+2019-09-17 16:56:34 INFO  LogReporter:18 - Successfully verified the total payment :724
+2019-09-17 16:56:34 INFO  LogReporter:18 - Successfully validated the cart details
+2019-09-17 16:56:39 INFO  LogReporter:18 - Successfully verified the Product Name :Apollo Pharmacy Slim Choice Shake Strawberry 500g
+2019-09-17 16:56:39 INFO  LogReporter:18 - Successfully verified the Product Price :495
+2019-09-17 16:56:39 INFO  LogReporter:18 - Successfully verified the Product count :1
+2019-09-17 16:56:39 INFO  LogReporter:18 - Successfully the product is removed
+2019-09-17 16:56:39 INFO  LogReporter:18 - Successfully verified the total payment :495
+2019-09-17 16:56:39 INFO  LogReporter:18 - Successfully validated the cart details after remove the product
+2019-09-17 16:56:39 INFO  LogReporter:18 - Navigated to Cart page and Successfully validated items after add and remove the product
+2019-09-17 16:56:39 INFO  LogReporter:18 - Driver is closed Successfully
+2019-09-17 16:56:40 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-17 16:56:40 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-17 16:56:40 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-17 16:56:40 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-17 16:56:40 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-17 16:56:41 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-17 16:56:41 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-17 16:56:41 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-17 16:56:41 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-17 16:56:41 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-17 17:26:55 INFO  LogReporter:18 - Open firefox browser
+2019-09-17 17:27:01 INFO  LogReporter:18 - User landed the practo home page Successfully
+2019-09-17 17:27:05 INFO  LogReporter:18 - Document title is validated Buy Medicines,Health Products Online | India's Most Reliable Online Medical Store | Practo
+2019-09-17 17:27:05 INFO  LogReporter:18 - Successfully Navigated to the Pharmacy webpage
+2019-09-17 17:27:06 INFO  LogReporter:18 - Click the to painrelief image link
+2019-09-17 17:27:06 INFO  LogReporter:18 - Close the previous window
+2019-09-17 17:27:06 INFO  LogReporter:18 - Successfully navigated to pain relief Page
+2019-09-17 17:27:06 INFO  LogReporter:18 - Successfully Navigated to the painrelief webpage
+2019-09-17 17:27:10 INFO  LogReporter:18 - Navigate to the webpage fitness & wellness through left panel
+2019-09-17 17:27:10 INFO  LogReporter:18 - Document title is validated :Fitness & Wellness Products: Buy Online at Best Prices in India | Practo
+2019-09-17 17:27:11 INFO  LogReporter:18 - Successfully products added to the cart
+2019-09-17 17:27:13 INFO  LogReporter:18 - Click the View cart link button
+2019-09-17 17:27:13 INFO  LogReporter:18 - navigated to firness and wellness page and Successfully add to items in protein suppliments
+2019-09-17 17:27:13 INFO  LogReporter:18 - Successfully navigated to the cart
+2019-09-17 17:27:13 INFO  LogReporter:18 - Successfully verified the Product Name :B-Protin Powder Chocolate 200 g
+2019-09-17 17:27:14 INFO  LogReporter:18 - Successfully verified the Product Name :Apollo Pharmacy Slimchoice Shake Strawberry Flavour Powder
+2019-09-17 17:27:14 INFO  LogReporter:18 - Successfully verified the Product Price :495
+2019-09-17 17:27:14 INFO  LogReporter:18 - Successfully verified the Product count :1
+2019-09-17 17:27:14 INFO  LogReporter:18 - Successfully verified the total payment :724
+2019-09-17 17:27:14 INFO  LogReporter:18 - Successfully validated the cart details
+2019-09-17 17:27:22 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-17 17:27:22 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-17 17:27:22 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-17 17:27:22 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-17 17:27:22 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-17 17:27:23 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-17 17:27:23 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-17 17:27:23 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-17 17:27:23 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-17 17:27:23 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-17 17:32:41 INFO  LogReporter:18 - Open chorme browser
+2019-09-17 17:32:45 INFO  LogReporter:18 - User landed the practo home page Successfully
+2019-09-17 17:32:54 INFO  LogReporter:18 - Document title is validated Buy Medicines,Health Products Online | India's Most Reliable Online Medical Store | Practo
+2019-09-17 17:32:54 INFO  LogReporter:18 - Successfully Navigated to the Pharmacy webpage
+2019-09-17 17:32:54 INFO  LogReporter:18 - Click the to painrelief image link
+2019-09-17 17:32:54 INFO  LogReporter:18 - Close the previous window
+2019-09-17 17:32:54 INFO  LogReporter:18 - Successfully navigated to pain relief Page
+2019-09-17 17:32:55 INFO  LogReporter:18 - Successfully Navigated to the painrelief webpage
+2019-09-17 17:32:59 INFO  LogReporter:18 - Successfully Validated the correct Url is :https://www.practo.com/health-products/pain-relief/l
+2019-09-17 17:33:01 INFO  LogReporter:18 - Navigate to the webpage fitness & wellness through left panel
+2019-09-17 17:33:01 INFO  LogReporter:18 - Document title is validated :Fitness & Wellness Products: Buy Online at Best Prices in India | Practo
+2019-09-17 17:33:02 INFO  LogReporter:18 - Successfully products added to the cart
+2019-09-17 17:33:03 INFO  LogReporter:18 - Click the View cart link button
+2019-09-17 17:33:03 INFO  LogReporter:18 - navigated to firness and wellness page and Successfully add to items in protein suppliments
+2019-09-17 17:33:04 INFO  LogReporter:18 - Successfully navigated to the cart
+2019-09-17 17:33:04 INFO  LogReporter:18 - Successfully verified the Product Name :B-Protin Powder Chocolate 200 g
+2019-09-17 17:33:04 INFO  LogReporter:18 - Successfully verified the Product Name :Apollo Pharmacy Slimchoice Shake Strawberry Flavour Powder
+2019-09-17 17:33:04 INFO  LogReporter:18 - Successfully verified the Product Price :495
+2019-09-17 17:33:04 INFO  LogReporter:18 - Successfully verified the Product count :1
+2019-09-17 17:33:04 INFO  LogReporter:18 - Successfully verified the total payment :724
+2019-09-17 17:33:04 INFO  LogReporter:18 - Successfully validated the cart details
+2019-09-17 17:33:09 INFO  LogReporter:18 - Successfully verified the Product Name :Apollo Pharmacy Slim Choice Shake Strawberry 500g
+2019-09-17 17:33:09 INFO  LogReporter:18 - Successfully verified the Product Price :495
+2019-09-17 17:33:09 INFO  LogReporter:18 - Successfully verified the Product count :1
+2019-09-17 17:33:09 INFO  LogReporter:18 - Successfully the product is removed
+2019-09-17 17:33:09 INFO  LogReporter:18 - Successfully verified the total payment :495
+2019-09-17 17:33:09 INFO  LogReporter:18 - Successfully validated the cart details after remove the product
+2019-09-17 17:33:09 INFO  LogReporter:18 - Navigated to Cart page and Successfully validated items after add and remove the product
+2019-09-17 17:33:09 INFO  LogReporter:18 - Driver is closed Successfully
+2019-09-17 17:33:11 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-17 17:33:11 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-17 17:33:11 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-17 17:33:11 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-17 17:33:11 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-17 17:33:11 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-17 17:33:11 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-17 17:33:11 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-17 17:33:11 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-17 17:33:11 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-17 18:05:20 INFO  LogReporter:18 - Open chorme browser
+2019-09-17 18:05:24 INFO  LogReporter:18 - User landed the practo home page Successfully
+2019-09-17 18:05:33 INFO  LogReporter:18 - Document title is validated Buy Medicines,Health Products Online | India's Most Reliable Online Medical Store | Practo
+2019-09-17 18:05:33 INFO  LogReporter:18 - Successfully Navigated to the Pharmacy webpage
+2019-09-17 18:05:33 INFO  LogReporter:18 - Click the to painrelief image link
+2019-09-17 18:05:33 INFO  LogReporter:18 - Close the previous window
+2019-09-17 18:05:33 INFO  LogReporter:18 - Successfully navigated to pain relief Page
+2019-09-17 18:05:34 INFO  LogReporter:18 - Successfully Navigated to the painrelief webpage
+2019-09-17 18:05:39 INFO  LogReporter:18 - Successfully Validated the correct Url is :https://www.practo.com/health-products/pain-relief/l
+2019-09-17 18:05:40 INFO  LogReporter:18 - Navigate to the webpage fitness & wellness through left panel
+2019-09-17 18:05:40 INFO  LogReporter:18 - Document title is validated :Fitness & Wellness Products: Buy Online at Best Prices in India | Practo
+2019-09-17 18:05:41 INFO  LogReporter:18 - Successfully products added to the cart
+2019-09-17 18:05:42 INFO  LogReporter:18 - Click the View cart link button
+2019-09-17 18:05:42 INFO  LogReporter:18 - navigated to firness and wellness page and Successfully add to items in protein suppliments
+2019-09-17 18:05:43 INFO  LogReporter:18 - Successfully navigated to the cart
+2019-09-17 18:05:43 INFO  LogReporter:18 - Successfully verified the Product Name :B-Protin Powder Chocolate 200 g
+2019-09-17 18:05:44 INFO  LogReporter:18 - Successfully verified the Product Name :Apollo Pharmacy Slimchoice Shake Strawberry Flavour Powder
+2019-09-17 18:05:44 INFO  LogReporter:18 - Successfully verified the Product Price :495
+2019-09-17 18:05:44 INFO  LogReporter:18 - Successfully verified the Product count :1
+2019-09-17 18:05:44 INFO  LogReporter:18 - Successfully verified the total payment :724
+2019-09-17 18:05:44 INFO  LogReporter:18 - Successfully validated the cart details
+2019-09-17 18:05:49 INFO  LogReporter:18 - Successfully verified the Product Name :Apollo Pharmacy Slim Choice Shake Strawberry 500g
+2019-09-17 18:05:49 INFO  LogReporter:18 - Successfully verified the Product Price :495
+2019-09-17 18:05:49 INFO  LogReporter:18 - Successfully verified the Product count :1
+2019-09-17 18:05:49 INFO  LogReporter:18 - Successfully the product is removed
+2019-09-17 18:05:49 INFO  LogReporter:18 - Successfully verified the total payment :495
+2019-09-17 18:05:49 INFO  LogReporter:18 - Successfully validated the cart details after remove the product
+2019-09-17 18:05:49 INFO  LogReporter:18 - Navigated to Cart page and Successfully validated items after add and remove the product
+2019-09-17 18:05:49 INFO  LogReporter:18 - Driver is closed Successfully
+2019-09-17 18:05:50 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-17 18:05:50 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-17 18:05:50 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-17 18:05:50 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-17 18:05:50 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-17 18:05:51 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-17 18:05:51 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-17 18:05:51 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-17 18:05:51 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-17 18:05:51 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-17 18:06:25 INFO  LogReporter:18 - Open firefox browser
+2019-09-17 18:06:31 INFO  LogReporter:18 - User landed the practo home page Successfully
+2019-09-17 18:06:36 INFO  LogReporter:18 - Document title is validated Buy Medicines,Health Products Online | India's Most Reliable Online Medical Store | Practo
+2019-09-17 18:06:36 INFO  LogReporter:18 - Successfully Navigated to the Pharmacy webpage
+2019-09-17 18:06:36 INFO  LogReporter:18 - Click the to painrelief image link
+2019-09-17 18:06:36 INFO  LogReporter:18 - Close the previous window
+2019-09-17 18:06:36 INFO  LogReporter:18 - Successfully navigated to pain relief Page
+2019-09-17 18:06:37 INFO  LogReporter:18 - Successfully Navigated to the painrelief webpage
+2019-09-17 18:06:37 INFO  LogReporter:18 - Successfully Validated the correct Url is :https://www.practo.com/health-products/pain-relief/l
+2019-09-17 18:06:40 INFO  LogReporter:18 - Navigate to the webpage fitness & wellness through left panel
+2019-09-17 18:06:40 INFO  LogReporter:18 - Document title is validated :Fitness & Wellness Products: Buy Online at Best Prices in India | Practo
+2019-09-17 18:06:41 INFO  LogReporter:18 - Successfully products added to the cart
+2019-09-17 18:06:43 INFO  LogReporter:18 - Click the View cart link button
+2019-09-17 18:06:43 INFO  LogReporter:18 - navigated to firness and wellness page and Successfully add to items in protein suppliments
+2019-09-17 18:06:44 INFO  LogReporter:18 - Successfully navigated to the cart
+2019-09-17 18:06:44 INFO  LogReporter:18 - Successfully verified the Product Name :B-Protin Powder Chocolate 200 g
+2019-09-17 18:06:44 INFO  LogReporter:18 - Successfully verified the Product Name :Apollo Pharmacy Slimchoice Shake Strawberry Flavour Powder
+2019-09-17 18:06:45 INFO  LogReporter:18 - Successfully verified the Product Price :495
+2019-09-17 18:06:45 INFO  LogReporter:18 - Successfully verified the Product count :1
+2019-09-17 18:06:45 INFO  LogReporter:18 - Successfully verified the total payment :724
+2019-09-17 18:06:45 INFO  LogReporter:18 - Successfully validated the cart details
+2019-09-17 18:06:53 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-17 18:06:53 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-17 18:06:53 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-17 18:06:53 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-17 18:06:53 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-17 18:06:54 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-17 18:06:54 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-17 18:06:54 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-17 18:06:54 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-17 18:06:54 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-17 18:11:44 INFO  LogReporter:18 - Open firefox browser
+2019-09-17 18:11:51 INFO  LogReporter:18 - User landed the practo home page Successfully
+2019-09-17 18:11:57 INFO  LogReporter:18 - Document title is validated Buy Medicines,Health Products Online | India's Most Reliable Online Medical Store | Practo
+2019-09-17 18:11:57 INFO  LogReporter:18 - Successfully Navigated to the Pharmacy webpage
+2019-09-17 18:11:57 INFO  LogReporter:18 - Click the to painrelief image link
+2019-09-17 18:11:57 INFO  LogReporter:18 - Close the previous window
+2019-09-17 18:11:57 INFO  LogReporter:18 - Successfully navigated to pain relief Page
+2019-09-17 18:11:58 INFO  LogReporter:18 - Successfully Navigated to the painrelief webpage
+2019-09-17 18:12:01 INFO  LogReporter:18 - Navigate to the webpage fitness & wellness through left panel
+2019-09-17 18:12:01 INFO  LogReporter:18 - Document title is validated :Fitness & Wellness Products: Buy Online at Best Prices in India | Practo
+2019-09-17 18:12:02 INFO  LogReporter:18 - Successfully products added to the cart
+2019-09-17 18:12:04 INFO  LogReporter:18 - Click the View cart link button
+2019-09-17 18:12:04 INFO  LogReporter:18 - navigated to firness and wellness page and Successfully add to items in protein suppliments
+2019-09-17 18:12:04 INFO  LogReporter:18 - Successfully navigated to the cart
+2019-09-17 18:12:04 INFO  LogReporter:18 - Successfully verified the Product Name :B-Protin Powder Chocolate 200 g
+2019-09-17 18:12:05 INFO  LogReporter:18 - Successfully verified the Product Name :Apollo Pharmacy Slimchoice Shake Strawberry Flavour Powder
+2019-09-17 18:12:05 INFO  LogReporter:18 - Successfully verified the Product Price :495
+2019-09-17 18:12:05 INFO  LogReporter:18 - Successfully verified the Product count :1
+2019-09-17 18:12:05 INFO  LogReporter:18 - Successfully verified the total payment :724
+2019-09-17 18:12:05 INFO  LogReporter:18 - Successfully validated the cart details
+2019-09-17 18:12:14 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-17 18:12:14 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-17 18:12:14 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-17 18:12:14 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-17 18:12:14 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-17 18:12:15 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-17 18:12:15 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-17 18:12:15 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-17 18:12:15 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-17 18:12:15 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-17 18:44:11 INFO  LogReporter:18 - Open firefox browser
+2019-09-17 18:44:17 INFO  LogReporter:18 - User landed the practo home page Successfully
+2019-09-17 18:44:22 INFO  LogReporter:18 - Document title is validated Buy Medicines,Health Products Online | India's Most Reliable Online Medical Store | Practo
+2019-09-17 18:44:22 INFO  LogReporter:18 - Successfully Navigated to the Pharmacy webpage
+2019-09-17 18:44:23 INFO  LogReporter:18 - Click the to painrelief image link
+2019-09-17 18:44:23 INFO  LogReporter:18 - Close the previous window
+2019-09-17 18:44:23 INFO  LogReporter:18 - Successfully navigated to pain relief Page
+2019-09-17 18:44:23 INFO  LogReporter:18 - Successfully Navigated to the painrelief webpage
+2019-09-17 18:44:23 INFO  LogReporter:18 - Successfully Validated the correct Url is :https://www.practo.com/health-products/pain-relief/l
+2019-09-17 18:44:26 INFO  LogReporter:18 - Navigate to the webpage fitness & wellness through left panel
+2019-09-17 18:44:26 INFO  LogReporter:18 - Document title is validated :Fitness & Wellness Products: Buy Online at Best Prices in India | Practo
+2019-09-17 18:44:28 INFO  LogReporter:18 - Successfully products added to the cart
+2019-09-17 18:44:30 INFO  LogReporter:18 - Click the View cart link button
+2019-09-17 18:44:30 INFO  LogReporter:18 - navigated to firness and wellness page and Successfully add to items in protein suppliments
+2019-09-17 18:44:30 INFO  LogReporter:18 - Successfully navigated to the cart
+2019-09-17 18:44:30 INFO  LogReporter:18 - Successfully verified the Product Name :B-Protin Powder Chocolate 200 g
+2019-09-17 18:44:31 INFO  LogReporter:18 - Successfully verified the Product Name :Apollo Pharmacy Slimchoice Shake Strawberry Flavour Powder
+2019-09-17 18:44:31 INFO  LogReporter:18 - Successfully verified the Product Price :495
+2019-09-17 18:44:31 INFO  LogReporter:18 - Successfully verified the Product count :1
+2019-09-17 18:44:31 INFO  LogReporter:18 - Successfully verified the total payment :724
+2019-09-17 18:44:31 INFO  LogReporter:18 - Successfully validated the cart details
+2019-09-17 18:44:40 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-17 18:44:40 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-17 18:44:40 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-17 18:44:40 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-17 18:44:40 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-17 18:44:40 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-17 18:44:40 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-17 18:44:40 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-17 18:44:40 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-17 18:44:40 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ajith.periyasamy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"

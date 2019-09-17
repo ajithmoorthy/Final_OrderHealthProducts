@@ -1,8 +1,5 @@
 package org.atmecs.practo.extentreports;
 import java.io.File;
-import java.text.SimpleDateFormat;
-import java.util.Date;
-
 import org.apache.commons.io.FileUtils;
 import org.atmecs.practo.constants.FileConstants;
 import org.openqa.selenium.OutputType;
@@ -39,7 +36,6 @@ public class Extent {
 	}
 
 	public static String getScreenshot(WebDriver driver, String testname) throws Exception {
-		String dateName = new SimpleDateFormat("yyyyMMddhhmmss").format(new Date());
 		TakesScreenshot ts = (TakesScreenshot) driver;
 		File source = ts.getScreenshotAs(OutputType.FILE);
 		String destination = FileConstants.pngfile + testname

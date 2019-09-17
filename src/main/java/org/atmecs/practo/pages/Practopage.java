@@ -3,10 +3,13 @@ package org.atmecs.practo.pages;
 import java.io.IOException;
 import java.util.Properties;
 
+import org.atmecs.practo.extentreports.Extent;
 import org.atmecs.practo.helper.PractoHelper;
 import org.atmecs.practo.reports.LogReporter;
 import org.openqa.selenium.WebDriver;
 import org.testng.Assert;
+
+import com.relevantcodes.extentreports.LogStatus;
 
 /**
  * 
@@ -17,7 +20,7 @@ import org.testng.Assert;
  * @param prop
  */
 
-public class Practopage {
+public class Practopage extends Extent {
 	LogReporter log = new LogReporter();
 	PractoHelper practohelp = new PractoHelper();
 
@@ -39,6 +42,7 @@ public void validatePharmacy(WebDriver driver,String title) {
 	try {
 		Assert.assertEquals(driver.getTitle(), title);
 		log.logReport("Document title is validated "+driver.getTitle());
+		logger.log(LogStatus.INFO,"Document title is validated" +driver.getTitle());
 	}
 	catch(AssertionError e) {
 		System.out.println("Document title is not match with expected "+title);
@@ -50,6 +54,7 @@ public void validatePainRelief(WebDriver driver,String title) {
 	try {
 		Assert.assertEquals(driver.getTitle(),title);
 		log.logReport("Document title is validated "+driver.getTitle());
+		logger.log(LogStatus.INFO,"Document title is validated" +driver.getTitle());
 	}
 	catch(AssertionError e) {
 		System.out.println("Document title is not match with expected :");
