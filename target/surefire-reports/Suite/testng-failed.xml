@@ -3,15 +3,17 @@
 <suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [Suite]">
   <test thread-count="5" verbose="0" name="Test(failed)">
     <classes>
-      <class name="org.atmecs.practo.testscripts.PractoHomepage">
+      <class name="org.atmecs.practo.testscripts.CartTest">
         <methods>
           <include name="tearDown"/>
+          <include name="practoPage"/>
           <include name="endReport"/>
           <include name="baseSetup"/>
-          <include name="cartPage" invocation-numbers="0"/>
+          <include name="painRelief"/>
           <include name="startReport"/>
+          <include name="cartPage"/>
         </methods>
-      </class> <!-- org.atmecs.practo.testscripts.PractoHomepage -->
+      </class> <!-- org.atmecs.practo.testscripts.CartTest -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->

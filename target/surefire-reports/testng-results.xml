@@ -1,197 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="1" ignored="0" total="4" passed="3">
+<testng-results skipped="3" failed="0" ignored="0" total="3" passed="0">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="35205" started-at="2019-09-17T13:14:01Z" finished-at="2019-09-17T13:14:36Z">
+  <suite name="Suite" duration-ms="1270" started-at="2019-09-18T11:32:57Z" finished-at="2019-09-18T11:32:58Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="35205" started-at="2019-09-17T13:14:01Z" finished-at="2019-09-17T13:14:36Z">
-      <class name="org.atmecs.practo.testscripts.PractoHomepage">
-        <test-method status="PASS" signature="startReport()[pri:0, instance:org.atmecs.practo.testscripts.PractoHomepage@234bef66]" name="startReport" is-config="true" duration-ms="272" started-at="2019-09-17T13:14:01Z" finished-at="2019-09-17T13:14:01Z">
+    <test name="Test" duration-ms="1270" started-at="2019-09-18T11:32:57Z" finished-at="2019-09-18T11:32:58Z">
+      <class name="org.atmecs.practo.testscripts.CartTest">
+        <test-method status="PASS" signature="startReport()[pri:0, instance:org.atmecs.practo.testscripts.CartTest@61dc03ce]" name="startReport" is-config="true" duration-ms="250" started-at="2019-09-18T11:32:56Z" finished-at="2019-09-18T11:32:57Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- startReport -->
-        <test-method status="PASS" signature="baseSetup()[pri:0, instance:org.atmecs.practo.testscripts.PractoHomepage@234bef66]" name="baseSetup" is-config="true" duration-ms="9516" started-at="2019-09-17T13:14:01Z" finished-at="2019-09-17T13:14:11Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- baseSetup -->
-        <test-method status="PASS" signature="practoHome(java.lang.String)[pri:0, instance:org.atmecs.practo.testscripts.PractoHomepage@234bef66]" name="practoHome" duration-ms="5105" started-at="2019-09-17T13:14:12Z" data-provider="pharmacy" finished-at="2019-09-17T13:14:17Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[Practo | Book Doctor Appointments Online, Order Medicine, Diagnostic Tests, Consult]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- practoHome -->
-        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:org.atmecs.practo.testscripts.PractoHomepage@234bef66]" name="tearDown" is-config="true" duration-ms="430" started-at="2019-09-17T13:14:17Z" finished-at="2019-09-17T13:14:17Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[[TestResult name=practoHome status=SUCCESS method=PractoHomepage.practoHome(java.lang.String)[pri:0, instance:org.atmecs.practo.testscripts.PractoHomepage@234bef66] output={null}]]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- tearDown -->
-        <test-method status="PASS" signature="practoPage(java.lang.String, java.lang.String)[pri:1, instance:org.atmecs.practo.testscripts.PractoHomepage@234bef66]" name="practoPage" duration-ms="5137" started-at="2019-09-17T13:14:18Z" data-provider="practoPage" finished-at="2019-09-17T13:14:23Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[Buy Medicines,Health Products Online | India's Most Reliable Online Medical Store | Practo]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[Pain relief Products: Buy Online at Best Prices in India | Practo]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- practoPage -->
-        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:org.atmecs.practo.testscripts.PractoHomepage@234bef66]" name="tearDown" is-config="true" duration-ms="323" started-at="2019-09-17T13:14:23Z" finished-at="2019-09-17T13:14:23Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[[TestResult name=practoPage status=SUCCESS method=PractoHomepage.practoPage(java.lang.String, java.lang.String)[pri:1, instance:org.atmecs.practo.testscripts.PractoHomepage@234bef66] output={null}]]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- tearDown -->
-        <test-method status="PASS" signature="painRelief(java.lang.String, java.lang.String, java.lang.String)[pri:2, instance:org.atmecs.practo.testscripts.PractoHomepage@234bef66]" name="painRelief" duration-ms="6630" started-at="2019-09-17T13:14:23Z" data-provider="painReliefPage" finished-at="2019-09-17T13:14:30Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[https://www.practo.com/health-products/pain-relief/l]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[Fitness & Wellness Products: Buy Online at Best Prices in India | Practo]]>
-              </value>
-            </param>
-            <param index="2">
-              <value>
-                <![CDATA["Order Medicines Online | India's most reliable medical store | Practo"]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- painRelief -->
-        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:org.atmecs.practo.testscripts.PractoHomepage@234bef66]" name="tearDown" is-config="true" duration-ms="192" started-at="2019-09-17T13:14:30Z" finished-at="2019-09-17T13:14:30Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[[TestResult name=painRelief status=SUCCESS method=PractoHomepage.painRelief(java.lang.String, java.lang.String, java.lang.String)[pri:2, instance:org.atmecs.practo.testscripts.PractoHomepage@234bef66] output={null}]]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- tearDown -->
-        <test-method status="FAIL" signature="cartPage(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:3, instance:org.atmecs.practo.testscripts.PractoHomepage@234bef66]" name="cartPage" duration-ms="6187" started-at="2019-09-17T13:14:30Z" data-provider="cartPage" finished-at="2019-09-17T13:14:36Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[B-Protin Powder Chocolate 200 g]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[229]]>
-              </value>
-            </param>
-            <param index="2">
-              <value>
-                <![CDATA[1]]>
-              </value>
-            </param>
-            <param index="3">
-              <value>
-                <![CDATA[Apollo Pharmacy Slim Choice Shake Strawberry 500g]]>
-              </value>
-            </param>
-            <param index="4">
-              <value>
-                <![CDATA[495]]>
-              </value>
-            </param>
-            <param index="5">
-              <value>
-                <![CDATA[1]]>
-              </value>
-            </param>
-            <param index="6">
-              <value>
-                <![CDATA[724]]>
-              </value>
-            </param>
-            <param index="7">
-              <value>
-                <![CDATA[495]]>
-              </value>
-            </param>
-            <param index="8">
-              <value>
-                <![CDATA[Apollo Pharmacy Slimchoice Shake Strawberry Flavour Powder]]>
-              </value>
-            </param>
-            <param index="9">
-              <value>
-                <![CDATA[Hyd]]>
-              </value>
-            </param>
-          </params>
-          <exception class="org.openqa.selenium.ElementClickInterceptedException">
+        <test-method status="FAIL" signature="baseSetup()[pri:0, instance:org.atmecs.practo.testscripts.CartTest@61dc03ce]" name="baseSetup" is-config="true" duration-ms="94" started-at="2019-09-18T11:32:57Z" finished-at="2019-09-18T11:32:57Z">
+          <exception class="java.lang.IllegalStateException">
             <message>
-              <![CDATA[Element <div class="u-columns u-four u-text--center bg-white text-azure-two u-cursor--pointer heading-beta"> is not clickable at point (941,289) because another element <div class="d-modal-w d-modal-w--no-animate d-modal-child--animate d-modal-child--animate-left d-modal-w--open"> obscures it
-Build info: version: '4.0.0-alpha-2', revision: 'f148142cf8', time: '2019-07-01T20:55:26'
-System info: host: 'ATMECSINLT-085', ip: '55.55.53.104', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_221'
-Driver info: org.openqa.selenium.firefox.FirefoxDriver
-Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 69.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20190827005903, moz:geckodriverVersion: 0.24.0, moz:headless: false, moz:processID: 18044, moz:profile: C:\Users\ajith.periyasamy\A..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
-Session ID: 10082ebc-b89e-44a2-912e-cc63b370f678]]>
+              <![CDATA[The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://github.com/SeleniumHQ/selenium/wiki/ChromeDriver. The latest version can be downloaded from http://chromedriver.storage.googleapis.com/index.html]]>
             </message>
             <full-stacktrace>
-              <![CDATA[org.openqa.selenium.ElementClickInterceptedException: Element <div class="u-columns u-four u-text--center bg-white text-azure-two u-cursor--pointer heading-beta"> is not clickable at point (941,289) because another element <div class="d-modal-w d-modal-w--no-animate d-modal-child--animate d-modal-child--animate-left d-modal-w--open"> obscures it
-Build info: version: '4.0.0-alpha-2', revision: 'f148142cf8', time: '2019-07-01T20:55:26'
-System info: host: 'ATMECSINLT-085', ip: '55.55.53.104', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_221'
-Driver info: org.openqa.selenium.firefox.FirefoxDriver
-Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 69.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20190827005903, moz:geckodriverVersion: 0.24.0, moz:headless: false, moz:processID: 18044, moz:profile: C:\Users\ajith.periyasamy\A..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
-Session ID: 10082ebc-b89e-44a2-912e-cc63b370f678
-at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
-at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
-at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
-at java.lang.reflect.Constructor.newInstance(Unknown Source)
-at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:191)
-at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:125)
-at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:52)
-at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:161)
-at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
-at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:576)
-at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:308)
-at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:83)
-at org.atmecs.practo.helper.PractoHelper.clickElement(PractoHelper.java:30)
-at org.atmecs.practo.pages.CartPage.cartPage(CartPage.java:41)
-at org.atmecs.practo.testscripts.PractoHomepage.cartPage(PractoHomepage.java:133)
+              <![CDATA[java.lang.IllegalStateException: The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://github.com/SeleniumHQ/selenium/wiki/ChromeDriver. The latest version can be downloaded from http://chromedriver.storage.googleapis.com/index.html
+at com.google.common.base.Preconditions.checkState(Preconditions.java:843)
+at org.openqa.selenium.remote.service.DriverService.findExecutable(DriverService.java:135)
+at org.openqa.selenium.chrome.ChromeDriverService.access$000(ChromeDriverService.java:35)
+at org.openqa.selenium.chrome.ChromeDriverService$Builder.findDefaultExecutable(ChromeDriverService.java:159)
+at org.openqa.selenium.remote.service.DriverService$Builder.build(DriverService.java:363)
+at org.openqa.selenium.chrome.ChromeDriverService.createDefaultService(ChromeDriverService.java:94)
+at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:157)
+at org.atmecs.practo.testbase.TestBase.baseSetup(TestBase.java:38)
 at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
 at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
 at java.lang.reflect.Method.invoke(Unknown Source)
 at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
-at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
-at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
-at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
-at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
-at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
-at org.testng.TestRunner.privateRun(TestRunner.java:648)
-at org.testng.TestRunner.run(TestRunner.java:505)
+at org.testng.internal.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:59)
+at org.testng.internal.Invoker.invokeConfigurationMethod(Invoker.java:458)
+at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:222)
+at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:142)
+at org.testng.TestRunner.beforeRun(TestRunner.java:529)
+at org.testng.TestRunner.run(TestRunner.java:497)
 at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
 at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
 at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
@@ -211,26 +56,174 @@ at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:126)
 at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:418)
 ]]>
             </full-stacktrace>
-          </exception> <!-- org.openqa.selenium.ElementClickInterceptedException -->
+          </exception> <!-- java.lang.IllegalStateException -->
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- cartPage -->
-        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:org.atmecs.practo.testscripts.PractoHomepage@234bef66]" name="tearDown" is-config="true" duration-ms="98" started-at="2019-09-17T13:14:36Z" finished-at="2019-09-17T13:14:36Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[[TestResult name=cartPage status=FAILURE method=PractoHomepage.cartPage(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:3, instance:org.atmecs.practo.testscripts.PractoHomepage@234bef66] output={null}]]]>
-              </value>
-            </param>
-          </params>
+        </test-method> <!-- baseSetup -->
+        <test-method status="SKIP" signature="tearDown(org.testng.ITestResult)[pri:0, instance:org.atmecs.practo.testscripts.CartTest@61dc03ce]" name="tearDown" is-config="true" duration-ms="0" started-at="2019-09-18T11:32:58Z" finished-at="2019-09-18T11:32:58Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method status="PASS" signature="endReport()[pri:0, instance:org.atmecs.practo.testscripts.PractoHomepage@234bef66]" name="endReport" is-config="true" duration-ms="4110" started-at="2019-09-17T13:14:36Z" finished-at="2019-09-17T13:14:40Z">
+        <test-method status="SKIP" signature="practoPage(java.lang.String, java.lang.String, java.lang.String)[pri:1, instance:org.atmecs.practo.testscripts.CartTest@61dc03ce]" name="practoPage" duration-ms="0" started-at="2019-09-18T11:32:58Z" data-provider="practoPage" finished-at="2019-09-18T11:32:58Z">
+          <exception class="java.lang.IllegalStateException">
+            <message>
+              <![CDATA[The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://github.com/SeleniumHQ/selenium/wiki/ChromeDriver. The latest version can be downloaded from http://chromedriver.storage.googleapis.com/index.html]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.IllegalStateException: The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://github.com/SeleniumHQ/selenium/wiki/ChromeDriver. The latest version can be downloaded from http://chromedriver.storage.googleapis.com/index.html
+at com.google.common.base.Preconditions.checkState(Preconditions.java:843)
+at org.openqa.selenium.remote.service.DriverService.findExecutable(DriverService.java:135)
+at org.openqa.selenium.chrome.ChromeDriverService.access$000(ChromeDriverService.java:35)
+at org.openqa.selenium.chrome.ChromeDriverService$Builder.findDefaultExecutable(ChromeDriverService.java:159)
+at org.openqa.selenium.remote.service.DriverService$Builder.build(DriverService.java:363)
+at org.openqa.selenium.chrome.ChromeDriverService.createDefaultService(ChromeDriverService.java:94)
+at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:157)
+at org.atmecs.practo.testbase.TestBase.baseSetup(TestBase.java:38)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+at java.lang.reflect.Method.invoke(Unknown Source)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:59)
+at org.testng.internal.Invoker.invokeConfigurationMethod(Invoker.java:458)
+at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:222)
+at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:142)
+at org.testng.TestRunner.beforeRun(TestRunner.java:529)
+at org.testng.TestRunner.run(TestRunner.java:497)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+at org.testng.TestNG.runSuites(TestNG.java:1049)
+at org.testng.TestNG.run(TestNG.java:1017)
+at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:283)
+at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:75)
+at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:120)
+at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:384)
+at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:345)
+at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:126)
+at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:418)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.IllegalStateException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- practoPage -->
+        <test-method status="SKIP" signature="painRelief(java.lang.String, java.lang.String, java.lang.String)[pri:2, instance:org.atmecs.practo.testscripts.CartTest@61dc03ce]" name="painRelief" duration-ms="0" started-at="2019-09-18T11:32:58Z" data-provider="painReliefPage" finished-at="2019-09-18T11:32:58Z">
+          <exception class="java.lang.IllegalStateException">
+            <message>
+              <![CDATA[The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://github.com/SeleniumHQ/selenium/wiki/ChromeDriver. The latest version can be downloaded from http://chromedriver.storage.googleapis.com/index.html]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.IllegalStateException: The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://github.com/SeleniumHQ/selenium/wiki/ChromeDriver. The latest version can be downloaded from http://chromedriver.storage.googleapis.com/index.html
+at com.google.common.base.Preconditions.checkState(Preconditions.java:843)
+at org.openqa.selenium.remote.service.DriverService.findExecutable(DriverService.java:135)
+at org.openqa.selenium.chrome.ChromeDriverService.access$000(ChromeDriverService.java:35)
+at org.openqa.selenium.chrome.ChromeDriverService$Builder.findDefaultExecutable(ChromeDriverService.java:159)
+at org.openqa.selenium.remote.service.DriverService$Builder.build(DriverService.java:363)
+at org.openqa.selenium.chrome.ChromeDriverService.createDefaultService(ChromeDriverService.java:94)
+at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:157)
+at org.atmecs.practo.testbase.TestBase.baseSetup(TestBase.java:38)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+at java.lang.reflect.Method.invoke(Unknown Source)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:59)
+at org.testng.internal.Invoker.invokeConfigurationMethod(Invoker.java:458)
+at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:222)
+at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:142)
+at org.testng.TestRunner.beforeRun(TestRunner.java:529)
+at org.testng.TestRunner.run(TestRunner.java:497)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+at org.testng.TestNG.runSuites(TestNG.java:1049)
+at org.testng.TestNG.run(TestNG.java:1017)
+at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:283)
+at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:75)
+at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:120)
+at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:384)
+at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:345)
+at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:126)
+at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:418)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.IllegalStateException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- painRelief -->
+        <test-method status="SKIP" signature="tearDown(org.testng.ITestResult)[pri:0, instance:org.atmecs.practo.testscripts.CartTest@61dc03ce]" name="tearDown" is-config="true" duration-ms="0" started-at="2019-09-18T11:32:58Z" finished-at="2019-09-18T11:32:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="SKIP" signature="cartPage(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:3, instance:org.atmecs.practo.testscripts.CartTest@61dc03ce]" name="cartPage" duration-ms="0" started-at="2019-09-18T11:32:58Z" data-provider="cartPage" finished-at="2019-09-18T11:32:58Z">
+          <exception class="java.lang.IllegalStateException">
+            <message>
+              <![CDATA[The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://github.com/SeleniumHQ/selenium/wiki/ChromeDriver. The latest version can be downloaded from http://chromedriver.storage.googleapis.com/index.html]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.IllegalStateException: The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://github.com/SeleniumHQ/selenium/wiki/ChromeDriver. The latest version can be downloaded from http://chromedriver.storage.googleapis.com/index.html
+at com.google.common.base.Preconditions.checkState(Preconditions.java:843)
+at org.openqa.selenium.remote.service.DriverService.findExecutable(DriverService.java:135)
+at org.openqa.selenium.chrome.ChromeDriverService.access$000(ChromeDriverService.java:35)
+at org.openqa.selenium.chrome.ChromeDriverService$Builder.findDefaultExecutable(ChromeDriverService.java:159)
+at org.openqa.selenium.remote.service.DriverService$Builder.build(DriverService.java:363)
+at org.openqa.selenium.chrome.ChromeDriverService.createDefaultService(ChromeDriverService.java:94)
+at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:157)
+at org.atmecs.practo.testbase.TestBase.baseSetup(TestBase.java:38)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+at java.lang.reflect.Method.invoke(Unknown Source)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:59)
+at org.testng.internal.Invoker.invokeConfigurationMethod(Invoker.java:458)
+at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:222)
+at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:142)
+at org.testng.TestRunner.beforeRun(TestRunner.java:529)
+at org.testng.TestRunner.run(TestRunner.java:497)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+at org.testng.TestNG.runSuites(TestNG.java:1049)
+at org.testng.TestNG.run(TestNG.java:1017)
+at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:283)
+at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:75)
+at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:120)
+at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:384)
+at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:345)
+at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:126)
+at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:418)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.IllegalStateException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cartPage -->
+        <test-method status="SKIP" signature="tearDown(org.testng.ITestResult)[pri:0, instance:org.atmecs.practo.testscripts.CartTest@61dc03ce]" name="tearDown" is-config="true" duration-ms="0" started-at="2019-09-18T11:32:58Z" finished-at="2019-09-18T11:32:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="SKIP" signature="endReport()[pri:0, instance:org.atmecs.practo.testscripts.CartTest@61dc03ce]" name="endReport" is-config="true" duration-ms="0" started-at="2019-09-18T11:32:58Z" finished-at="2019-09-18T11:32:58Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- endReport -->
-      </class> <!-- org.atmecs.practo.testscripts.PractoHomepage -->
+      </class> <!-- org.atmecs.practo.testscripts.CartTest -->
     </test> <!-- Test -->
   </suite> <!-- Suite -->
 </testng-results>

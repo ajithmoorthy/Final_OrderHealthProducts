@@ -29,16 +29,16 @@ public class Practopage extends Extent {
 	
 		driver.manage().window().maximize();
 		practohelp.clickElement(prop.getProperty("loc.menu.pharmacy.xpath"), driver);
-		validatePharmacy(driver,title);
+		validateTitle(driver,title);
 		log.logReport("Successfully Navigated to the Pharmacy webpage");
 		practohelp.clickElement(prop.getProperty("loc.imglink.painrelief.xpath"), driver);
-		validatePainRelief(driver,ptitle);
+		validateTitle(driver,ptitle);
 		log.logReport("Click the to painrelief image link");
 		log.logReport("Close the previous window");
 		
 	}
-	//validate the pharmacy page title is correct or not
-public void validatePharmacy(WebDriver driver,String title) {
+	//validate the page title is correct or not
+public void validateTitle(WebDriver driver,String title) {
 	try {
 		Assert.assertEquals(driver.getTitle(), title);
 		log.logReport("Document title is validated "+driver.getTitle());
@@ -49,16 +49,5 @@ public void validatePharmacy(WebDriver driver,String title) {
 		
 	}
 }
-//validate the painrelief page title is correct or not
-public void validatePainRelief(WebDriver driver,String title) {
-	try {
-		Assert.assertEquals(driver.getTitle(),title);
-		log.logReport("Document title is validated "+driver.getTitle());
-		logger.log(LogStatus.INFO,"Document title is validated" +driver.getTitle());
-	}
-	catch(AssertionError e) {
-		System.out.println("Document title is not match with expected :");
-		
-	}
-}
+
 }

@@ -1,6 +1,5 @@
 package org.atmecs.practo.testbase;
 
-import java.io.File;
 import java.io.IOException;
 import java.util.Properties;
 
@@ -15,6 +14,8 @@ import org.openqa.selenium.edge.EdgeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.firefox.FirefoxOptions;
 import org.openqa.selenium.ie.InternetExplorerDriver;
+import org.openqa.selenium.ie.InternetExplorerOptions;
+import org.openqa.selenium.remote.DesiredCapabilities;
 import org.testng.annotations.BeforeTest;
 
 /*this class will act as the base class for the test it will provide the browser based on the user choice */
@@ -41,19 +42,19 @@ public class TestBase extends Extent {
 			break;
 		case "firefox":
 			System.setProperty("webdriver.gecko.driver", FileConstants.firefoxfile);
-			FirefoxOptions profile = new FirefoxOptions();
-			profile.addPreference("dom.webnotifications.enabled", false);
-			profile.addPreference("geo.enabled", false);
-	        profile.addPreference("geo.provider.use_corelocation", false);
-			driver = new FirefoxDriver(profile);
+			FirefoxOptions fire = new FirefoxOptions();
+			fire.addPreference("dom.webnotifications.enabled", false);
+			driver = new FirefoxDriver(fire);
 			log.logReport("Open firefox browser");
 			break;
-		case "Ie":
+		case "ie":
 			System.setProperty("webdriver.ie.driver", FileConstants.Iefile);
-			driver = new InternetExplorerDriver();
+			InternetExplorerOptions ops = new InternetExplorerOptions();
+		    ops.introduceFlakinessByIgnoringSecurityDomains();
+			driver = new InternetExplorerDriver(ops);
 			log.logReport("Open Ie browser");
 			break;
-		case "Edge":
+		case "edge":
 			System.setProperty("webdriver.edge.driver", FileConstants.edgefile);
 			driver = new EdgeDriver();
 			log.logReport("Open Edge browser");

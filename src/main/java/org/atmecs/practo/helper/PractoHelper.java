@@ -48,9 +48,8 @@ public class PractoHelper extends Extent {
 			System.out.println("User landed or Reached the correct webpage");
 			log.logReport("Successfully Validated the correct Url is :"+ driver.getCurrentUrl());
 			logger.log(LogStatus.INFO,"Successfully Validated the correct Url is :" +driver.getCurrentUrl());
-		}
-		catch(AssertionError e) {
-			System.out.println("Navigate to wrong Webpage");
+		}catch(AssertionError e) {
+			log.logReport("Navigate to wrong Webpage");
 			logger.log(LogStatus.INFO, "Navigate to wrong Webpage");
 		}	
 	}
@@ -67,7 +66,8 @@ public class PractoHelper extends Extent {
 			logger.log(LogStatus.INFO, "Successfully verified the total payment:"+total);
 		}
 		catch(AssertionError e ) {
-			System.out.println("Wrong Payment Total");
+			log.logReport("Wrong Payment Total");
+			logger.log(LogStatus.INFO,"Wrong Payment Total (Expected is :"+paytotal+")");
 		}
 	}
 	//this method will give the value of the cart products in the array manner
@@ -87,6 +87,7 @@ public class PractoHelper extends Extent {
 
 		}catch(AssertionError e) {
 			System.out.println("Product Name "+prodarray[index]+" is not match with :"+prodname);
+			log.logReport("Product Name "+prodarray[index]+" is not match with :"+prodname);
 			logger.log(LogStatus.INFO, "Product Name "+prodarray[index]+" is not match with :"+prodname );
 		}
 	}
@@ -97,11 +98,11 @@ public class PractoHelper extends Extent {
 		price=price.substring(1,price.length());
 		try {
 			Assert.assertEquals(price,prodprice);
-			System.out.println("Successfully Verified the Poduct Price :"+prodprice); 
 			log.logReport("Successfully verified the Product Price :"+price);
 			logger.log(LogStatus.INFO, "Successfully verified the Product Price:"+price);
 		}catch(AssertionError e) {
 			System.out.println("Product price "+price+" is not match with :"+prodprice);
+			log.logReport("Product price "+price+" is not match with :"+prodprice);
 			logger.log(LogStatus.INFO, "Product price "+price+" is not match with :"+prodprice);
 		}
 	}
@@ -110,15 +111,14 @@ public class PractoHelper extends Extent {
 		String[] prodarray=elementLoader(driver,locator1);
 		try {
 			Assert.assertEquals(prodarray[index],prodcount);
-			System.out.println("Successfully Verified the product count :"+prodcount);
 			log.logReport("Successfully verified the Product count :"+prodarray[index]);
 			logger.log(LogStatus.INFO, "Successfully verified the Product count:"+prodarray[index]);
 		}catch(AssertionError e) {
-			System.out.println("Product count "+prodarray[index]+" is not match with :"+prodcount);
+			log.logReport("Product count "+prodarray[index]+" is not match with :"+prodcount);
 			logger.log(LogStatus.INFO, "Product count "+prodarray[index]+" is not match with :"+prodcount);
 		}
 	}
-	/*this method is manage all the three method after the product added
+	/**this method is manage all the three method after the product added
 	 * three methods are:
 	 * validate price
 	 * validate name

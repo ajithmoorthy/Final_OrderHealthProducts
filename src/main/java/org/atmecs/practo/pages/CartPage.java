@@ -6,6 +6,7 @@ import java.util.Properties;
 import org.atmecs.practo.extentreports.Extent;
 import org.atmecs.practo.helper.PractoHelper;
 import org.atmecs.practo.reports.LogReporter;
+import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
 
 import com.relevantcodes.extentreports.LogStatus;
@@ -23,17 +24,18 @@ public class CartPage  extends Extent{
 
 	// this method will automate the add and remove the product and validate the details
 	public void cartPage(WebDriver driver, Properties prop, String prodname, String prodprice, String noofProd,
-			String prodname1, String prodprice1, String noofProd1, String total, String aftertotal, String prodname2,String location)
+			String prodname1, String prodprice1, String noofProd1, String total, String aftertotal, String prodname2)
 			throws InterruptedException, IOException {
 
 		log.logReport("Successfully navigated to the cart");
 		logger.log(LogStatus.INFO, "Sucessfully user landed in the Cart page");
-
+		JavascriptExecutor js=(JavascriptExecutor) driver;
 		practohelp.validateManage(driver, prop.getProperty("loc.panel.cart.xpath"), prodname, prodprice, noofProd,
 				prodname2, prodprice1, noofProd1);
 		practohelp.validateTotalPrice(driver, prop.getProperty("loc.chekoutpanel.payamt.xpath"), total);
 		log.logReport("Successfully validated the cart details");
 		logger.log(LogStatus.INFO, "Successfully validated the cart details");
+		js.executeScript("navigator.geolocation.getCurrentPosition = function(success) { success({coords: {latitude: 17.4101, longitude: 78.3756}}); }");
 		practohelp.clickElement(prop.getProperty("loc.linktxt.location.xpath"), driver);
 		logger.log(LogStatus.INFO, "Successfully Select the location");
 		Thread.sleep(4000);

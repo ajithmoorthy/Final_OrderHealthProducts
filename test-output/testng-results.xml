@@ -1,50 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="1" ignored="0" total="4" passed="3">
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="35531" started-at="2019-09-17T12:41:35Z" finished-at="2019-09-17T12:42:10Z">
+  <suite name="Suite" duration-ms="31651" started-at="2019-09-18T13:34:53Z" finished-at="2019-09-18T13:35:24Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="35531" started-at="2019-09-17T12:41:35Z" finished-at="2019-09-17T12:42:10Z">
-      <class name="org.atmecs.practo.testscripts.PractoHomepage">
-        <test-method status="PASS" signature="startReport()[pri:0, instance:org.atmecs.practo.testscripts.PractoHomepage@53b32d7]" name="startReport" is-config="true" duration-ms="332" started-at="2019-09-17T12:41:34Z" finished-at="2019-09-17T12:41:35Z">
+    <test name="Test" duration-ms="31651" started-at="2019-09-18T13:34:53Z" finished-at="2019-09-18T13:35:24Z">
+      <class name="org.atmecs.practo.testscripts.CartTest">
+        <test-method status="PASS" signature="startReport()[pri:0, instance:org.atmecs.practo.testscripts.CartTest@548e7350]" name="startReport" is-config="true" duration-ms="265" started-at="2019-09-18T13:34:52Z" finished-at="2019-09-18T13:34:53Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- startReport -->
-        <test-method status="PASS" signature="baseSetup()[pri:0, instance:org.atmecs.practo.testscripts.PractoHomepage@53b32d7]" name="baseSetup" is-config="true" duration-ms="9027" started-at="2019-09-17T12:41:35Z" finished-at="2019-09-17T12:41:44Z">
+        <test-method status="PASS" signature="baseSetup()[pri:0, instance:org.atmecs.practo.testscripts.CartTest@548e7350]" name="baseSetup" is-config="true" duration-ms="7366" started-at="2019-09-18T13:34:53Z" finished-at="2019-09-18T13:35:00Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- baseSetup -->
-        <test-method status="PASS" signature="practoHome(java.lang.String)[pri:0, instance:org.atmecs.practo.testscripts.PractoHomepage@53b32d7]" name="practoHome" duration-ms="4954" started-at="2019-09-17T12:41:46Z" data-provider="pharmacy" finished-at="2019-09-17T12:41:51Z">
+        <test-method status="PASS" signature="practoPage(java.lang.String, java.lang.String, java.lang.String)[pri:1, instance:org.atmecs.practo.testscripts.CartTest@548e7350]" name="practoPage" duration-ms="9268" started-at="2019-09-18T13:35:01Z" data-provider="practoPage" finished-at="2019-09-18T13:35:10Z">
           <params>
             <param index="0">
               <value>
                 <![CDATA[Practo | Book Doctor Appointments Online, Order Medicine, Diagnostic Tests, Consult]]>
               </value>
             </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- practoHome -->
-        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:org.atmecs.practo.testscripts.PractoHomepage@53b32d7]" name="tearDown" is-config="true" duration-ms="522" started-at="2019-09-17T12:41:51Z" finished-at="2019-09-17T12:41:51Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[[TestResult name=practoHome status=SUCCESS method=PractoHomepage.practoHome(java.lang.String)[pri:0, instance:org.atmecs.practo.testscripts.PractoHomepage@53b32d7] output={null}]]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- tearDown -->
-        <test-method status="PASS" signature="practoPage(java.lang.String, java.lang.String)[pri:1, instance:org.atmecs.practo.testscripts.PractoHomepage@53b32d7]" name="practoPage" duration-ms="5646" started-at="2019-09-17T12:41:52Z" data-provider="practoPage" finished-at="2019-09-17T12:41:57Z">
-          <params>
-            <param index="0">
+            <param index="1">
               <value>
                 <![CDATA[Buy Medicines,Health Products Online | India's Most Reliable Online Medical Store | Practo]]>
               </value>
             </param>
-            <param index="1">
+            <param index="2">
               <value>
                 <![CDATA[Pain relief Products: Buy Online at Best Prices in India | Practo]]>
               </value>
@@ -53,18 +36,18 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- practoPage -->
-        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:org.atmecs.practo.testscripts.PractoHomepage@53b32d7]" name="tearDown" is-config="true" duration-ms="252" started-at="2019-09-17T12:41:57Z" finished-at="2019-09-17T12:41:57Z">
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:org.atmecs.practo.testscripts.CartTest@548e7350]" name="tearDown" is-config="true" duration-ms="343" started-at="2019-09-18T13:35:10Z" finished-at="2019-09-18T13:35:11Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=practoPage status=SUCCESS method=PractoHomepage.practoPage(java.lang.String, java.lang.String)[pri:1, instance:org.atmecs.practo.testscripts.PractoHomepage@53b32d7] output={null}]]]>
+                <![CDATA[[TestResult name=practoPage status=SUCCESS method=PharmacyTest.practoPage(java.lang.String, java.lang.String, java.lang.String)[pri:1, instance:org.atmecs.practo.testscripts.CartTest@548e7350] output={null}]]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method status="PASS" signature="painRelief(java.lang.String, java.lang.String, java.lang.String)[pri:2, instance:org.atmecs.practo.testscripts.PractoHomepage@53b32d7]" name="painRelief" duration-ms="6284" started-at="2019-09-17T12:41:58Z" data-provider="painReliefPage" finished-at="2019-09-17T12:42:04Z">
+        <test-method status="PASS" signature="painRelief(java.lang.String, java.lang.String, java.lang.String)[pri:2, instance:org.atmecs.practo.testscripts.CartTest@548e7350]" name="painRelief" duration-ms="6576" started-at="2019-09-18T13:35:11Z" data-provider="painReliefPage" finished-at="2019-09-18T13:35:17Z">
           <params>
             <param index="0">
               <value>
@@ -85,18 +68,18 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- painRelief -->
-        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:org.atmecs.practo.testscripts.PractoHomepage@53b32d7]" name="tearDown" is-config="true" duration-ms="184" started-at="2019-09-17T12:42:04Z" finished-at="2019-09-17T12:42:04Z">
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:org.atmecs.practo.testscripts.CartTest@548e7350]" name="tearDown" is-config="true" duration-ms="124" started-at="2019-09-18T13:35:17Z" finished-at="2019-09-18T13:35:17Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=painRelief status=SUCCESS method=PractoHomepage.painRelief(java.lang.String, java.lang.String, java.lang.String)[pri:2, instance:org.atmecs.practo.testscripts.PractoHomepage@53b32d7] output={null}]]]>
+                <![CDATA[[TestResult name=painRelief status=SUCCESS method=PainReliefTest.painRelief(java.lang.String, java.lang.String, java.lang.String)[pri:2, instance:org.atmecs.practo.testscripts.CartTest@548e7350] output={null}]]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method status="FAIL" signature="cartPage(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:3, instance:org.atmecs.practo.testscripts.PractoHomepage@53b32d7]" name="cartPage" duration-ms="6152" started-at="2019-09-17T12:42:04Z" data-provider="cartPage" finished-at="2019-09-17T12:42:10Z">
+        <test-method status="PASS" signature="cartPage(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:3, instance:org.atmecs.practo.testscripts.CartTest@548e7350]" name="cartPage" duration-ms="6614" started-at="2019-09-18T13:35:18Z" data-provider="cartPage" finished-at="2019-09-18T13:35:24Z">
           <params>
             <param index="0">
               <value>
@@ -105,12 +88,12 @@
             </param>
             <param index="1">
               <value>
-                <![CDATA[229]]>
+                <![CDATA[1]]>
               </value>
             </param>
             <param index="2">
               <value>
-                <![CDATA[1]]>
+                <![CDATA[229]]>
               </value>
             </param>
             <param index="3">
@@ -143,90 +126,26 @@
                 <![CDATA[Apollo Pharmacy Slimchoice Shake Strawberry Flavour Powder]]>
               </value>
             </param>
-            <param index="9">
-              <value>
-                <![CDATA[Hyd]]>
-              </value>
-            </param>
           </params>
-          <exception class="org.openqa.selenium.ElementClickInterceptedException">
-            <message>
-              <![CDATA[Element <div class="u-columns u-four u-text--center bg-white text-azure-two u-cursor--pointer heading-beta"> is not clickable at point (941,289) because another element <div class="d-modal-w d-modal-w--no-animate d-modal-child--animate d-modal-child--animate-left d-modal-w--open"> obscures it
-Build info: version: '4.0.0-alpha-2', revision: 'f148142cf8', time: '2019-07-01T20:55:26'
-System info: host: 'ATMECSINLT-085', ip: '55.55.53.104', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_221'
-Driver info: org.openqa.selenium.firefox.FirefoxDriver
-Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 69.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20190827005903, moz:geckodriverVersion: 0.24.0, moz:headless: false, moz:processID: 13848, moz:profile: C:\Users\ajith.periyasamy\A..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
-Session ID: 9cd2661c-563f-4bdd-a46c-e0654ddde36e]]>
-            </message>
-            <full-stacktrace>
-              <![CDATA[org.openqa.selenium.ElementClickInterceptedException: Element <div class="u-columns u-four u-text--center bg-white text-azure-two u-cursor--pointer heading-beta"> is not clickable at point (941,289) because another element <div class="d-modal-w d-modal-w--no-animate d-modal-child--animate d-modal-child--animate-left d-modal-w--open"> obscures it
-Build info: version: '4.0.0-alpha-2', revision: 'f148142cf8', time: '2019-07-01T20:55:26'
-System info: host: 'ATMECSINLT-085', ip: '55.55.53.104', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_221'
-Driver info: org.openqa.selenium.firefox.FirefoxDriver
-Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 69.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20190827005903, moz:geckodriverVersion: 0.24.0, moz:headless: false, moz:processID: 13848, moz:profile: C:\Users\ajith.periyasamy\A..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
-Session ID: 9cd2661c-563f-4bdd-a46c-e0654ddde36e
-at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
-at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
-at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
-at java.lang.reflect.Constructor.newInstance(Unknown Source)
-at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:191)
-at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:125)
-at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:52)
-at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:161)
-at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
-at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:576)
-at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:308)
-at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:83)
-at org.atmecs.practo.helper.PractoHelper.clickElement(PractoHelper.java:30)
-at org.atmecs.practo.pages.CartPage.cartPage(CartPage.java:41)
-at org.atmecs.practo.testscripts.PractoHomepage.cartPage(PractoHomepage.java:133)
-at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
-at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
-at java.lang.reflect.Method.invoke(Unknown Source)
-at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
-at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
-at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
-at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
-at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
-at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
-at org.testng.TestRunner.privateRun(TestRunner.java:648)
-at org.testng.TestRunner.run(TestRunner.java:505)
-at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
-at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
-at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
-at org.testng.SuiteRunner.run(SuiteRunner.java:364)
-at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
-at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
-at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
-at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
-at org.testng.TestNG.runSuites(TestNG.java:1049)
-at org.testng.TestNG.run(TestNG.java:1017)
-at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
-at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
-at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
-]]>
-            </full-stacktrace>
-          </exception> <!-- org.openqa.selenium.ElementClickInterceptedException -->
           <reporter-output>
           </reporter-output>
         </test-method> <!-- cartPage -->
-        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:org.atmecs.practo.testscripts.PractoHomepage@53b32d7]" name="tearDown" is-config="true" duration-ms="86" started-at="2019-09-17T12:42:10Z" finished-at="2019-09-17T12:42:10Z">
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:org.atmecs.practo.testscripts.CartTest@548e7350]" name="tearDown" is-config="true" duration-ms="79" started-at="2019-09-18T13:35:24Z" finished-at="2019-09-18T13:35:24Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=cartPage status=FAILURE method=PractoHomepage.cartPage(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:3, instance:org.atmecs.practo.testscripts.PractoHomepage@53b32d7] output={null}]]]>
+                <![CDATA[[TestResult name=cartPage status=SUCCESS method=CartTest.cartPage(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:3, instance:org.atmecs.practo.testscripts.CartTest@548e7350] output={null}]]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method status="PASS" signature="endReport()[pri:0, instance:org.atmecs.practo.testscripts.PractoHomepage@53b32d7]" name="endReport" is-config="true" duration-ms="4580" started-at="2019-09-17T12:42:10Z" finished-at="2019-09-17T12:42:15Z">
+        <test-method status="PASS" signature="endReport()[pri:0, instance:org.atmecs.practo.testscripts.CartTest@548e7350]" name="endReport" is-config="true" duration-ms="3898" started-at="2019-09-18T13:35:24Z" finished-at="2019-09-18T13:35:28Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- endReport -->
-      </class> <!-- org.atmecs.practo.testscripts.PractoHomepage -->
+      </class> <!-- org.atmecs.practo.testscripts.CartTest -->
     </test> <!-- Test -->
   </suite> <!-- Suite -->
 </testng-results>

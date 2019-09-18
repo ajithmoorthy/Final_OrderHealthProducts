@@ -29,19 +29,19 @@ public class PainRelief extends Extent {
 		practohelp.correctUrlchecker(driver, expectedurl);
 		practohelp.clickElement(prop.getProperty("loc.submenu.fitness&wellness.xpath"), driver);
 		log.logReport("Navigate to the webpage fitness & wellness through left panel");
-		validateFitWell(driver,fitTitle);
+		validateTitle(driver,fitTitle);
 		// adding a products to the cart
 		practohelp.clickElement(prop.getProperty("loc.btn.add1.xpath"), driver);
-		logger.log(LogStatus.INFO,"Successfully product added to the cart:");
+		logger.log(LogStatus.INFO,"Successfully product added to the cart");
 		practohelp.clickElement(prop.getProperty("loc.btn.add2.xpath"), driver);
 		log.logReport("Successfully products added to the cart");
 		practohelp.clickElement(prop.getProperty("loc.btn.viewcart.xpath"), driver);
 		logger.log(LogStatus.INFO,"Navigate from the Protein supplements to cart page:");
-		validateCart(driver,carttitle);
+		validateTitle(driver,carttitle);
 		log.logReport("Click the View cart link button");
 	}
-	//this method validate the fit&wellness page document title
-	public void validateFitWell(WebDriver driver, String title){
+	//this method validate the page document title
+	public void validateTitle(WebDriver driver, String title){
 		try {
 			Assert.assertEquals(driver.getTitle(), title);
 			log.logReport("Document title is validated :"+driver.getTitle());
@@ -53,18 +53,7 @@ public class PainRelief extends Extent {
 			
 		}
 	}
-	public void validateCart(WebDriver driver, String title){
-		try {
-			Assert.assertEquals(driver.getTitle(), title);
-			log.logReport("Document title is validated :"+driver.getTitle());
-			logger.log(LogStatus.INFO,"Document title is validated :" +driver.getTitle());
-		}
-		catch(AssertionError e)
-		{
-		System.out.println("Document title is not match with Expected :"+driver.getTitle());
-			
-		}
-	}
+	
 
 
 }

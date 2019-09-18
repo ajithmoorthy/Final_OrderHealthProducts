@@ -24,7 +24,7 @@
     <div class="top-banner-root">
       <span class="top-banner-title-font">Test results</span>
       <br/>
-      <span class="top-banner-font-1">1 suite, 1 failed test</span>
+      <span class="top-banner-font-1">1 suite</span>
     </div> <!-- top-banner-root -->
     <div class="navigator-root">
       <div class="navigator-suite-header">
@@ -38,7 +38,7 @@
         <div class="rounded-window">
           <div class="suite-header light-rounded-window-top">
             <a href="#" class="navigator-link" panel-name="suite-Suite">
-              <span class="suite-name border-failed">Suite</span>
+              <span class="suite-name border-skipped">Suite</span>
             </a> <!-- navigator-link -->
           </div> <!-- suite-header light-rounded-window-top -->
           <div class="navigator-suite-content">
@@ -91,45 +91,31 @@
               <div class="suite-section-content">
                 <ul>
                   <li>
-                    <span class="method-stats">4 methods, 1 failed,   3 passed</span>
+                    <span class="method-stats">3 methods,  3 skipped,  </span>
                   </li>
                   <li>
-                    <span class="method-list-title failed">Failed methods</span>
-                    <span class="show-or-hide-methods failed">
-                      <a href="#" panel-name="suite-Suite" class="hide-methods failed suite-Suite"> (hide)</a> <!-- hide-methods failed suite-Suite -->
-                      <a href="#" panel-name="suite-Suite" class="show-methods failed suite-Suite"> (show)</a> <!-- show-methods failed suite-Suite -->
+                    <span class="method-list-title skipped">Skipped methods</span>
+                    <span class="show-or-hide-methods skipped">
+                      <a href="#" panel-name="suite-Suite" class="hide-methods skipped suite-Suite"> (hide)</a> <!-- hide-methods skipped suite-Suite -->
+                      <a href="#" panel-name="suite-Suite" class="show-methods skipped suite-Suite"> (show)</a> <!-- show-methods skipped suite-Suite -->
                     </span>
-                    <div class="method-list-content failed suite-Suite">
+                    <div class="method-list-content skipped suite-Suite">
                       <span>
-                        <img width="3%" src="failed.png"/>
-                        <a href="#" class="method navigator-link" panel-name="suite-Suite" title="org.atmecs.practo.testscripts.PractoHomepage" hash-for-method="cartPage(B-Protin Powder Chocolate 200 g, 229, 1, Apollo Pharmacy Slim Choice Shake Strawberry 500g, 495, 1, ...)">cartPage(B-Protin Powder Chocolate 200 g, 229, 1, Apollo Pharmacy Slim Choice Shake Strawberry 500g, 495, 1, ...)</a> <!-- method navigator-link -->
-                      </span>
-                      <br/>
-                    </div> <!-- method-list-content failed suite-Suite -->
-                  </li>
-                  <li>
-                    <span class="method-list-title passed">Passed methods</span>
-                    <span class="show-or-hide-methods passed">
-                      <a href="#" panel-name="suite-Suite" class="hide-methods passed suite-Suite"> (hide)</a> <!-- hide-methods passed suite-Suite -->
-                      <a href="#" panel-name="suite-Suite" class="show-methods passed suite-Suite"> (show)</a> <!-- show-methods passed suite-Suite -->
-                    </span>
-                    <div class="method-list-content passed suite-Suite">
-                      <span>
-                        <img width="3%" src="passed.png"/>
-                        <a href="#" class="method navigator-link" panel-name="suite-Suite" title="org.atmecs.practo.testscripts.PractoHomepage" hash-for-method="painRelief(https://www.practo.com/health-products/pain-relief/l, Fitness &amp; Wellness Products: Buy Online at Bes...)">painRelief(https://www.practo.com/health-products/pain-relief/l, Fitness & Wellness Products: Buy Online at Bes...)</a> <!-- method navigator-link -->
+                        <img width="3%" src="skipped.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Suite" title="org.atmecs.practo.testscripts.CartTest" hash-for-method="cartPage">cartPage</a> <!-- method navigator-link -->
                       </span>
                       <br/>
                       <span>
-                        <img width="3%" src="passed.png"/>
-                        <a href="#" class="method navigator-link" panel-name="suite-Suite" title="org.atmecs.practo.testscripts.PractoHomepage" hash-for-method="practoHome(Practo | Book Doctor Appointments Online, Order Medicine, Diagnostic Tests, Consult)">practoHome(Practo | Book Doctor Appointments Online, Order Medicine, Diagnostic Tests, Consult)</a> <!-- method navigator-link -->
+                        <img width="3%" src="skipped.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Suite" title="org.atmecs.practo.testscripts.CartTest" hash-for-method="painRelief">painRelief</a> <!-- method navigator-link -->
                       </span>
                       <br/>
                       <span>
-                        <img width="3%" src="passed.png"/>
-                        <a href="#" class="method navigator-link" panel-name="suite-Suite" title="org.atmecs.practo.testscripts.PractoHomepage" hash-for-method="practoPage(Buy Medicines,Health Products Online | India&#039;s Most Reliable Online Medical Store | Practo, Pain rel...)">practoPage(Buy Medicines,Health Products Online | India's Most Reliable Online Medical Store | Practo, Pain rel...)</a> <!-- method navigator-link -->
+                        <img width="3%" src="skipped.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Suite" title="org.atmecs.practo.testscripts.CartTest" hash-for-method="practoPage">practoPage</a> <!-- method navigator-link -->
                       </span>
                       <br/>
-                    </div> <!-- method-list-content passed suite-Suite -->
+                    </div> <!-- method-list-content skipped suite-Suite -->
                   </li>
                 </ul>
               </div> <!-- suite-section-content -->
@@ -141,73 +127,68 @@
     <div class="wrapper">
       <div class="main-panel-root">
         <div panel-name="suite-Suite" class="panel Suite">
-          <div class="suite-Suite-class-failed">
+          <div class="suite-Suite-class-skipped">
             <div class="main-panel-header rounded-window-top">
-              <img src="failed.png"/>
-              <span class="class-name">org.atmecs.practo.testscripts.PractoHomepage</span>
+              <img src="skipped.png"/>
+              <span class="class-name">org.atmecs.practo.testscripts.CartTest</span>
             </div> <!-- main-panel-header rounded-window-top -->
             <div class="main-panel-content rounded-window-bottom">
               <div class="method">
                 <div class="method-content">
-                  <a name="cartPage(B-Protin Powder Chocolate 200 g, 229, 1, Apollo Pharmacy Slim Choice Shake Strawberry 500g, 495, 1, ...)">
-                  </a> <!-- cartPage(B-Protin Powder Chocolate 200 g, 229, 1, Apollo Pharmacy Slim Choice Shake Strawberry 500g, 495, 1, ...) -->
+                  <a name="cartPage">
+                  </a> <!-- cartPage -->
                   <span class="method-name">cartPage</span>
-                  <span class="parameters">(B-Protin Powder Chocolate 200 g, 229, 1, Apollo Pharmacy Slim Choice Shake Strawberry 500g, 495, 1, 724, 495, Apollo Pharmacy Slimchoice Shake Strawberry Flavour Powder, Hyd)</span>
-                  <div class="stack-trace">org.openqa.selenium.ElementClickInterceptedException: Element &lt;div class=&quot;u-columns u-four u-text--center bg-white text-azure-two u-cursor--pointer heading-beta&quot;&gt; is not clickable at point (941,289) because another element &lt;div class=&quot;d-modal-w d-modal-w--no-animate d-modal-child--animate d-modal-child--animate-left d-modal-w--open&quot;&gt; obscures it
-Build info: version: &apos;4.0.0-alpha-2&apos;, revision: &apos;f148142cf8&apos;, time: &apos;2019-07-01T20:55:26&apos;
-System info: host: &apos;ATMECSINLT-085&apos;, ip: &apos;55.55.53.104&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_221&apos;
-Driver info: org.openqa.selenium.firefox.FirefoxDriver
-Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 69.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20190827005903, moz:geckodriverVersion: 0.24.0, moz:headless: false, moz:processID: 18044, moz:profile: C:\Users\ajith.periyasamy\A..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
-Session ID: 10082ebc-b89e-44a2-912e-cc63b370f678
-	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:191)
-	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:125)
-	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:52)
-	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:161)
-	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
-	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:576)
-	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:308)
-	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:83)
-	at org.atmecs.practo.helper.PractoHelper.clickElement(PractoHelper.java:30)
-	at org.atmecs.practo.pages.CartPage.cartPage(CartPage.java:41)
-	at org.atmecs.practo.testscripts.PractoHomepage.cartPage(PractoHomepage.java:133)
-... Removed 33 stack frames
+                  <div class="stack-trace">java.lang.IllegalStateException: The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://github.com/SeleniumHQ/selenium/wiki/ChromeDriver. The latest version can be downloaded from http://chromedriver.storage.googleapis.com/index.html
+	at com.google.common.base.Preconditions.checkState(Preconditions.java:843)
+	at org.openqa.selenium.remote.service.DriverService.findExecutable(DriverService.java:135)
+	at org.openqa.selenium.chrome.ChromeDriverService.access$000(ChromeDriverService.java:35)
+	at org.openqa.selenium.chrome.ChromeDriverService$Builder.findDefaultExecutable(ChromeDriverService.java:159)
+	at org.openqa.selenium.remote.service.DriverService$Builder.build(DriverService.java:363)
+	at org.openqa.selenium.chrome.ChromeDriverService.createDefaultService(ChromeDriverService.java:94)
+	at org.openqa.selenium.chrome.ChromeDriver.&lt;init&gt;(ChromeDriver.java:157)
+	at org.atmecs.practo.testbase.TestBase.baseSetup(TestBase.java:38)
+... Removed 28 stack frames
+</div> <!-- stack-trace -->
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="painRelief">
+                  </a> <!-- painRelief -->
+                  <span class="method-name">painRelief</span>
+                  <div class="stack-trace">java.lang.IllegalStateException: The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://github.com/SeleniumHQ/selenium/wiki/ChromeDriver. The latest version can be downloaded from http://chromedriver.storage.googleapis.com/index.html
+	at com.google.common.base.Preconditions.checkState(Preconditions.java:843)
+	at org.openqa.selenium.remote.service.DriverService.findExecutable(DriverService.java:135)
+	at org.openqa.selenium.chrome.ChromeDriverService.access$000(ChromeDriverService.java:35)
+	at org.openqa.selenium.chrome.ChromeDriverService$Builder.findDefaultExecutable(ChromeDriverService.java:159)
+	at org.openqa.selenium.remote.service.DriverService$Builder.build(DriverService.java:363)
+	at org.openqa.selenium.chrome.ChromeDriverService.createDefaultService(ChromeDriverService.java:94)
+	at org.openqa.selenium.chrome.ChromeDriver.&lt;init&gt;(ChromeDriver.java:157)
+	at org.atmecs.practo.testbase.TestBase.baseSetup(TestBase.java:38)
+... Removed 28 stack frames
+</div> <!-- stack-trace -->
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="practoPage">
+                  </a> <!-- practoPage -->
+                  <span class="method-name">practoPage</span>
+                  <div class="stack-trace">java.lang.IllegalStateException: The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://github.com/SeleniumHQ/selenium/wiki/ChromeDriver. The latest version can be downloaded from http://chromedriver.storage.googleapis.com/index.html
+	at com.google.common.base.Preconditions.checkState(Preconditions.java:843)
+	at org.openqa.selenium.remote.service.DriverService.findExecutable(DriverService.java:135)
+	at org.openqa.selenium.chrome.ChromeDriverService.access$000(ChromeDriverService.java:35)
+	at org.openqa.selenium.chrome.ChromeDriverService$Builder.findDefaultExecutable(ChromeDriverService.java:159)
+	at org.openqa.selenium.remote.service.DriverService$Builder.build(DriverService.java:363)
+	at org.openqa.selenium.chrome.ChromeDriverService.createDefaultService(ChromeDriverService.java:94)
+	at org.openqa.selenium.chrome.ChromeDriver.&lt;init&gt;(ChromeDriver.java:157)
+	at org.atmecs.practo.testbase.TestBase.baseSetup(TestBase.java:38)
+... Removed 28 stack frames
 </div> <!-- stack-trace -->
                 </div> <!-- method-content -->
               </div> <!-- method -->
             </div> <!-- main-panel-content rounded-window-bottom -->
-          </div> <!-- suite-Suite-class-failed -->
-          <div class="suite-Suite-class-passed">
-            <div class="main-panel-header rounded-window-top">
-              <img src="passed.png"/>
-              <span class="class-name">org.atmecs.practo.testscripts.PractoHomepage</span>
-            </div> <!-- main-panel-header rounded-window-top -->
-            <div class="main-panel-content rounded-window-bottom">
-              <div class="method">
-                <div class="method-content">
-                  <a name="painRelief(https://www.practo.com/health-products/pain-relief/l, Fitness &amp; Wellness Products: Buy Online at Bes...)">
-                  </a> <!-- painRelief(https://www.practo.com/health-products/pain-relief/l, Fitness & Wellness Products: Buy Online at Bes...) -->
-                  <span class="method-name">painRelief</span>
-                  <span class="parameters">(https://www.practo.com/health-products/pain-relief/l, Fitness & Wellness Products: Buy Online at Best Prices in India | Practo, "Order Medicines Online | India's most reliable medical store | Practo")</span>
-                </div> <!-- method-content -->
-              </div> <!-- method -->
-              <div class="method">
-                <div class="method-content">
-                  <a name="practoHome(Practo | Book Doctor Appointments Online, Order Medicine, Diagnostic Tests, Consult)">
-                  </a> <!-- practoHome(Practo | Book Doctor Appointments Online, Order Medicine, Diagnostic Tests, Consult) -->
-                  <span class="method-name">practoHome</span>
-                  <span class="parameters">(Practo | Book Doctor Appointments Online, Order Medicine, Diagnostic Tests, Consult)</span>
-                </div> <!-- method-content -->
-              </div> <!-- method -->
-              <div class="method">
-                <div class="method-content">
-                  <a name="practoPage(Buy Medicines,Health Products Online | India&#039;s Most Reliable Online Medical Store | Practo, Pain rel...)">
-                  </a> <!-- practoPage(Buy Medicines,Health Products Online | India's Most Reliable Online Medical Store | Practo, Pain rel...) -->
-                  <span class="method-name">practoPage</span>
-                  <span class="parameters">(Buy Medicines,Health Products Online | India's Most Reliable Online Medical Store | Practo, Pain relief Products: Buy Online at Best Prices in India | Practo)</span>
-                </div> <!-- method-content -->
-              </div> <!-- method -->
-            </div> <!-- main-panel-content rounded-window-bottom -->
-          </div> <!-- suite-Suite-class-passed -->
+          </div> <!-- suite-Suite-class-skipped -->
         </div> <!-- panel Suite -->
         <div panel-name="test-xml-Suite" class="panel">
           <div class="main-panel-header rounded-window-top">
@@ -220,7 +201,7 @@ Session ID: 10082ebc-b89e-44a2-912e-cc63b370f678
 &lt;suite guice-stage=&quot;DEVELOPMENT&quot; verbose=&quot;0&quot; name=&quot;Suite&quot;&gt;
   &lt;test thread-count=&quot;5&quot; verbose=&quot;0&quot; name=&quot;Test&quot;&gt;
     &lt;classes&gt;
-      &lt;class name=&quot;org.atmecs.practo.testscripts.PractoHomepage&quot;/&gt;
+      &lt;class name=&quot;org.atmecs.practo.testscripts.CartTest&quot;/&gt;
     &lt;/classes&gt;
   &lt;/test&gt; &lt;!-- Test --&gt;
 &lt;/suite&gt; &lt;!-- Suite --&gt;
@@ -260,28 +241,24 @@ data.addColumn('number', 'Number');
 data.addColumn('string', 'Method');
 data.addColumn('string', 'Class');
 data.addColumn('number', 'Time (ms)');
-data.addRows(4);
+data.addRows(3);
 data.setCell(0, 0, 0)
-data.setCell(0, 1, 'painRelief')
-data.setCell(0, 2, 'org.atmecs.practo.testscripts.PractoHomepage')
-data.setCell(0, 3, 6630);
+data.setCell(0, 1, 'cartPage')
+data.setCell(0, 2, 'org.atmecs.practo.testscripts.CartTest')
+data.setCell(0, 3, 0);
 data.setCell(1, 0, 1)
-data.setCell(1, 1, 'cartPage')
-data.setCell(1, 2, 'org.atmecs.practo.testscripts.PractoHomepage')
-data.setCell(1, 3, 6187);
+data.setCell(1, 1, 'painRelief')
+data.setCell(1, 2, 'org.atmecs.practo.testscripts.CartTest')
+data.setCell(1, 3, 0);
 data.setCell(2, 0, 2)
 data.setCell(2, 1, 'practoPage')
-data.setCell(2, 2, 'org.atmecs.practo.testscripts.PractoHomepage')
-data.setCell(2, 3, 5137);
-data.setCell(3, 0, 3)
-data.setCell(3, 1, 'practoHome')
-data.setCell(3, 2, 'org.atmecs.practo.testscripts.PractoHomepage')
-data.setCell(3, 3, 5105);
+data.setCell(2, 2, 'org.atmecs.practo.testscripts.CartTest')
+data.setCell(2, 3, 0);
 window.suiteTableData['Suite']= { tableData: data, tableDiv: 'times-div-Suite'}
 return data;
 }
               </script>
-              <span class="suite-total-time">Total running time: 23 seconds</span>
+              <span class="suite-total-time">Total running time: 0 ms</span>
               <div id="times-div-Suite">
               </div> <!-- times-div-Suite -->
             </div> <!-- times-div -->
@@ -307,53 +284,29 @@ return data;
           </div> <!-- main-panel-header rounded-window-top -->
           <div class="main-panel-content rounded-window-bottom">
             <div class="chronological-class">
-              <div class="chronological-class-name">org.atmecs.practo.testscripts.PractoHomepage</div> <!-- chronological-class-name -->
+              <div class="chronological-class-name">org.atmecs.practo.testscripts.CartTest</div> <!-- chronological-class-name -->
+              <div class="test-method">
+                <span class="method-name">practoPage</span>
+                <span class="method-start">0 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">painRelief</span>
+                <span class="method-start">0 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">cartPage</span>
+                <span class="method-start">0 ms</span>
+              </div> <!-- test-method -->
               <div class="configuration-suite before">
                 <span class="method-name">startReport</span>
                 <span class="method-start">0 ms</span>
               </div> <!-- configuration-suite before -->
               <div class="configuration-test before">
-                <span class="method-name">baseSetup</span>
-                <span class="method-start">273 ms</span>
-              </div> <!-- configuration-test before -->
-              <div class="test-method">
-                <span class="method-name">practoHome(Practo | Book Doctor Appointments Online, Order Medicine, Diagnostic Tests, Consult)</span>
-                <span class="method-start">11119 ms</span>
-              </div> <!-- test-method -->
-              <div class="configuration-method after">
-                <span class="method-name">tearDown([TestResult name=practoHome status=SUCCESS method=PractoHomepage.practoHome(java.lang.String)[pri:0,...)</span>
-                <span class="method-start">16226 ms</span>
-              </div> <!-- configuration-method after -->
-              <div class="test-method">
-                <span class="method-name">practoPage(Buy Medicines,Health Products Online | India's Most Reliable Online Medical Store | Practo, Pain rel...)</span>
-                <span class="method-start">16774 ms</span>
-              </div> <!-- test-method -->
-              <div class="configuration-method after">
-                <span class="method-name">tearDown([TestResult name=practoPage status=SUCCESS method=PractoHomepage.practoPage(java.lang.String, java.l...)</span>
-                <span class="method-start">21911 ms</span>
-              </div> <!-- configuration-method after -->
-              <div class="test-method">
-                <span class="method-name">painRelief(https://www.practo.com/health-products/pain-relief/l, Fitness & Wellness Products: Buy Online at Bes...)</span>
-                <span class="method-start">22288 ms</span>
-              </div> <!-- test-method -->
-              <div class="configuration-method after">
-                <span class="method-name">tearDown([TestResult name=painRelief status=SUCCESS method=PractoHomepage.painRelief(java.lang.String, java.l...)</span>
-                <span class="method-start">28918 ms</span>
-              </div> <!-- configuration-method after -->
-              <div class="test-method">
                 <img src="failed.png">
                 </img>
-                <span class="method-name">cartPage(B-Protin Powder Chocolate 200 g, 229, 1, Apollo Pharmacy Slim Choice Shake Strawberry 500g, 495, 1, ...)</span>
-                <span class="method-start">29169 ms</span>
-              </div> <!-- test-method -->
-              <div class="configuration-method after">
-                <span class="method-name">tearDown([TestResult name=cartPage status=FAILURE method=PractoHomepage.cartPage(java.lang.String, java.lang....)</span>
-                <span class="method-start">35379 ms</span>
-              </div> <!-- configuration-method after -->
-              <div class="configuration-suite after">
-                <span class="method-name">endReport</span>
-                <span class="method-start">35518 ms</span>
-              </div> <!-- configuration-suite after -->
+                <span class="method-name">baseSetup</span>
+                <span class="method-start">250 ms</span>
+              </div> <!-- configuration-test before -->
           </div> <!-- main-panel-content rounded-window-bottom -->
         </div> <!-- panel -->
       </div> <!-- main-panel-root -->
